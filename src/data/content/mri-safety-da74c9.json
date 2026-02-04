@@ -1,0 +1,38 @@
+{
+  "id": "mri-safety-da74c9",
+  "title": "MRI Safety",
+  "source": "mri-safety.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Use the MRI Safety Manual section for the full ACR manual chapters. The entries below mirror the manual headings."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Preface | MRI Safety Manual",
+        "Revision History | MRI Safety Manual",
+        "Chapter 1: Introduction | MRI Safety Manual",
+        "Chapter 2: MR Safety Policies & SOPs | MRI Safety Manual",
+        "Chapter 3: MR Safety Zones | MRI Safety Manual",
+        "Chapter 4: MR Personnel | MRI Safety Manual",
+        "Chapter 5: MR Screening | MRI Safety Manual",
+        "Chapter 6: Full Stop / Final Check | MRI Safety Manual",
+        "Chapter 7: Zone IV Exam Prep & Completion | MRI Safety Manual",
+        "Chapter 8: MRI Fields & Safety Concerns | MRI Safety Manual",
+        "Chapter 9: MR Contrast Agents | MRI Safety Manual",
+        "Chapter 10: Classification of Objects & Implants | MRI Safety Manual",
+        "Chapter 11: Portable Objects in Zones III/IV | MRI Safety Manual",
+        "Chapter 13: Physiological Monitoring | MRI Safety Manual",
+        "Chapter 14: Emergency Situations | MRI Safety Manual",
+        "Chapter 15: Special Patient & Personnel Considerations | MRI Safety Manual",
+        "Chapter 16: Alternative MR Environments | MRI Safety Manual",
+        "Appendix 1: MR Safety Policies & SOPs | MRI Safety Manual",
+        "Appendix 2: MR Facility Safety Design | MRI Safety Manual",
+        "Appendix 3: MR Facility Maintenance & Emergency Preparedness | MRI Safety Manual",
+        "Appendix 4: Implanted Device MR Risk/Safety Assessment | MRI Safety Manual",
+        "Appendix 5: Spatial Field Gradient Evaluation | MRI Safety Manual"
+      ]
+    }
+  ]
+}

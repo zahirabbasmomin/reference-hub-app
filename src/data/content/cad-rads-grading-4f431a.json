@@ -1,0 +1,115 @@
+{
+  "id": "cad-rads-grading-4f431a",
+  "title": "CAD-RADS 2.0 - Grading & Plaque Burden (Tables 1 & 2)",
+  "source": "cad-rads-grading.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sources: cad-rads/ryct.png (Table 1) and cad-rads/ryct (1).webp (Table 2)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Stenosis grading"
+    },
+    {
+      "type": "list",
+      "items": [
+        "0%: No visible stenosis",
+        "1-24%: Minimal stenosis",
+        "25-49%: Mild stenosis",
+        "50-69%: Moderate stenosis",
+        "70-99%: Severe stenosis",
+        "100%: Occluded"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Plaque burden (P1-P4)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "P1: Mild amount of plaque",
+        "P2: Moderate amount of plaque",
+        "P3: Severe amount of plaque",
+        "P4: Extensive amount of plaque"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ischemia modifier (I)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Modifier I: CT ischemia test performed via CT-FFR or myocardial CTP.",
+        "I+: Lesion-specific ischemia or reversible perfusion defect on CT-FFR/CTP.",
+        "I-: CT-FFR/CTP negative for lesion-specific ischemia or reversible ischemia.",
+        "I +/-: Borderline result on CT-FFR/CTP."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Plaque burden quantification (Table 2)"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Overall plaque",
+        "CAC",
+        "SIS*",
+        "Visual*"
+      ],
+      "rows": [
+        [
+          "P1 - Mild",
+          "1-100",
+          "<=2",
+          "1-2 vessels with mild amount of plaque"
+        ],
+        [
+          "P2 - Moderate",
+          "101-300",
+          "3-4",
+          "1-2 vessels with moderate amount; 3 vessels with mild amount of plaque"
+        ],
+        [
+          "P3 - Severe",
+          "301-999",
+          "5-7",
+          "3 vessels with moderate amount; 1 vessel with severe amount of plaque"
+        ],
+        [
+          "P4 - Extensive",
+          ">1000",
+          ">=8",
+          "2-3 vessels with severe amount of plaque"
+        ]
+      ],
+      "uniform": true,
+      "cellWidth": 200,
+      "cellHeight": 140,
+      "maxLines": 6
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "CAD-RADS 0 denotes absence of stenosis or plaque; P0 is not required.",
+        "If plaque burden scores disagree, prefer CAC (Coronary Artery Calcium) or total plaque burden quantification when available.",
+        "SIS = Segment Involvement Score.",
+        "No single method is mandated; use the technique best suited to your practice.",
+        "Patients with prior myocardial infarction and fixed perfusion defects without ischemia on CTP are classified as I-; document prior infarct in the impression.",
+        "Visual examples referenced in the article (Figures 2-6)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "o-rads-mri-df9410",
+  "title": "O-RADS MRI",
+  "source": "o-rads-mri.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: ACR O-RADS MRI Risk Score Assessment and Management (PDF)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Applies to adnexal (ovarian/tubal) masses in non-pregnant patients; score 1-5 reflects malignancy risk and guides management.",
+        "Score is driven by morphology, presence and behavior of enhancing solid tissue, DWI signal, and time-intensity curve (TIC) relative to outer myometrium.",
+        "Typical benign descriptors (score 2) override higher scores; physiologic findings are score 1.",
+        "DWI: high if solid tissue signal is > endometrium on high b-value (>=800) and shows low ADC; low if <= myometrium with no ADC restriction.",
+        "TIC (solid tissue vs outer myometrium): Type 1 progressive; Type 2 plateau; Type 3 washout (faster than myometrium).",
+        "Solid tissue includes papillary projections, mural nodules, septations >=3 mm that enhance, or other enhancing soft tissue components."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "O-RADS MRI Risk Score"
+    },
+    {
+      "type": "paragraph",
+      "text": "Risk categories, PPV bands, and management."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Classic Benign Lesions (Score 2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If present, classify as score 2 regardless of TIC/DWI."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Solid Tissue Decision Guide"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assign score for masses with enhancing solid tissue (papillae, mural nodules, septa >=3 mm)."
+    },
+    {
+      "type": "paragraph",
+      "text": "TIC reference: compare to outer myometrium. High DWI: b>=800 signal > endometrium with corresponding low ADC. Low DWI: <= myometrium and no low ADC. Solid tissue includes papillary projections, mural nodules, septa >=3 mm, or other enhancing components."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Management by Score"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quick Workflow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use morphology to capture classic benign lesions; otherwise score solid tissue with TIC and DWI, then manage per O-RADS MRI 1-5."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting Tips"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Describe lesion type (cystic, multilocular, solid), solid tissue components, TIC type, and DWI/ADC behavior.",
+        "State O-RADS MRI score and rationale (classic benign descriptor, TIC/DWI combination, or ancillary malignant features).",
+        "Recommend management per score and note if gynecologic oncology consultation is advised (scores 4-5)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Source"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR O-RADS MRI Risk Score Assessment and Management. PDF: link."
+    }
+  ]
+}

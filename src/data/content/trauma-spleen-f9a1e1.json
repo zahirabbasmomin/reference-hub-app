@@ -1,0 +1,15 @@
+{
+  "id": "trauma-spleen-f9a1e1",
+  "title": "Spleen Injury Grading",
+  "source": "trauma-spleen.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matches grade, injury type, or description."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading injury table..."
+    }
+  ]
+}

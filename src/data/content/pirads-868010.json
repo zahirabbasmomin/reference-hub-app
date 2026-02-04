@@ -1,0 +1,41 @@
+{
+  "id": "pirads-868010",
+  "title": "PI-RADS Calculator",
+  "source": "pirads.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Embedded calculator from prostate-mri.ch."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use in conjunction with PI-RADS v2.1 lexicon and structured reporting.",
+        "Confirm peripheral vs transitional zone before applying decision rules."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculator Embed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Loaded directly from prostate-mri.ch (network required)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Disclaimer"
+    },
+    {
+      "type": "paragraph",
+      "text": "For educational use only; does not replace clinical judgment or specialist consultation."
+    }
+  ]
+}

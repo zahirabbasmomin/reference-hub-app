@@ -1,0 +1,11 @@
+{
+  "id": "paulding-hospital-5dee8a",
+  "title": "Paulding Hospital",
+  "source": "paulding-hospital.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Loading directory..."
+    }
+  ]
+}

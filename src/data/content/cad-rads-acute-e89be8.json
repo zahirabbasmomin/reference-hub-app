@@ -1,0 +1,101 @@
+{
+  "id": "cad-rads-acute-e89be8",
+  "title": "CAD-RADS 2.0 - Acute Chest Pain (Table 5)",
+  "source": "cad-rads-acute.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: cad-rads/images_ryct.220183.tbl5.png. Content transcribed to keep it searchable and responsive."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Table 5: Acute chest pain recommendations"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Category",
+        "Degree of maximal coronary stenosis",
+        "Interpretation",
+        "Cardiac investigation",
+        "Management considerations"
+      ],
+      "rows": [
+        [
+          "CAD-RADS 0",
+          "0%",
+          "ACS highly unlikely",
+          "- No further evaluation of ACS is required.\n- If Tn (+) consider other sources of increased troponin (see Table 9).",
+          "- Reassurance."
+        ],
+        [
+          "CAD-RADS 1",
+          "1-24% (Minimal stenosis or plaque with no stenosis)",
+          "ACS unlikely",
+          "- No further evaluation of ACS is required.\n- If Tn (+) consider other sources of increased troponin (see Table 9).",
+          "- P1 or P2: Referral for outpatient follow-up for risk factor modification and preventive pharmacotherapy.\n- P3 or P4: Referral for outpatient follow-up for aggressive risk factor modification and preventive pharmacotherapy."
+        ],
+        [
+          "CAD-RADS 2",
+          "25-49% (Mild stenosis)",
+          "ACS less likely",
+          "- No further evaluation of ACS is required.\n- If clinical suspicion of ACS is high, Tn (+) or HRP features, consider hospital admission with cardiology consultation.",
+          "- P1 or P2: Referral for outpatient follow-up for risk factor modification and preventive pharmacotherapy.\n- P3 or P4: Referral for outpatient follow-up for aggressive risk factor modification and preventive pharmacotherapy."
+        ],
+        [
+          "CAD-RADS 3",
+          "50-69% (Moderate stenosis)",
+          "ACS possible",
+          "- Consider hospital admission with cardiology consultation.\n- Consider functional assessment.",
+          "- P1, P2, P3 or P4: Preventive management, including aggressive preventive pharmacotherapy. Other treatments, including anti-anginal therapy, should be considered per guideline directed care.\n- When modifier I+, consider ICA."
+        ],
+        [
+          "CAD-RADS 4A/4B",
+          "A 70-99% stenosis / B: Left main >=50% or 3-VD",
+          "ACS likely",
+          "- Hospital admission with cardiology consultation.\n- A: Consider ICA or functional assessment.\n- B: ICA is recommended.",
+          "- P1, P2, P3 or P4: Preventive management, including aggressive preventive pharmacotherapy.\n- Other treatments, including anti-anginal therapy and options of revascularization, should be considered per guideline directed care."
+        ],
+        [
+          "CAD-RADS 5",
+          "100% (total occlusion)",
+          "ACS very likely",
+          "- Hospital admission with cardiology consultation.\n- Expedited ICA and revascularization if suspected acute occlusion.",
+          "- P1, P2, P3 or P4: Preventive management, including aggressive preventive pharmacotherapy.\n- Other treatments, including anti-anginal therapy and options of revascularization, should be considered per guideline directed care."
+        ],
+        [
+          "CAD-RADS N",
+          "Non-diagnostic study",
+          "ACS cannot be excluded",
+          "- Additional or alternative evaluation for ACS is needed.",
+          "- Additional or alternative evaluation as needed."
+        ]
+      ],
+      "uniform": true,
+      "cellWidth": 200,
+      "cellHeight": 140,
+      "maxLines": 6
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Notes & Footnotes"
+    },
+    {
+      "type": "paragraph",
+      "text": "CAD-RADS classification should be applied per patient for the clinically most relevant (usually highest-grade) stenosis. All vessels >1.5 mm in diameter should be graded for stenosis severity; CAD-RADS does not apply to smaller vessels."
+    },
+    {
+      "type": "list",
+      "items": [
+        "CAD-RADS 1: Includes the presence of plaque with positive remodeling and no evidence of stenosis.",
+        "Functional assessment: CT-FFR, CTP, stress testing (ETT, stress echocardiogram, SPECT, PET, Cardiac MRI) or invasive FFR.",
+        "Guideline-directed care: Per 2021 AHA/ACC Chest Pain Guideline, 2012 ACC/AHA guideline for stable ischemic heart disease, and 2019 ACC/AHA Prevention Guidelines.",
+        "ICA considerations: ICA may be favored if high-grade stenosis (>90%), high-risk plaque features, or I+ (lesion-specific ischemia on CT-FFR or perfusion defects by CTP), or for coronary stenosis in bypass grafts. Revascularization should be reserved for patients with persistent symptoms despite guideline-directed medical therapy.",
+        "Acute occlusion note: If the total coronary occlusion can be identified as chronic (through CT and clinical characteristics or patient history), expedited revascularization may not be required.",
+        "Abbreviations: ACS = acute coronary syndrome; HRP = high-risk plaque; Tn = troponin; CAD = coronary artery disease; ICA = invasive coronary angiography."
+      ]
+    }
+  ]
+}

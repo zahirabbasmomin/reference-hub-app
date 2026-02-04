@@ -1,0 +1,15 @@
+{
+  "id": "trauma-pancreas-2e1eb4",
+  "title": "Pancreas Injury Grading",
+  "source": "trauma-pancreas.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matches grade, injury type, or description."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading injury table..."
+    }
+  ]
+}

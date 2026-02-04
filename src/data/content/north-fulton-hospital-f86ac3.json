@@ -1,0 +1,11 @@
+{
+  "id": "north-fulton-hospital-f86ac3",
+  "title": "North Fulton Hospital",
+  "source": "north-fulton-hospital.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Loading directory..."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "contrast-f0e763",
+  "title": "Contrast Reaction Reference",
+  "source": "contrast.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Adult and pediatric regimens, extravasation care, and reaction management."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adult"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Premedication"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Methylprednisolone 32 mg PO at 12 and 2 hours prior +/- Diphenhydramine 50 mg PO 1 hour prior.",
+        "Prednisone 50 mg PO at 13, 7, and 1 hours prior +/- Diphenhydramine 50 mg PO 1 hour prior.",
+        "Hydrocortisone 200 mg IV at 5 hours and 1 hour prior + Diphenhydramine 50 mg IV 1 hour prior (urgent settings: NPO/ER/inpatient)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Extravasation"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Elevate arm to heart level, apply cool compress, remove rings or tight items.",
+        "Observe; consider surgical consult if decreased perfusion, sensation, strength, range of motion, or increasing pain.",
+        "Observation: monitor vitals every 15 minutes; preserve IV access.",
+        "If associated with hypotension or respiratory distress, treat as anaphylaxis: O2 6-10 L/min by face mask; IV 0.9% NS wide open; elevate legs >60 degrees; epinephrine 0.3 mL of 1 mg/mL IM (or autoinjector) OR 1 mL of 1 mg/10 mL (0.1 mg/mL) IV with flush/IV fluids; call 911/code.",
+        "If only skin findings but severe/progressive, consider Diphenhydramine 50 mg PO/IM/IV (may worsen hypotension).",
+        "Document reaction and monitor for recurrence post-treatment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hives / Diffuse Erythema"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Observe; monitor vitals; preserve IV access.",
+        "If progression or hypotension/respiratory distress, treat as anaphylaxis (see below).",
+        "Consider Diphenhydramine 50 mg PO/IM/IV for significant skin symptoms (may worsen hypotension)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hypotension with Tachycardia / Anaphylaxis; Laryngeal Edema (inspiratory stridor); Bronchospasm (expiratory wheeze)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "O2 6-10 L/min by face mask.",
+        "IV 0.9% NS wide open; elevate legs >60 degrees.",
+        "Epinephrine 0.3 mL of 1 mg/mL IM (or autoinjector) OR 1 mL of 1 mg/10 mL (0.1 mg/mL) IV with flush/IV fluids.",
+        "Activate emergency response / call 911 or Code Blue.",
+        "Document reaction and monitor for recurrence post-treatment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hypotension with Bradycardia"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Manage as above (anaphylaxis protocol) and follow institutional code response."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Doses/steps reflect text visible in the provided adult contrast reaction PDF; verify locally for completeness.",
+        "Avoid Diphenhydramine if hypotension is present or worsening."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pediatric"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Premedication"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Prednisone 0.5-0.7 mg/kg PO (max 50 mg) + Diphenhydramine 1 mg/kg PO (max 50 mg) 1 hour prior.",
+        "Hydrocortisone 2 mg/kg IV (max 200 mg) + Diphenhydramine 1 mg/kg IV/IM/PO (max 50 mg) 1 hour prior.",
+        "Use urgent regimen for NPO/ER/inpatient settings."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Extravasation"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Elevate arm to heart level, apply cool compress, remove rings or tight items.",
+        "Observe; consider surgical consult if decreased perfusion, sensation, strength, range of motion, or increasing pain.",
+        "Observation: monitor vitals every 15 minutes; preserve IV access.",
+        "If associated with hypotension or respiratory distress, treat as anaphylaxis: O2 6-10 L/min by face mask; IV 0.9% NS 10-20 mL/kg (max 500-1000 mL); elevate legs >60 degrees; epinephrine IV or IM or autoinjector; call 911/code.",
+        "If only skin findings but severe/progressive, consider Diphenhydramine 1 mg/kg PO/IM/IV (max 50 mg).",
+        "Document reaction and monitor for recurrence post-treatment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hives / Diffuse Erythema"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Observe; monitor vitals; preserve IV access.",
+        "If progression or hypotension/respiratory distress, treat as anaphylaxis (see below).",
+        "Consider Diphenhydramine 1 mg/kg PO/IM/IV (max 50 mg) for significant skin symptoms (may worsen hypotension)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hypotension with Tachycardia / Anaphylaxis; Laryngeal Edema (inspiratory stridor); Bronchospasm (expiratory wheeze)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "O2 6-10 L/min by face mask.",
+        "IV 0.9% NS 10-20 mL/kg (max 500-1000 mL); elevate legs >60 degrees.",
+        "Epinephrine IV or IM or autoinjector (per weight-based dosing/protocol).",
+        "Activate emergency response / call 911 or Code Blue.",
+        "Document reaction and monitor for recurrence post-treatment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hypotension with Bradycardia"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Manage per anaphylaxis protocol and follow institutional pediatric code response."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Doses/steps reflect text visible in the provided pediatric contrast reaction PDF; verify locally for completeness.",
+        "Avoid Diphenhydramine if hypotension is present or worsening."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: Contrast Reaction Adult.pdf & Contrast Reaction Pediatric.pdf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Last updated: from provided PDFs."
+    }
+  ]
+}

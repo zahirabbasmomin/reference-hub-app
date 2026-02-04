@@ -1,0 +1,906 @@
+{
+  "id": "managing-incidental-findings-on-thoracic-ct-lung-findings-01808c",
+  "title": "Managing Incidental Findings on Thoracic CT: Lung Findings. A White Paper of the ACR Incidental Findings Committee - Journal of the American College of Radiology",
+  "source": "Managing Incidental Findings on Thoracic CT_ Lung Findings.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Login to your account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't remember your password, you can reset it by entering your email address and clicking the Reset Password button. You will then receive an email that contains a secure link for resetting your password"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the address matches a valid account an email will be sent to __email__ with instructions for resetting your password"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Property",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Status"
+        ],
+        [
+          "Version"
+        ],
+        [
+          "Ad File"
+        ],
+        [
+          "Disable Ads Flag"
+        ],
+        [
+          "Environment"
+        ],
+        [
+          "Moat Init"
+        ],
+        [
+          "Moat Ready"
+        ],
+        [
+          "Contextual Ready"
+        ],
+        [
+          "Contextual URL"
+        ],
+        [
+          "Contextual Initial Segments"
+        ],
+        [
+          "Contextual Used Segments"
+        ],
+        [
+          "AdUnit"
+        ],
+        [
+          "SubAdUnit"
+        ],
+        [
+          "Custom Targeting"
+        ],
+        [
+          "Ad Events"
+        ],
+        [
+          "Invalid Ad Sizes"
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_01c3ee9943",
+      "alt": "Cover Image - Journal of the American College of Radiology, Volume 18, Issue 9"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Email",
+        "X",
+        "Facebook",
+        "LinkedIn",
+        "Sina Weibo",
+        "Add to Mendeley",
+        "bluesky"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Email",
+        "X",
+        "Facebook",
+        "LinkedIn",
+        "Sina Weibo",
+        "Add to Mendeley",
+        "Bluesky"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download PDFDownload PDF",
+        "Cite",
+        "Set Alert",
+        "Get Rights",
+        "Reprints"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Download started"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key Words"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Incidental",
+        "interstitial lung abnormalities",
+        "lung cysts",
+        "pulmonary nodule"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview of the ACR Incidental Findings Project"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Consensus Process: Management of Incidental Lung Findings"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Elements of the Flowcharts: Color Coding"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7f4e4591bd",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1 Incidental, asymptomatic solid nodule. Flowchart for evaluation of an incidentally detected solid pulmonary nodule. (1) The recommendations are offered as general guidance and do not apply to all patients. (2) Limited life expectancy and comorbidities that increase the risk of treatment or are more likely to cause morbidity and mortality than the suspected lung cancer, given the nodule size. (3) Risk based on relevant patient risk factors as per Fleischner criteria. (4) Size in millimeters is defined as the average of long- and short-axis diameters, both of which should be obtained in the same transverse, coronal, or sagittal reconstructed images. (5) Chest CT should be noncontrast and use low-dose technique."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3325a65c67",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2 Incidental, asymptomatic multiple solid nodules. Flowchart for incidentally detected multiple solid pulmonary nodules. (1) The recommendations are offered as general guidance and do not apply to all patients. (2) Limited life expectancy and comorbidities that increase the risk of treatment or are more likely to cause morbidity and mortality than the suspected lung cancer, given the nodule size. (3) Risk based on relevant patient risk factors as per Fleischner criteria. (4) Size in millimeters is defined as the average of long- and short-axis diameters, both of which should be obtained in the same transverse, coronal, or sagittal reconstructed images. (5) Chest CT should be noncontrast and use low-dose technique. Note: For multiple nodules, management is based on the largest or most concerning nodule."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d0cd230c62",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 3 Incidental, asymptomatic solitary or multiple ground glass or part-solid nodule(s). Flowchart for incidentally detected solitary or multiple ground glass or part-solid pulmonary nodule(s). (1) The recommendations are offered as general guidance and do not apply to all patients. (2) Limited life expectancy and comorbidities that increase the risk of treatment or are more likely to cause morbidity and mortality than the suspected lung cancer, given the nodule size. (3) Size in millimeters is defined as the average of long- and short-axis diameters, both of which should be obtained in the same transverse, coronal, or sagittal reconstructed images. (4) Chest CT should be noncontrast and use low-dose technique. Note: For multiple nodules, management is based on the largest or most concerning nodule."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_5f1bd1f478",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 4 Incidental, asymptomatic pulmonary cysts. Flowchart for evaluation of an incidentally detected pulmonary cyst(s). (1) The recommendations are offered as general guidance and do not apply to all patients. LAM = lymphangioleiomyomatosis; LIP = lymphoid interstitial pneumonia; PLCH = pulmonary Langerhans cell histiocystosis."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_25f19f7f3f",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 5 Incidental, asymptomatic ground glass opacities. Flowchart for evaluation of incidentally detected ground glass opacities. (1) The recommendations are offered as general guidance and do not apply to all patients. DIP = desquamative interstitial pneumonia; NSIP = nonspecific interstitial pneumonia."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2591fd50fa",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 6 Incidental, asymptomatic reticular opacities. Flowchart for evaluation of incidentally detected reticular opacities. (1) The recommendations are offered as general guidance and do not apply to all patients. (2) Additional findings such as diffuse nodules, predominant ground glass opacity, and cysts. ILA = interstitial lung abnormalities; NSIP = nonspecific interstitial pneumonia; UIP = usual interstitial pneumonia."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inclusion and Exclusion Criteria"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Imaging Protocol Optimization"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part I: Lung Nodules"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Relevant Patient Populations"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nature and Scope of the Problem"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reporting Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Overview"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Additional Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Implications of Imaging and Clinical Features"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Common Principles of Our Algorithm (Figs. 1-3)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Revised Fleischner Society Guidelines [33.MacMahon, H. Naidich, D.P. Goo, J.M. ...Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner Society 2017Radiology. 2017; 284:228-243CrossrefScopus (1610)PubMedGoogle Scholar]"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "A: Solid Nodules"
+      ],
+      "rows": [
+        [
+          "Nodule Type",
+          "Size",
+          "Comments"
+        ],
+        [
+          "<6 mm (<100 mm3)",
+          "6-8 mm (100-250 mm3)",
+          ">8 mm (>250 mm3)"
+        ],
+        [
+          "Single"
+        ],
+        [
+          "Low risk",
+          "No routine followup",
+          "CT at 6-12 months, then consider CT at 18-24 months",
+          "Consider CT at 3 months, PET/CT or tissue sampling",
+          "Nodules <6 mm do not require routine followup in low-risk patients (recommendation 1A)"
+        ],
+        [
+          "High risk",
+          "Optional CT at 12 mo",
+          "CT at 6-12 mo, then CT at 18-24 mo",
+          "Consider CT at 3 mo, PET/CT, or tissue sampling",
+          "Certain patients at high risk with suspicious nodule morphology, upper lobe location, or both may warrant 12-mo followup (recommendation 1A)."
+        ],
+        [
+          "Multiple"
+        ],
+        [
+          "Low risk",
+          "No routine followup",
+          "CT at 3-6 mo, then consider CT at 18-24 mo",
+          "CT at 3-6 mo, then consider CT at 18-24 mo",
+          "Use most suspicious nodule as guide to management; followup intervals may vary according to size and risk (recommendation 2A)."
+        ],
+        [
+          "High risk",
+          "Optional CT at 12 months",
+          "CT at 3-6 months, then at 18-24 months",
+          "CT at 3-6 months, then at 18-24",
+          "Use most suspicious nodule as guide to months management; followup intervals may vary according to size and risk (recommendation 2A)."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "columns": [
+        "B: Subsolid Nodules"
+      ],
+      "rows": [
+        [
+          "Nodule Type",
+          "Size",
+          "Comments"
+        ],
+        [
+          "<6 mm (<100 mm3)",
+          ">=6 mm (.100 mm3)"
+        ],
+        [
+          "Single"
+        ],
+        [
+          "Ground glass",
+          "No routine followup",
+          "CT at 6-12 mo to confirm persistence, then CT every 2 y until 5 y",
+          "For certain suspicious nodules <6 mm, consider follow-up at 2 y and 4 y; if solid component(s) develops or growth occurs, consider resection (recommendations 3A and 4A)."
+        ],
+        [
+          "Part solid",
+          "No routine followup",
+          "CT at 3-6 mo to confirm persistence; if unchanged and solid component remains <6 mm, annual CT should be performed for 5 y.",
+          "In practice, part-solid nodules cannot be defined as such until they are >=6 mm, and nodules <6 mm usually do not require follow-up; persistent part-solid nodules with a solid components >=6 mm should be considered highly suspicious (recommendations 4A-4C)"
+        ],
+        [
+          "Multiple",
+          "CT at 3-6 mo; if stable, consider CT at 2 and 4 y.",
+          "CT at 3-6 mo; subsequent management based on the most suspicious nodule(s).",
+          "Multiple <6 mm pure ground-glass nodules are usually benign, but consider follow-up at 2 y and 4 y in selected patients at high risk (recommendation 5A)."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Open table in a new tab"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part II: Other Lung Findings"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pulmonary Cyst"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nature and Scope of the Problem"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Reporting Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Implications of Imaging and Clinical Features"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ground Glass Opacity"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nature and Scope of the Problem"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Reporting Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Implications of Imaging and Clinical Features"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interlobular Septal Thickening and Reticular Opacities"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nature and Scope of the Problem"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reporting Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Implications of Imaging and Clinical Features"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Take-Home Points"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Additional Resources"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Figures (6)Figure Viewer"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7f4e4591bd",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3325a65c67",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d0cd230c62",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_5f1bd1f478",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_25f19f7f3f",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2591fd50fa",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Article metrics"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_564b7bd91f",
+      "alt": "Plum X logo"
+    },
+    {
+      "type": "list",
+      "items": [
+        "37 Citations 37 Captures 1 Mentions View details opens in a new tab"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Related articles (40)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Berland et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Munden et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patel et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Khosa et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Heller et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sebastian et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patel et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hoang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Mayo-Smith et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Gore et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Herts et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hoang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Berland et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Megibow et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lincoln L. Berland"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lee et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moonis et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dyer et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abu-Yousef et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Bobbin et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Paulson et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lincoln L. Berland"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kapoor et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moore et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Samim et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Johnson et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Melzer et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Stephen D. Brown"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Borra et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Verdini et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Shah et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Baccei et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Zygmont et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nguyen et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Crable et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Loftus et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hansra et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Smith et al."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7f4e4591bd",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3325a65c67",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d0cd230c62",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_5f1bd1f478",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_25f19f7f3f",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2591fd50fa",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7f4e4591bd",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3325a65c67",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d0cd230c62",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_5f1bd1f478",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_25f19f7f3f",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2591fd50fa",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fig. 1",
+        "Fig. 2",
+        "Fig. 3",
+        "Fig. 4",
+        "Fig. 5",
+        "Fig. 6"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download .PPT"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The content on this site is intended for healthcare professionals."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Privacy Policy",
+        "Terms and Conditions",
+        "Accessibility",
+        "Help & Contact"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_cf73725330",
+      "alt": "RELX"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_75a0093533",
+      "alt": "Company Logo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cookie Preference Center"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2aceac2d4a",
+      "alt": "Cookie Settings | Your Privacy Choices"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Manage Consent Preferences"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Strictly Necessary Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Functional Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Performance Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Targeting Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cookie List"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c54c94c8d4",
+      "alt": "Powered by Onetrust"
+    }
+  ]
+}

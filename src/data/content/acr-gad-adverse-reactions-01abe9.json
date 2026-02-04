@@ -1,0 +1,20 @@
+{
+  "id": "acr-gad-adverse-reactions-01abe9",
+  "title": "Adverse Reactions to GBCM | ACR Contrast Manual",
+  "source": "acr-gad-adverse-reactions.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from acr_contrast.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section: ADVERSE REACTIONS TO GADOLINIUM-BASED CONTRAST MEDIA"
+    }
+  ]
+}

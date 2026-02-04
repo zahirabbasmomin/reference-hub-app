@@ -1,0 +1,1336 @@
+{
+  "adrenal-mass": {
+    "title": "Incidental Adrenal Mass (>=1 cm)",
+    "subtitle": "Detected on CT or MR",
+    "image": "incidental adrenal mass on ct.jpg",
+    "legend": [
+      "If patient has clinical signs or symptoms of adrenal hyperfunction, consider biochemical evaluation.",
+      "Consider biochemical testing to exclude pheochromocytoma.",
+      "Benign imaging features = homogeneous, low density, smooth margins.",
+      "Suspicious imaging features = heterogeneous, necrosis, irregular margins.",
+      "APW = Absolute Percentage Washout; RPW = Relative Percentage Washout; HU = Hounsfield Unit; CS-MR = Chemical Shift MRI."
+    ],
+    "root": {
+      "text": "Incidental adrenal mass (>=1 cm) on CT/MR",
+      "children": [
+        {
+          "text": "Imaging features are diagnostic",
+          "children": [
+            {
+              "text": "Myelolipoma, calcified -> benign",
+              "outcome": "Benign, no follow-up"
+            },
+            {
+              "text": "HU <=10 or v signal on CS-MR = adenoma",
+              "outcome": "Benign, no follow-up"
+            }
+          ]
+        },
+        {
+          "text": "Imaging features not diagnostic",
+          "children": [
+            {
+              "text": ">4 cm",
+              "children": [
+                {
+                  "text": "No history of cancer",
+                  "outcome": "Consider resection"
+                },
+                {
+                  "text": "History of cancer",
+                  "outcome": "Consider PET or biopsy"
+                }
+              ]
+            },
+            {
+              "text": "1-4 cm",
+              "children": [
+                {
+                  "text": "Prior imaging",
+                  "children": [
+                    {
+                      "text": "Stable >=1 year",
+                      "outcome": "Benign"
+                    },
+                    {
+                      "text": "Lesion enlarging",
+                      "outcome": "Concerning for malignancy; consider biopsy or resection"
+                    }
+                  ]
+                },
+                {
+                  "text": "No prior imaging, no history of cancer",
+                  "children": [
+                    {
+                      "text": "Benign imaging features -> presume benign",
+                      "outcome": "Consider 12 month follow-up CT or MR"
+                    },
+                    {
+                      "text": "Suspicious imaging features",
+                      "children": [
+                        {
+                          "text": "Unenhanced CT or CS-MR",
+                          "children": [
+                            {
+                              "text": "HU <=10 or v signal on CS-MR",
+                              "outcome": "Adenoma"
+                            },
+                            {
+                              "text": "HU >10 or no v signal on CS-MR",
+                              "children": [
+                                {
+                                  "text": "Adrenal washout CT",
+                                  "children": [
+                                    {
+                                      "text": "No enhancement (<=10 HU)",
+                                      "outcome": "Cyst or hemorrhage; benign, no follow-up"
+                                    },
+                                    {
+                                      "text": "APW/RPW >=60/40%",
+                                      "outcome": "Adenoma"
+                                    },
+                                    {
+                                      "text": "APW/RPW <60/40%",
+                                      "outcome": "Biopsy if appropriate or consider CS-MR if not done"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "No prior imaging, history of cancer",
+                  "children": [
+                    {
+                      "text": "Consider PET or unenhanced CT/CS-MR",
+                      "children": [
+                        {
+                          "text": "HU <=10 or v signal on CS-MR",
+                          "outcome": "Adenoma"
+                        },
+                        {
+                          "text": "HU >10 or no v signal on CS-MR",
+                          "children": [
+                            {
+                              "text": "Adrenal washout CT",
+                              "children": [
+                                {
+                                  "text": "No enhancement (<=10 HU)",
+                                  "outcome": "Cyst or hemorrhage; benign, no follow-up"
+                                },
+                                {
+                                  "text": "APW/RPW >=60/40%",
+                                  "outcome": "Adenoma"
+                                },
+                                {
+                                  "text": "APW/RPW <60/40%",
+                                  "outcome": "Biopsy if appropriate or consider CS-MR if not done"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "adrenal-findings": {
+    "title": "Incidental Adrenal Mass (>=1 cm)",
+    "subtitle": "Asymptomatic, detected on CT or MR",
+    "image": "Management of Incidental Adrenal Masses_files/gr1.jpg",
+    "figureNote": "Figure 1 from PIIS1546144017305513.",
+    "legend": [
+      "Consider biochemical assays to determine functional status and exclude pheochromocytoma before biopsy/resection.",
+      "\"No enhancement\" applies only when both noncontrast and contrast imaging are available.",
+      "\"Isolated\" means no other metastatic disease identified.",
+      "Adrenal CT may use chemical-shift MRI (CS-MR).",
+      "APW = absolute percentage washout; RPW = relative percentage washout; HU = Hounsfield units; NCCT = noncontrast CT; F/U = follow-up; Hx = history; Ca++ = calcification."
+    ],
+    "root": {
+      "text": "Incidental, asymptomatic adrenal mass (>=1 cm) on CT/MR",
+      "children": [
+        {
+          "text": "Diagnostic benign imaging features",
+          "outcome": "Benign, no follow-up",
+          "children": [
+            {
+              "text": "Myelolipoma"
+            },
+            {
+              "text": "No enhancement on CT"
+            },
+            {
+              "text": "Calcification (Ca++)"
+            },
+            {
+              "text": "<=10 HU or signal drop on CS-MR"
+            }
+          ]
+        },
+        {
+          "text": "Indeterminate imaging features",
+          "children": [
+            {
+              "text": ">=4 cm",
+              "children": [
+                {
+                  "text": "No cancer history",
+                  "outcome": "Consider resection"
+                },
+                {
+                  "text": "Cancer history",
+                  "outcome": "Consider biopsy or PET-CT"
+                }
+              ]
+            },
+            {
+              "text": ">=1 to <4 cm",
+              "children": [
+                {
+                  "text": "Prior imaging",
+                  "children": [
+                    {
+                      "text": "Stable >=1 year",
+                      "outcome": "Benign, no follow-up"
+                    },
+                    {
+                      "text": "New or enlarging",
+                      "children": [
+                        {
+                          "text": "No cancer history",
+                          "outcome": "Consider follow-up adrenal CT or resection"
+                        },
+                        {
+                          "text": "Cancer history",
+                          "outcome": "Consider biopsy or PET-CT"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "No prior imaging, no cancer history",
+                  "children": [
+                    {
+                      "text": "1-2 cm, probably benign",
+                      "outcome": "Consider 12-month follow-up adrenal CT"
+                    },
+                    {
+                      "text": ">2 cm, <4 cm",
+                      "children": [
+                        {
+                          "text": "Adrenal CT",
+                          "children": [
+                            {
+                              "text": "Reduced-dose NCCT <=10 HU",
+                              "outcome": "Benign adenoma, no follow-up"
+                            },
+                            {
+                              "text": "NCCT >10 HU",
+                              "children": [
+                                {
+                                  "text": "Adrenal CT washout",
+                                  "children": [
+                                    {
+                                      "text": "No enhancement (<10 HU)",
+                                      "outcome": "Cyst or hemorrhage; benign, no follow-up"
+                                    },
+                                    {
+                                      "text": "APW/RPW >=60/40%",
+                                      "outcome": "Benign adenoma, no follow-up"
+                                    },
+                                    {
+                                      "text": "APW/RPW <60/40%",
+                                      "outcome": "Imaging follow-up, biopsy, PET-CT, or resection depending on scenario"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "No prior imaging, cancer history, isolated adrenal mass",
+                  "children": [
+                    {
+                      "text": "Adrenal CT",
+                      "children": [
+                        {
+                          "text": "Reduced-dose NCCT <=10 HU",
+                          "outcome": "Benign adenoma, no follow-up"
+                        },
+                        {
+                          "text": "NCCT >10 HU",
+                          "children": [
+                            {
+                              "text": "Adrenal CT washout",
+                              "children": [
+                                {
+                                  "text": "No enhancement (<10 HU)",
+                                  "outcome": "Cyst or hemorrhage; benign, no follow-up"
+                                },
+                                {
+                                  "text": "APW/RPW >=60/40%",
+                                  "outcome": "Benign adenoma, no follow-up"
+                                },
+                                {
+                                  "text": "APW/RPW <60/40%",
+                                  "outcome": "Imaging follow-up, biopsy, PET-CT, or resection depending on scenario"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "thoracic-incidental-mediastinal-node": {
+    "title": "Incidental Mediastinal Lymph Node",
+    "subtitle": "Asymptomatic incidental mediastinal lymph node (Figure 1 from thoracic CT guidelines).",
+    "image": "downloaded_articles/downloaded_articles/Managing Incidental Findings on Thoracic CT Mediastinal and Cardiovascular Findings_files/gr1.jpg",
+    "legend": [
+      "Short axis <15 mm or benign texture = no further work-up",
+      "Short axis >=15 mm with explainable disease = manage per disease",
+      "Short axis >=15 mm without explainable disease = consult/PET-CT/3-6 mo CT"
+    ],
+    "root": {
+      "text": "Incidental, asymptomatic mediastinal lymph node",
+      "children": [
+        {
+          "text": "Short axis < 15 mm or benign texture features",
+          "outcome": "No further work-up"
+        },
+        {
+          "text": "Short axis >= 15 mm",
+          "children": [
+            {
+              "text": "Explainable disease",
+              "outcome": "Further management depends on disease"
+            },
+            {
+              "text": "No explainable disease",
+              "children": [
+                {
+                  "text": "Clinical consultation and/or PET/CT and/or 3-6 month follow-up chest CT"
+                },
+                {
+                  "text": "On follow-up: Increased size",
+                  "outcome": "PET/CT or biopsy"
+                },
+                {
+                  "text": "On follow-up: Stable or decreased size",
+                  "outcome": "No further work-up"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "thoracic-incidental-mediastinal-mass": {
+    "title": "Incidental Mediastinal Mass",
+    "subtitle": "Asymptomatic mediastinal mass (Figure 2 from thoracic CT guidelines).",
+    "image": "downloaded_articles/downloaded_articles/Managing Incidental Findings on Thoracic CT Mediastinal and Cardiovascular Findings_files/gr2.jpg",
+    "legend": [
+      "Anterior/middle compartment: cystic vs not cystic",
+      "Posterior compartment: MRI"
+    ],
+    "root": {
+      "text": "Incidental, asymptomatic mediastinal mass",
+      "children": [
+        {
+          "text": "Anterior or middle compartment",
+          "children": [
+            {
+              "text": "Cystic",
+              "outcome": "No further work-up"
+            },
+            {
+              "text": "Not cystic",
+              "outcome": "MRI or PET/CT"
+            }
+          ]
+        },
+        {
+          "text": "Posterior compartment",
+          "outcome": "MRI"
+        }
+      ]
+    }
+  },
+  "thoracic-incidental-pericardial": {
+    "title": "Incidental Pericardial Abnormality",
+    "subtitle": "Asymptomatic pericardial abnormality (Figure 3 from thoracic CT guidelines).",
+    "image": "downloaded_articles/downloaded_articles/Managing Incidental Findings on Thoracic CT Mediastinal and Cardiovascular Findings_files/gr3.jpg",
+    "legend": [
+      "Cyst, HU <=10: no further work-up",
+      "Cyst HU >10 or thickened pericardium or fluid >50 ml or calcification"
+    ],
+    "root": {
+      "text": "Incidental, asymptomatic pericardial abnormality",
+      "children": [
+        {
+          "text": "Cyst, HU <= 10",
+          "outcome": "No further work-up"
+        },
+        {
+          "text": "Cyst HU > 10 or thickened pericardium or fluid > 50 ml or calcification",
+          "children": [
+            {
+              "text": "Explainable disease",
+              "outcome": "Further management depends on disease"
+            },
+            {
+              "text": "No explainable disease",
+              "outcome": "Consider MRI or short-term CT follow-up"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "thoracic-incidental": {
+    "title": "Incidental Findings on Thoracic CT (Mediastinal & Cardiovascular)",
+    "subtitle": "Quick jump to the three schematic figures (mediastinal masses/nodes, cardiovascular, and pulmonary arterial findings).",
+    "image": "downloaded_articles/downloaded_articles/Managing Incidental Findings on Thoracic CT Mediastinal and Cardiovascular Findings_files/gr1.jpg",
+    "legend": [
+      "Figure 1: Mediastinal nodal/mass pathways",
+      "Figure 2: Cardiovascular findings",
+      "Figure 3: Pulmonary arterial findings"
+    ],
+    "root": {
+      "text": "Incidental findings on thoracic CT",
+      "children": [
+        {
+          "text": "Mediastinal nodes / masses",
+          "outcome": "See figure 1",
+          "children": [
+            {
+              "text": "Size/attenuation/FDG uptake",
+              "outcome": "Follow figure 1 branches"
+            }
+          ]
+        },
+        {
+          "text": "Cardiovascular findings",
+          "outcome": "See figure 2",
+          "children": [
+            {
+              "text": "Aortic & cardiac findings",
+              "outcome": "Follow figure 2 branches"
+            }
+          ]
+        },
+        {
+          "text": "Pulmonary arterial findings",
+          "outcome": "See figure 3",
+          "children": [
+            {
+              "text": "Emboli, filling defects, aneurysm",
+              "outcome": "Follow figure 3 branches"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "liver-mass": {
+    "title": "Incidental Liver Mass",
+    "subtitle": "Detected on CT",
+    "image": "incidental liver mass on ct.jpg",
+    "legend": [
+      "Low risk: age <40, no known malignancy, no hepatic dysfunction/risk factors, no symptoms.",
+      "Average risk: age >=40 with no known malignancy, hepatic dysfunction, abnormal liver function tests, or hepatic risk factors.",
+      "High risk: known primary malignancy with propensity to metastasize to liver, cirrhosis, or hepatic risk factors (hepatitis, NASH, alcoholism, sclerosing cholangitis, primary biliary cirrhosis, hemochromatosis, anabolic steroid use).",
+      "Follow-up: CT or MRI in 6 months; may need longer follow-up in high-risk patients.",
+      "Benign imaging features: sharp margins, homogeneous low density (~20 HU) or classic hemangioma/FNH/imaging features of perfusional changes.",
+      "Flash filling: uniform enhancement <1.5 cm equals hemangioma in low-risk patients.",
+      "Suspicious imaging features: ill-defined margins, heterogeneous, enhancement >20 HU, washout appearance, peripheral or early arterial enhancement, or portal venous hypoenhancement.",
+      "Diagnostic benign features for FNH/adenoma: arterial enhancement with central scar, persistent enhancement.",
+      "Follow-up for high-risk: evaluate or biopsy; core preferred.",
+      "No benign diagnostic imaging features: evaluate or biopsy as appropriate."
+    ],
+    "root": {
+      "text": "Incidental liver mass on CT",
+      "children": [
+        {
+          "text": "<0.5 cm",
+          "children": [
+            {
+              "text": "Low or average risk",
+              "outcome": "Benign, no further follow-up"
+            },
+            {
+              "text": "High risk",
+              "outcome": "Follow-up"
+            }
+          ]
+        },
+        {
+          "text": "0.5-1.5 cm",
+          "children": [
+            {
+              "text": "Low attenuation, benign imaging features",
+              "children": [
+                {
+                  "text": "Any risk level",
+                  "outcome": "Benign, no further follow-up"
+                }
+              ]
+            },
+            {
+              "text": "Low attenuation, suspicious imaging features",
+              "children": [
+                {
+                  "text": "Any risk level",
+                  "outcome": "Follow-up"
+                }
+              ]
+            },
+            {
+              "text": "Flash filling (robustly enhancing)",
+              "children": [
+                {
+                  "text": "Low or average risk",
+                  "outcome": "Benign, no further follow-up"
+                },
+                {
+                  "text": "High risk",
+                  "outcome": "Follow-up"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": ">1.5 cm",
+          "children": [
+            {
+              "text": "Low attenuation, benign imaging features",
+              "children": [
+                {
+                  "text": "Low or average risk",
+                  "outcome": "Benign, no further follow-up"
+                },
+                {
+                  "text": "High risk",
+                  "outcome": "Follow-up"
+                }
+              ]
+            },
+            {
+              "text": "Low attenuation, suspicious imaging features",
+              "children": [
+                {
+                  "text": "Low risk",
+                  "outcome": "Follow-up"
+                },
+                {
+                  "text": "Average risk",
+                  "outcome": "Evaluate"
+                },
+                {
+                  "text": "High risk",
+                  "outcome": "Biopsy; core preferred"
+                }
+              ]
+            },
+            {
+              "text": "Flash filling (robustly enhancing)",
+              "children": [
+                {
+                  "text": "Benign diagnostic imaging features",
+                  "outcome": "Benign; evaluate if possible FNH, adenoma"
+                },
+                {
+                  "text": "No benign diagnostic imaging features",
+                  "outcome": "Follow-up, evaluate, or biopsy; core preferred"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "liver-findings": {
+    "title": "Incidental Liver Lesions (>=1 cm)",
+    "subtitle": "Detected on CT",
+    "image": "Management of Incidental Liver Lesions on CT_files/gr1.jpg",
+    "figureNote": "Figure 1 from PIIS154614401730889X.",
+    "legend": [
+      "If imaging is inadequate to determine benign vs suspicious features in a >=1 cm lesion, prompt MRI is advised.",
+      "Low-risk patient: no known primary malignancy, hepatic dysfunction, or hepatic risk factors.",
+      "High-risk patient: known primary malignancy with propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors.",
+      "Follow-up MRI in 3-6 months. CT is acceptable for patients due for routine CT surveillance.",
+      "Benign features: sharp margin, homogeneous low attenuation (<=20 HU) on noncontrast and/or portal venous phase, or characteristic hemangioma, FNH, focal fatty sparing/deposition, or perfusional changes. Pseudoenhancement may elevate cyst HU.",
+      "Suspicious features: ill-defined margins, heterogeneous density, mural thickening or nodularity, thick septa, or portal venous attenuation >20 HU (without pseudoenhancement). Enhancement >20 HU on pre/post CT is suspicious; prefer MRI.",
+      "\"Flash-filling\" feature: uniform hyperenhancement relative to liver on arterial or late arterial/early portal venous phase. If additional phases show benign or suspicious features, categorize accordingly.",
+      "Lesions >1.5 cm without benign features should at least undergo prompt MRI; direct biopsy may be appropriate. MRI with gadoxetate is advised for suspected FNH vs adenoma, especially >3 cm and subcapsular.",
+      "If biopsy is pursued, core biopsy is preferred over fine-needle aspiration."
+    ],
+    "root": {
+      "text": "Incidental liver mass detected on CT",
+      "children": [
+        {
+          "text": "<1 cm",
+          "children": [
+            {
+              "text": "Low-risk patient",
+              "outcome": "Benign, no further follow-up"
+            },
+            {
+              "text": "High-risk patient",
+              "outcome": "Follow-up MRI in 3-6 months"
+            }
+          ]
+        },
+        {
+          "text": "1.0-1.5 cm",
+          "children": [
+            {
+              "text": "Benign imaging features",
+              "outcome": "Benign, no further follow-up"
+            },
+            {
+              "text": "Suspicious imaging features",
+              "outcome": "Hepatic MRI now"
+            },
+            {
+              "text": "\"Flash-filling\" imaging feature",
+              "children": [
+                {
+                  "text": "Low-risk patient",
+                  "outcome": "Benign, no further follow-up"
+                },
+                {
+                  "text": "High-risk patient",
+                  "outcome": "Hepatic MRI now"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": ">1.5 cm",
+          "children": [
+            {
+              "text": "Benign imaging features",
+              "outcome": "Benign, no further follow-up"
+            },
+            {
+              "text": "Suspicious or \"flash-filling\" imaging features",
+              "children": [
+                {
+                  "text": "Low-risk patient",
+                  "outcome": "Hepatic MRI now"
+                },
+                {
+                  "text": "High-risk patient",
+                  "outcome": "Hepatic MRI now or biopsy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "pancreatic-cystic": {
+    "title": "Asymptomatic Incidental Pancreatic Cystic Mass",
+    "subtitle": "Detected on CT, MRI (with or without contrast) or US",
+    "image": "incidental asymptomatic patient with pancreatic leasion.jpg",
+    "legend": [
+      "Signs/symptoms: hyperamylasemia, recent onset diabetes, severe epigastric pain, weight loss, steatorrhea, jaundice.",
+      "Consider decreasing interval if younger, with limited life expectancy. Recommend T1-weighted MRI for routine follow-ups.",
+      "Recommend pancreas-dedicated MRI with MRCP.",
+      "If no growth after 2 years, follow-up yearly; if growth or suspicious features develop, consider resection.",
+      "BD-IPMN = branch duct intraductal papillary mucinous neoplasm."
+    ],
+    "root": {
+      "text": "Incidental pancreatic cystic mass",
+      "children": [
+        {
+          "text": "<2 cm",
+          "children": [
+            {
+              "text": "Stable",
+              "outcome": "Benign, no further follow-up"
+            },
+            {
+              "text": "Growth",
+              "outcome": "Follow-up in 1 year (prefer MRI)"
+            }
+          ]
+        },
+        {
+          "text": "2-3 cm",
+          "children": [
+            {
+              "text": "Imaging characterization (prefer MRI/MRCP)",
+              "children": [
+                {
+                  "text": "Uncharacterized cystic mass",
+                  "outcome": "Follow-up yearly"
+                },
+                {
+                  "text": "BD-IPMN",
+                  "outcome": "Follow-up every 6 months for 2 years"
+                },
+                {
+                  "text": "Serous cystadenoma",
+                  "outcome": "Follow-up every 2 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": ">3 cm",
+          "children": [
+            {
+              "text": "Serous cystadenoma",
+              "outcome": "Consider resection when >=4 cm"
+            },
+            {
+              "text": "Uncharacterized cystic mass or other cystic neoplasm",
+              "children": [
+                {
+                  "text": "Cyst aspiration",
+                  "outcome": "Resect depending on comorbidities and risk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "renal-noncontrast": {
+    "title": "Incidental Renal Mass on Noncontrast CT",
+    "subtitle": "Only unenhanced CT is available; does not contain fat.",
+    "image": "Management of the Incidental Renal Masson CT_files/gr1.jpg",
+    "figureNote": "Figure 1 from PIIS1546144017304970.",
+    "legend": [
+      "TSTC = too small to characterize.",
+      "If fat attenuation (< -10 HU), use the fat-containing renal mass pathway."
+    ],
+    "root": {
+      "text": "Incidental renal mass on noncontrast CT (no fat)",
+      "children": [
+        {
+          "text": "TSTC and homogeneous",
+          "children": [
+            {
+              "text": "Likely benign cyst (visually much lower or higher than parenchyma)",
+              "outcome": "No further work-up"
+            },
+            {
+              "text": "Inconclusive attenuation",
+              "outcome": "MRI or CT without and with IV contrast within 6-12 months (prefer MRI)"
+            }
+          ]
+        },
+        {
+          "text": "Homogeneous mass without mural nodule, septa, or calcification",
+          "children": [
+            {
+              "text": "-10 to 20 HU",
+              "outcome": "Benign simple cyst; no further work-up"
+            },
+            {
+              "text": ">= 70 HU",
+              "outcome": "Hyperdense Bosniak II cyst; no further work-up"
+            },
+            {
+              "text": "> 20 to < 70 HU",
+              "outcome": "MRI or CT without and with IV contrast to characterize (cystic vs solid)"
+            }
+          ]
+        },
+        {
+          "text": "Heterogeneous mass (wall thickening, septa, mural nodule, or calcification)",
+          "outcome": "MRI or CT without and with IV contrast to characterize (cystic vs solid)"
+        }
+      ]
+    }
+  },
+  "renal-contrast": {
+    "title": "Incidental Renal Mass on Contrast-Enhanced CT",
+    "subtitle": "Only contrast-enhanced CT is available; does not contain fat.",
+    "image": "Management of the Incidental Renal Masson CT_files/gr2.jpg",
+    "figureNote": "Figure 2 is shown in the upper half of the source image (Figure 3 appears below).",
+    "legend": [
+      "TSTC = too small to characterize.",
+      "If fat attenuation (< -10 HU), use the fat-containing renal mass pathway."
+    ],
+    "root": {
+      "text": "Incidental renal mass on contrast-enhanced CT (no fat)",
+      "children": [
+        {
+          "text": "TSTC and homogeneous",
+          "children": [
+            {
+              "text": "Likely benign cyst (visually much lower than enhanced parenchyma)",
+              "outcome": "No further work-up"
+            },
+            {
+              "text": "Inconclusive attenuation",
+              "outcome": "MRI or CT without and with IV contrast within 6-12 months (prefer MRI)"
+            }
+          ]
+        },
+        {
+          "text": "Homogeneous mass without mural nodule, septa, or calcification",
+          "children": [
+            {
+              "text": "-10 to 20 HU",
+              "outcome": "Benign simple cyst; no further work-up"
+            },
+            {
+              "text": "> 20 HU",
+              "outcome": "MRI or CT without and with IV contrast to assess enhancement and characterize"
+            }
+          ]
+        },
+        {
+          "text": "Heterogeneous mass (wall thickening, septa, mural nodule, or calcification)",
+          "outcome": "MRI or CT without and with IV contrast to characterize"
+        }
+      ]
+    }
+  },
+  "renal-cystic-acr": {
+    "title": "Incidental Cystic Renal Mass (CT/MRI with and without IV contrast)",
+    "subtitle": "Completely characterized cystic mass; does not contain fat.",
+    "image": "Management of the Incidental Renal Masson CT_files/gr3.jpg",
+    "figureNote": "Figure 3 is shown in the lower half of the source image (Figure 2 appears above).",
+    "legend": [
+      "Use the Bosniak classification for cystic renal masses.",
+      "Morphologic change includes septa, wall thickening, or new nodularity.",
+      "Growth without morphologic change is not suspicious for malignancy."
+    ],
+    "root": {
+      "text": "Incidental cystic renal mass",
+      "children": [
+        {
+          "text": "Bosniak I or II",
+          "outcome": "Benign, no further follow-up"
+        },
+        {
+          "text": "Bosniak IIF",
+          "children": [
+            {
+              "text": "CT or MRI at 6 and 12 months, then yearly for 5 years",
+              "children": [
+                {
+                  "text": "No morphologic change",
+                  "outcome": "Benign, no further follow-up"
+                },
+                {
+                  "text": "Morphologic change",
+                  "outcome": "Refer for management"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bosniak III or IV",
+          "outcome": "Refer for management"
+        }
+      ]
+    }
+  },
+  "renal-solid-acr": {
+    "title": "Incidental Solid Renal Mass or TSTC (CT/MRI with and without IV contrast)",
+    "subtitle": "Solid mass characterized on CT/MRI; does not contain fat.",
+    "image": "Management of the Incidental Renal Masson CT_files/gr4.jpg",
+    "figureNote": "Figure 4 from PIIS1546144017304970.",
+    "legend": [
+      "TSTC = too small to characterize.",
+      "Small renal neoplasm includes RCC, oncocytoma, and AML with minimal fat."
+    ],
+    "root": {
+      "text": "Incidental solid renal mass or TSTC",
+      "children": [
+        {
+          "text": "TSTC",
+          "children": [
+            {
+              "text": "Likely benign cyst",
+              "outcome": "No further work-up"
+            },
+            {
+              "text": "Inconclusive attenuation or subjective assessment",
+              "outcome": "MRI or CT without and with IV contrast within 6-12 months"
+            }
+          ]
+        },
+        {
+          "text": "Solid mass < 1.0 cm",
+          "children": [
+            {
+              "text": "Follow-up MRI or CT at 6-12 months, then yearly for 5 years",
+              "children": [
+                {
+                  "text": "Stable",
+                  "outcome": "Unlikely clinical significance; no further work-up"
+                },
+                {
+                  "text": "Growth or morphologic change",
+                  "outcome": "Refer for management; consider biopsy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Solid mass 1.0-4.0 cm",
+          "outcome": "Refer for management; consider biopsy"
+        },
+        {
+          "text": "Solid mass > 4.0 cm",
+          "outcome": "Refer for management"
+        }
+      ]
+    }
+  },
+  "renal-fat": {
+    "title": "Incidental Renal Mass with Fat Attenuation",
+    "subtitle": "Region of interest less than -10 HU.",
+    "image": "Management of the Incidental Renal Masson CT_files/gr5.jpg",
+    "figureNote": "Figure 5 from PIIS1546144017304970.",
+    "legend": [
+      "Angiomyolipoma is most likely when fat is present without calcification.",
+      "Fat with calcification warrants CT or MRI without and with IV contrast.",
+      "Size >= 4 cm or symptoms prompt referral for management."
+    ],
+    "root": {
+      "text": "Incidental renal mass containing fat",
+      "children": [
+        {
+          "text": "No calcification (angiomyolipoma likely)",
+          "children": [
+            {
+              "text": "Solitary without documented growth",
+              "children": [
+                {
+                  "text": "Size < 4 cm",
+                  "outcome": "No further work-up"
+                },
+                {
+                  "text": "Size >= 4 cm or symptomatic",
+                  "outcome": "Refer for management"
+                }
+              ]
+            },
+            {
+              "text": "Multiple or growth based on prior studies",
+              "outcome": "Refer for management"
+            }
+          ]
+        },
+        {
+          "text": "With calcification (suspected RCC)",
+          "children": [
+            {
+              "text": "CT or MRI without and with IV contrast",
+              "outcome": "Refer for management"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "renal-cystic": {
+    "title": "Incidental Cystic Renal Mass",
+    "subtitle": "Detected on CT",
+    "image": "incidental renal cystic mass on ct.jpg",
+    "legend": [
+      "Follow only if non-neoplastic causes have been excluded; recommendations are general guidance.",
+      "Simple cyst (<1 cm) likely benign; further work-up often not useful.",
+      "Intervals may vary; longer intervals for masses staying unchanged.",
+      "In selected patients (e.g., young), early surgical intervention may be considered; minimally invasive options possible.",
+      "Morphologic change = change in feature characteristics such as number of septa, nodularity.",
+      "Bosniak III/IV masses are malignant in ~50% or more; management depends on life expectancy and comorbidities.",
+      "Limited life expectancy and comorbidities increase treatment risk.",
+      "Cystic masses <=1.5 cm or that cannot be characterized may not need further evaluation in poor life expectancy.",
+      "Percutaneous biopsy of Bosniak III masses may be considered though may not be diagnostic."
+    ],
+    "root": {
+      "text": "Incidental cystic renal mass",
+      "children": [
+        {
+          "text": "Bosniak I or II",
+          "outcome": "Benign, no further follow-up"
+        },
+        {
+          "text": "Bosniak IIF",
+          "children": [
+            {
+              "text": "General population",
+              "children": [
+                {
+                  "text": "CT or MRI at 6 and 12 months, then yearly for 5 years",
+                  "children": [
+                    {
+                      "text": "No morphologic change",
+                      "outcome": "Benign, no further follow-up"
+                    },
+                    {
+                      "text": "Morphologic change",
+                      "outcome": "Surgery"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Limited life expectancy or comorbidities",
+              "children": [
+                {
+                  "text": "If follow-up appropriate, CT or MRI at 6 and 12 months, then yearly for 5 years",
+                  "children": [
+                    {
+                      "text": "Morphologic change",
+                      "outcome": "Surgery, follow-up, or no further follow-up based on life expectancy/comorbidities"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bosniak III or IV",
+          "children": [
+            {
+              "text": "General population",
+              "outcome": "Surgery"
+            },
+            {
+              "text": "Limited life expectancy or comorbidities",
+              "children": [
+                {
+                  "text": "If follow-up appropriate, CT or MRI at 6 and 12 months, then yearly for 5 years",
+                  "children": [
+                    {
+                      "text": "Further action",
+                      "outcome": "Based on morphologic change, life expectancy, comorbidities"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "renal-solid": {
+    "title": "Incidental Solid Renal Mass",
+    "subtitle": "Detected on CT",
+    "image": "incidental solid renal mass on ct.jpg",
+    "legend": [
+      "Follow only if non-neoplastic causes (e.g., infections, angiomyolipomas) have been excluded.",
+      "Differential diagnosis includes RCC, oncocytoma, angiomyolipoma; benign entities more likely in small masses.",
+      "Limited life expectancy/co-morbidities increase treatment risk; observation interval may vary.",
+      "Probable RCC if no detectable fat on CT/MRI using renal mass protocols.",
+      "If hyperattenuating and homogeneously enhancing, consider MRI and percutaneous biopsy to diagnose angiomyolipoma with minimal fat.",
+      "Surgical options include open or laparoscopic nephrectomy/partial nephrectomy; both provide definitive management.",
+      "Observation may be considered for small solid masses in limited life expectancy; thin (<=3 cm) small mass biopsy helps confirm diagnosis.",
+      "Probable RCC diagnoses also include oncocytoma and AML with minimal fat; biopsy can guide management.",
+      "Percutaneous biopsy can be utilized preoperatively to confirm RCC."
+    ],
+    "root": {
+      "text": "Incidental solid renal mass",
+      "children": [
+        {
+          "text": "<1 cm",
+          "children": [
+            {
+              "text": "General population",
+              "outcome": "Follow-up until 1 cm: CT or MRI at 3-6 months and 12 months, then yearly"
+            },
+            {
+              "text": "Limited life expectancy or comorbidities",
+              "outcome": "Follow-up until 1.5 cm: CT or MRI at 3-6 months and 12 months, then yearly"
+            }
+          ]
+        },
+        {
+          "text": "1-3 cm",
+          "children": [
+            {
+              "text": "General population",
+              "outcome": "Surgery"
+            },
+            {
+              "text": "Limited life expectancy or comorbidities",
+              "outcome": "Follow-up"
+            }
+          ]
+        },
+        {
+          "text": ">3 cm",
+          "children": [
+            {
+              "text": "General population",
+              "outcome": "Surgery"
+            },
+            {
+              "text": "Limited life expectancy or comorbidities",
+              "outcome": "Follow-up"
+            }
+          ]
+        },
+        {
+          "text": "Hyperattenuating, homogeneously enhancing",
+          "outcome": "Consider MRI; biopsy"
+        }
+      ]
+    }
+  },
+  "thyroid-pet": {
+    "title": "Incidental Thyroid Nodule",
+    "subtitle": "Detected on 18FDG-PET or other nuclear medicine scans",
+    "image": "incidental thyroid nodule on pet.jpg",
+    "legend": [],
+    "root": {
+      "text": "Incidental thyroid nodule on PET",
+      "children": [
+        {
+          "text": "Focal activity",
+          "children": [
+            {
+              "text": "Limited life expectancy and comorbidities",
+              "outcome": "No further evaluation"
+            },
+            {
+              "text": "General population",
+              "outcome": "Evaluate with thyroid ultrasound"
+            }
+          ]
+        },
+        {
+          "text": "ITN on PET/CT or PET/MRI without metabolic activity",
+          "outcome": "Refer to recommendations for incidental thyroid nodule on CT/MRI"
+        }
+      ]
+    }
+  },
+  "thyroid-ct-mri": {
+    "title": "Incidental Thyroid Nodule",
+    "subtitle": "Detected on CT or MRI",
+    "image": "incidental thyoid nodule on  ct.jpg",
+    "legend": [],
+    "root": {
+      "text": "Incidental thyroid nodule on CT/MRI",
+      "children": [
+        {
+          "text": "Suspicious CT or MRI findings",
+          "outcome": "Evaluate with thyroid ultrasound"
+        },
+        {
+          "text": "No suspicious CT or MRI findings",
+          "children": [
+            {
+              "text": "Limited life expectancy and comorbidities",
+              "children": [
+                {
+                  "text": "Any size",
+                  "outcome": "No further evaluation"
+                }
+              ]
+            },
+            {
+              "text": "General population",
+              "children": [
+                {
+                  "text": "Age <35 years",
+                  "children": [
+                    {
+                      "text": "<1 cm",
+                      "outcome": "No further evaluation"
+                    },
+                    {
+                      "text": ">=1 cm",
+                      "outcome": "Evaluate with thyroid ultrasound"
+                    }
+                  ]
+                },
+                {
+                  "text": "Age >=35 years",
+                  "children": [
+                    {
+                      "text": "<1.5 cm",
+                      "outcome": "No further evaluation"
+                    },
+                    {
+                      "text": ">=1.5 cm",
+                      "outcome": "Evaluate with thyroid ultrasound"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "adnexal-cystic": {
+    "title": "Incidental Adnexal Cystic Mass (>=1 cm)",
+    "subtitle": "Post-menarchal, non-pregnant",
+    "image": "Management of Incidental Adnexal Findings on CT and MRI_files/gr1.jpg",
+    "legend": [
+      "Exclusions: normal findings (corpus luteum), asymmetric ovary with normal shape, unimportant findings, prior characterization, or documented stability for >2 years.",
+      "Benign-appearing cyst must be unilocular, with benign features and <10 cm in maximum diameter; exceptions allowed for specific observations.",
+      "Probably benign cyst meets benign criteria except for specific observations (e.g., angulated internal walls, irregular shape, partial imaging, poor signal-to-noise).",
+      "Features of masses in this category include solid component, mural nodule, or higher than fluid attenuation/signal; layering hemorrhage if postmenopausal.",
+      "Ultrasound should be performed promptly if further evaluation needed.",
+      "Benign-appearing cyst <=5 cm with suspected layered hemorrhage in patient aged <=55 or within 5 years of menopause should be followed in 6-12 weeks.",
+      "Thresholds may decrease (e.g., 3 cm -> 1 cm) to increase sensitivity for neoplasm."
+    ],
+    "root": {
+      "text": "Incidental adnexal cystic mass (>=1 cm)",
+      "children": [
+        {
+          "text": "Benign-appearing cyst",
+          "children": [
+            {
+              "text": "Premenopausal",
+              "children": [
+                {
+                  "text": "<=5 cm",
+                  "outcome": "Benign, no follow-up"
+                },
+                {
+                  "text": ">5 cm",
+                  "outcome": "Ultrasound follow-up at 6-12 weeks"
+                }
+              ]
+            },
+            {
+              "text": "Early postmenopausal",
+              "children": [
+                {
+                  "text": "<=3 cm",
+                  "outcome": "Benign, no follow-up"
+                },
+                {
+                  "text": ">3 cm, <=5 cm",
+                  "outcome": "Ultrasound follow-up at 6-12 months"
+                },
+                {
+                  "text": ">5 cm",
+                  "outcome": "Ultrasound"
+                }
+              ]
+            },
+            {
+              "text": "Late postmenopausal",
+              "children": [
+                {
+                  "text": "<=3 cm",
+                  "outcome": "Benign, no follow-up"
+                },
+                {
+                  "text": ">3 cm",
+                  "outcome": "Ultrasound"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Probably benign cyst",
+          "children": [
+            {
+              "text": "Premenopausal",
+              "children": [
+                {
+                  "text": "<=3 cm",
+                  "outcome": "Benign, no follow-up"
+                },
+                {
+                  "text": ">3 cm, <=5 cm",
+                  "outcome": "Ultrasound follow-up at 6-12 weeks"
+                },
+                {
+                  "text": ">5 cm",
+                  "outcome": "Ultrasound"
+                }
+              ]
+            },
+            {
+              "text": "Early postmenopausal",
+              "children": [
+                {
+                  "text": "<=3 cm",
+                  "outcome": "Benign, no follow-up"
+                },
+                {
+                  "text": ">3 cm",
+                  "outcome": "Ultrasound"
+                }
+              ]
+            },
+            {
+              "text": "Late postmenopausal",
+              "children": [
+                {
+                  "text": "<=1 cm",
+                  "outcome": "Benign, no follow-up"
+                },
+                {
+                  "text": ">1 cm",
+                  "outcome": "Ultrasound"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Other imaging features",
+          "children": [
+            {
+              "text": "Probable diagnostic features",
+              "outcome": "Manage as appropriate for diagnosis"
+            },
+            {
+              "text": "Features not specific",
+              "outcome": "Ultrasound"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

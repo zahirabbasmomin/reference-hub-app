@@ -1,0 +1,38 @@
+{
+  "id": "adrenal-mri-remote-e379e0",
+  "title": "Phillip Cheng, MD MS - Adrenal MRI Calculator",
+  "source": "adrenal_mri_remote.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Phillip Cheng, MD MS"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "USC Department of Radiology"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adrenal MRI Calculator"
+    },
+    {
+      "type": "paragraph",
+      "text": "Schieda N, Siegelman E. Update on CT and MRI of adrenal nodules. AJR Am J Roentgenol 2017; 208:1-12"
+    },
+    {
+      "type": "paragraph",
+      "text": "Israel GM, Korobkin M, Hecht EN et al. Comparison of unenhanced CT and chemical shift MRI in evaluating lipid-rich adrenal adenomas. Am J Roentgenol 2004; 183:215-219"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fujiyoshi F, Nakajo M, Fukukura Y, et al. Characterization of adrenal tumors by chemical shift fast low-angle shot MR imaging: comparison of four methods of quantitative evaluation. Am J Roentgenol 2002; 180:1649-1657"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seo JM, Park BK, Park SY, Kim CK. Characterization of lipid-poor adrenal adenoma: chemical-shift MRI and washout CT. Am J Roentgenol 2014; 202:1043-50"
+    }
+  ]
+}

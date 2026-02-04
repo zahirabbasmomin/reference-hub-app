@@ -1,0 +1,42 @@
+{
+  "id": "phone-directory-editor-b7bb27",
+  "title": "Phone Directory Editor",
+  "source": "phone-directory-editor.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Edits are local in your browser. Download the updated JSON and replace phone_directory_by_sheet.json to persist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading directory..."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Facilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select or add a facility."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contacts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Edit name/phone or remove entries. Changes save locally until you download."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Save Changes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saves locally as phone_directory_by_sheet.json. Replace the original file with the downloaded one."
+    }
+  ]
+}

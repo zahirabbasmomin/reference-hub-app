@@ -1,0 +1,286 @@
+{
+  "id": "calf-strain-mri-c2f55f",
+  "title": "Calf Strain MRI",
+  "source": "calf-strain-mri.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on Radsource: \"Not Plantaris: Keys to Better Diagnosis of Calf Strain Injuries.\""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Most calf strains are myotendinous junction tears of the medial head of the gastrocnemius, not isolated plantaris injury.",
+        "The medial head extends lower than the lateral head; the distal soleus extends a few centimeters further distal.",
+        "Aponeuroses form continuous arcing black lines on MRI; disruptions in continuity signal tears.",
+        "Axial imaging is critical; sagittal and coronal views are supportive but must be cross-referenced with axial slices.",
+        "Vessels can mimic aponeurosis defects-tracks are limited to 1-2 slices, lack adjacent edema, and connect fascia planes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Plantaris & Calf Anatomy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use these landmarks to avoid mistaking plantaris for the primary injury."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Plantaris tendon arises lateral to the lateral gastrocnemius, crosses medially, and descends along the medial margin of the Achilles tendon; sometimes absent or merges with the Achilles."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "At upper calf levels the plantaris lies deep to the lateral gastrocnemius; mid-calf it courses between the medial gastrocnemius and soleus aponeuroses; distally it may be within or adjacent to the medial Achilles."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Soleus has multiple intramuscular tendons that can be strain sites; the posterior soleus aponeurosis lies just deep to the gastrocnemius aponeurosis."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tear Patterns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recognize characteristic aponeurotic configurations to describe extent."
+    },
+    {
+      "type": "list",
+      "items": [
+        "L-pattern tear: Partial-width full-thickness transverse tear of the anterior gastrocnemius aponeurosis near the medial muscle margin with a vertical split along the lateral margin; the combined transverse and vertical components form an \"L\". The detached medial segment may retract."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "U-pattern tear: Central transverse tear with vertical splits at both margins; the untethered segment bulges outward from hematoma. Typically partial-thickness, involving the aponeurosis and immediately underlying muscle with posterior muscle fibers intact."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Trace vertical tear length on axial images and correlate with coronal/sagittal images; edema usually tracks the full vertical extent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Axial Level Map (Table)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Landmarks by level to anchor plantaris position and aponeuroses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table adapted from the Radsource axial walkthrough of plantaris and aponeurotic landmarks."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tear Pattern Comparison (Chart)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrast L vs U configurations to report depth and extent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chart content derived from the Radsource descriptions of L-pattern and U-pattern calf strain tears."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Imaging Gallery"
+    },
+    {
+      "type": "paragraph",
+      "text": "Images and captions directly from Radsource."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_be0ba15c0e",
+      "alt": "Intro calf strain coronal image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intro: acute medial calf pain during push-off; coronal image shows medial gastrocnemius strain."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_484ef1293b",
+      "alt": "Calf aponeuroses diagram"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calf aponeuroses: continuous arcing lines of gastrocnemius and soleus aponeuroses."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_a6cd55d20e",
+      "alt": "3D anatomy of the calf"
+    },
+    {
+      "type": "paragraph",
+      "text": "3D anatomy: medial head of gastrocnemius extends lower than lateral head; plantaris crosses medially."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d11633885f",
+      "alt": "Upper gastrocnemius axial level"
+    },
+    {
+      "type": "paragraph",
+      "text": "5a: Upper gastrocnemius level-plantaris tendon arises deep to lateral gastrocnemius before crossing medially."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_62babd3521",
+      "alt": "Mid gastrocnemius axial level"
+    },
+    {
+      "type": "paragraph",
+      "text": "5b: Mid gastrocnemius-plantaris tendon overlies posteromedial soleus; overlap zone where vertical tears may cross."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_ad5e2b060b",
+      "alt": "Lower gastrocnemius axial level"
+    },
+    {
+      "type": "paragraph",
+      "text": "5c: Lower gastrocnemius-plantaris between medial gastrocnemius and soleus aponeuroses; small posterior soleus tear with edema."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_b91379597a",
+      "alt": "Mid soleus axial level"
+    },
+    {
+      "type": "paragraph",
+      "text": "5d: Mid soleus-plantaris sandwiched between gastrocnemius and soleus aponeuroses; gastrocnemius tapers."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_50033f3dc1",
+      "alt": "Lower soleus and proximal Achilles axial level"
+    },
+    {
+      "type": "paragraph",
+      "text": "5e: Lower soleus-Achilles formation; plantaris may merge or be absent as a distinct tendon."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_65b31c72f8",
+      "alt": "Distal Achilles axial level"
+    },
+    {
+      "type": "paragraph",
+      "text": "5f: Distal Achilles-expected absence of a discrete plantaris in some patients."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_49d5dfe0d3",
+      "alt": "Vessel mimicking aponeurosis tear"
+    },
+    {
+      "type": "paragraph",
+      "text": "6: Vessel perforator mimicking a tear-limited to 1-2 slices, no edema, tracks between fascia layers."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_45fe949872",
+      "alt": "L-pattern tear axial and sagittal"
+    },
+    {
+      "type": "paragraph",
+      "text": "7a: L-pattern tear-partial-width transverse gap with vertical split; retracted medial aponeurosis."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_e087f2183b",
+      "alt": "L-pattern tear coronal"
+    },
+    {
+      "type": "paragraph",
+      "text": "7b: L-pattern coronal oblique showing combined transverse and vertical tear components."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2f16b568b1",
+      "alt": "U-pattern tear axial"
+    },
+    {
+      "type": "paragraph",
+      "text": "8a: U-pattern tear-central transverse tear with medial and lateral vertical splits, bulging outward from hematoma."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Aponeurosis Continuity Diagram"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inline schematic to track the arcing black lines on axial images (derived from Radsource level descriptions)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loss of the smooth aponeurotic arc or a new gap on sequential slices suggests a tear rather than absent plantaris."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tear Pattern Schematic"
+    },
+    {
+      "type": "paragraph",
+      "text": "Visual sketch of L- vs U-pattern configurations described in Radsource."
+    },
+    {
+      "type": "paragraph",
+      "text": "L-pattern: partial-width full-thickness transverse gap plus one vertical split. U-pattern: central transverse gap with two vertical splits; segment may bulge from hematoma."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reading Checklist"
+    },
+    {
+      "type": "paragraph",
+      "text": "A quick walkthrough for daily reads."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Start with axial images: follow continuity of anterior/posterior aponeuroses of gastrocnemius and soleus.",
+        "Locate the plantaris path; ensure a discrete plantaris is not misread as the primary tear.",
+        "Look for transverse gaps and adjacent vertical splits to classify L- or U-pattern tears.",
+        "Confirm tear extent on sagittal and coronal reformats; correlate with edema spread.",
+        "Exclude vessel perforators masquerading as defects (limited slices, no edema)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Source"
+    },
+    {
+      "type": "paragraph",
+      "text": "Content adapted solely from Radsource: \"Not Plantaris: Keys to Better Diagnosis of Calf Strain Injuries.\""
+    }
+  ]
+}

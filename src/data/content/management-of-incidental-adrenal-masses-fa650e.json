@@ -1,0 +1,654 @@
+{
+  "id": "management-of-incidental-adrenal-masses-fa650e",
+  "title": "Management of Incidental Adrenal Masses: A White Paper of the ACR Incidental Findings Committee - Journal of the American College of Radiology",
+  "source": "Management of Incidental Adrenal Masses.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Login to your account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't remember your password, you can reset it by entering your email address and clicking the Reset Password button. You will then receive an email that contains a secure link for resetting your password"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the address matches a valid account an email will be sent to __email__ with instructions for resetting your password"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Property",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Status"
+        ],
+        [
+          "Version"
+        ],
+        [
+          "Ad File"
+        ],
+        [
+          "Disable Ads Flag"
+        ],
+        [
+          "Environment"
+        ],
+        [
+          "Moat Init"
+        ],
+        [
+          "Moat Ready"
+        ],
+        [
+          "Contextual Ready"
+        ],
+        [
+          "Contextual URL"
+        ],
+        [
+          "Contextual Initial Segments"
+        ],
+        [
+          "Contextual Used Segments"
+        ],
+        [
+          "AdUnit"
+        ],
+        [
+          "SubAdUnit"
+        ],
+        [
+          "Custom Targeting"
+        ],
+        [
+          "Ad Events"
+        ],
+        [
+          "Invalid Ad Sizes"
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1bfd055201",
+      "alt": "Cover Image - Journal of the American College of Radiology, Volume 14, Issue 8"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Email",
+        "X",
+        "Facebook",
+        "LinkedIn",
+        "Sina Weibo",
+        "Add to Mendeley",
+        "bluesky"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Email",
+        "X",
+        "Facebook",
+        "LinkedIn",
+        "Sina Weibo",
+        "Add to Mendeley",
+        "Bluesky"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download PDFDownload PDF",
+        "Cite",
+        "Set Alert",
+        "Get Rights",
+        "Reprints"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Download started"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key Words"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Adrenal nodule",
+        "incidental findings",
+        "incidentaloma"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview of the ACR Incidental Findings Project"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Consensus Process: The Incidental Adrenal Mass Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Elements of the Flowcharts: Color Coding"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6103e4b265",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig 1 Algorithm for evaluation of an incidentally detected adrenal mass. (1) Consider biochemical assays to determine functional status and exclude pheochromocytoma before biopsy/resection. (2) No enhancement applies if an examination without and with intravenous contrast is available. (3) Isolated defined as no other metastatic disease identified. (4) May consider chemical-shift MRI (CS-MR). APW = absolute percentage washout; Ca++ = calcification; F/U = follow-up; HU = Hounsfield units; Hx = history; NCCT = CT without intravenous contrast; RPW = relative percentage washout; + = positive."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Salient Changes From the 2010 Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nature and Scope of the Problem"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inclusion and Exclusion Criteria for Use of the Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Implications of Imaging and Clinical Features"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Five Common Principles of the Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview of the Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Masses With Diagnostic Benign Imaging Features"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Masses Without Diagnostic Features (>=1 to <4 cm)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Masses Without Diagnostic Features (>=4 cm)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview of Diagnostic Strategies in the Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Adrenal CT Protocol"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "CS-MRI"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dual-Energy CT"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "PET/CT"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Adrenal Mass Biopsy"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Endocrine Evaluation"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Take-Home Points"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Additional Resources"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "SA-CME"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Figures (1)Figure Viewer"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6103e4b265",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Article metrics"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d3143f4ede",
+      "alt": "Plum X logo"
+    },
+    {
+      "type": "list",
+      "items": [
+        "291 Citations 271 Captures 1 Social Media View details opens in a new tab"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Related articles (40)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Berland et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Megibow et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patel et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Herts et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Gore et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Khosa et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patel et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sebastian et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Heller et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hoang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Munden et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hoang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Munden et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Berland et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moonis et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lincoln L. Berland"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Paulson et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abu-Yousef et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lee et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Bobbin et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moore et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Johnson et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dyer et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Crable et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Tessler et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Baccei et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Stephen D. Brown"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "McLean et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lincoln L. Berland"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Woods et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Borra et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Zygmont et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kapoor et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hammer et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Samim et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Shah et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Aiken et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lehnert et al."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6103e4b265",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6103e4b265",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fig 1"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download .PPT"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The content on this site is intended for healthcare professionals."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Privacy Policy",
+        "Terms and Conditions",
+        "Accessibility",
+        "Help & Contact"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_9696c11620",
+      "alt": "RELX"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d7a3582808",
+      "alt": "Company Logo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cookie Preference Center"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_538e8742e1",
+      "alt": "Cookie Settings | Your Privacy Choices"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Manage Consent Preferences"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Strictly Necessary Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Functional Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Performance Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Targeting Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cookie List"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_18bee8eb12",
+      "alt": "Powered by Onetrust"
+    }
+  ]
+}

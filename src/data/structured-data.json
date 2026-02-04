@@ -1,0 +1,4575 @@
+{
+  "tirads-reference": {
+    "source": "tirads.pdf",
+    "title": "ACR TI-RADS",
+    "release": "(reference based on ACR TI-RADS)",
+    "sections": [
+      {
+        "heading": "Feature Points",
+        "description": "Assign points per ultrasound feature and sum for category.",
+        "tables": [
+          {
+            "title": "Composition",
+            "columns": [
+              "Feature",
+              "Points"
+            ],
+            "rows": [
+              [
+                "Cystic or almost completely cystic",
+                "0"
+              ],
+              [
+                "Spongiform",
+                "0"
+              ],
+              [
+                "Mixed cystic and solid",
+                "1"
+              ],
+              [
+                "Solid or almost completely solid",
+                "2"
+              ]
+            ]
+          },
+          {
+            "title": "Echogenicity",
+            "columns": [
+              "Feature",
+              "Points"
+            ],
+            "rows": [
+              [
+                "Anechoic",
+                "0"
+              ],
+              [
+                "Hyperechoic or isoechoic",
+                "1"
+              ],
+              [
+                "Hypoechoic",
+                "2"
+              ],
+              [
+                "Very hypoechoic",
+                "3"
+              ]
+            ]
+          },
+          {
+            "title": "Shape",
+            "columns": [
+              "Feature",
+              "Points"
+            ],
+            "rows": [
+              [
+                "Wider-than-tall",
+                "0"
+              ],
+              [
+                "Taller-than-wide",
+                "3"
+              ]
+            ]
+          },
+          {
+            "title": "Margin",
+            "columns": [
+              "Feature",
+              "Points"
+            ],
+            "rows": [
+              [
+                "Smooth",
+                "0"
+              ],
+              [
+                "Ill-defined",
+                "0"
+              ],
+              [
+                "Lobulated or irregular",
+                "2"
+              ],
+              [
+                "Extrathyroidal extension",
+                "3"
+              ]
+            ]
+          },
+          {
+            "title": "Echogenic foci",
+            "columns": [
+              "Feature",
+              "Points"
+            ],
+            "rows": [
+              [
+                "None or large comet-tail artifacts",
+                "0"
+              ],
+              [
+                "Macrocalcifications",
+                "1"
+              ],
+              [
+                "Peripheral (rim) calcifications",
+                "2"
+              ],
+              [
+                "Punctate echogenic foci",
+                "3"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Category and Management",
+        "description": "Total points determine category; management based on nodule size.",
+        "table": {
+          "columns": [
+            "Category",
+            "Points",
+            "Risk",
+            "Follow-up",
+            "FNA Threshold"
+          ],
+          "rows": [
+            [
+              "TR1",
+              "0",
+              "Benign",
+              "No F/U",
+              "None"
+            ],
+            [
+              "TR2",
+              "2",
+              "Not Suspicious",
+              "No F/U",
+              "None"
+            ],
+            [
+              "TR3",
+              "3",
+              "Mildly Suspicious",
+              ">=1.5 cm: US at 1, 3, 5 years",
+              ">=2.5 cm"
+            ],
+            [
+              "TR4",
+              "4-6",
+              "Moderately Suspicious",
+              ">=1.0 cm: US at 1, 2, 3 years",
+              ">=1.5 cm"
+            ],
+            [
+              "TR5",
+              ">=7",
+              "Highly Suspicious",
+              ">=0.5 cm: US at 1, 2, 3 years",
+              ">=1.0 cm"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Notes",
+        "items": [
+          "Sum feature points to assign TI-RADS category.",
+          "Follow-up intervals are typical; adapt to clinical context and prior stability.",
+          "Consider patient factors (age, comorbidities, preferences) before biopsy or follow-up.",
+          "Use dedicated thyroid US measurements; if multiple nodules, manage each appropriately.",
+          "Punctate echogenic foci are considered suspicious for microcalcifications."
+        ]
+      }
+    ]
+  },
+  "lungrads": {
+    "source": "LungRads.pdf",
+    "title": "ACR Lung-RADS v2022",
+    "release_date": "November 2022",
+    "sections": [
+      {
+        "heading": "Assessment Categories",
+        "description": "Standard Lung-RADS assessment categories 0-4X",
+        "table": {
+          "columns": [
+            "category",
+            "label",
+            "criteria",
+            "management"
+          ],
+          "rows": [
+            [
+              "0",
+              "Incomplete",
+              "Prior chest imaging or additional views needed to complete assessment.",
+              "Obtain prior imaging or additional LDCT; then reassign final category."
+            ],
+            [
+              "1",
+              "Negative",
+              "No nodules or nodules with definitely benign features.",
+              "Annual LDCT in 12 months."
+            ],
+            [
+              "2",
+              "Benign appearance/behavior",
+              "Nodules with benign characteristics (e.g., calcified, fat-containing, or clearly benign behavior).",
+              "Annual LDCT in 12 months."
+            ],
+            [
+              "3",
+              "Probably benign",
+              "Low-suspicion nodules (e.g., small solid or subsolid nodules with low-risk features).",
+              "LDCT in 6 months."
+            ],
+            [
+              "4A",
+              "Suspicious (moderate risk)",
+              "Intermediate-suspicion nodules (solid or part-solid with concerning size/growth).",
+              "LDCT in 3 months; consider PET/CT if solid component >= 8 mm."
+            ],
+            [
+              "4B",
+              "Suspicious (higher risk)",
+              "High-suspicion nodules (larger/growing solid or part-solid lesions).",
+              "Diagnostic chest CT (with or without contrast), PET/CT, and/or tissue sampling; manage clinically."
+            ],
+            [
+              "4X",
+              "Suspicious with additional high-risk features",
+              "Category 3 or 4 nodules with additional features concerning for lung cancer (e.g., spiculation, pleural retraction, lymphadenopathy).",
+              "Diagnostic chest CT, PET/CT, and/or tissue sampling; manage clinically."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Size-Based Nodule Categories",
+        "description": "Sizing rules by nodule type",
+        "tables": [
+          {
+            "title": "Solid Nodules",
+            "columns": [
+              "category",
+              "criteria",
+              "management"
+            ],
+            "rows": [
+              [
+                "2",
+                "<6 mm (baseline) or benign-appearing solid nodules",
+                "Annual LDCT in 12 months"
+              ],
+              [
+                "3",
+                "6 to <8 mm (baseline) or new 4 to <6 mm",
+                "LDCT in 6 months"
+              ],
+              [
+                "4A",
+                "8 to <15 mm (baseline) or new 6 to <8 mm",
+                "LDCT in 3 months; consider PET/CT if solid component >= 8 mm"
+              ],
+              [
+                "4B",
+                ">=15 mm (baseline) or new/growing >=8 mm",
+                "Diagnostic chest CT (with or without contrast), PET/CT, and/or tissue sampling"
+              ],
+              [
+                "4X",
+                "Category 3 or 4 solid nodules with additional high-risk features",
+                "Diagnostic chest CT, PET/CT, and/or tissue sampling"
+              ]
+            ]
+          },
+          {
+            "title": "Part-Solid Nodules",
+            "columns": [
+              "category",
+              "criteria",
+              "management"
+            ],
+            "rows": [
+              [
+                "2",
+                "Total size <6 mm or previously stable >=3 years with solid component <6 mm",
+                "Annual LDCT in 12 months"
+              ],
+              [
+                "3",
+                "Total size >=6 mm with solid component <6 mm; or new part-solid <6 mm",
+                "LDCT in 6 months"
+              ],
+              [
+                "4A",
+                "Total size >=6 mm with solid component 6 to <8 mm; or new part-solid >=6 mm",
+                "LDCT in 3 months; consider PET/CT if solid component >= 8 mm"
+              ],
+              [
+                "4B",
+                "Solid component >=8 mm; or new/growing solid component >=6 mm",
+                "Diagnostic chest CT (with or without contrast), PET/CT, and/or tissue sampling"
+              ],
+              [
+                "4X",
+                "Category 3 or 4 part-solid nodules with additional high-risk features",
+                "Diagnostic chest CT, PET/CT, and/or tissue sampling"
+              ]
+            ]
+          },
+          {
+            "title": "Ground-Glass (Non-Solid) Nodules",
+            "columns": [
+              "category",
+              "criteria",
+              "management"
+            ],
+            "rows": [
+              [
+                "2",
+                "<30 mm and/or stable >=3 months",
+                "Annual LDCT in 12 months"
+              ],
+              [
+                "3",
+                ">=30 mm (baseline) or slowly growing non-solid nodule without solid component",
+                "LDCT in 6 months"
+              ],
+              [
+                "4A",
+                "New or growing non-solid nodule >=30 mm",
+                "LDCT in 3 months"
+              ],
+              [
+                "4X",
+                "Non-solid nodules with additional high-risk imaging features",
+                "Diagnostic chest CT, PET/CT, and/or tissue sampling"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Modifiers and Notes",
+        "items": [
+          "Use category 0 when prior imaging or additional chest LDCT is required before assigning a final category.",
+          "Modifiers may be applied for significant or clinically relevant non-lung cancer findings (e.g., ?S? for significant other findings, ?C? for clinically significant extrapulmonary findings).",
+          "Interval for routine screening remains annual (12 months) for categories 1 and 2.",
+          "Growth or emergence of a solid component can upgrade category assignment per size thresholds above.",
+          "PET/CT is generally considered when the solid component is >=8 mm."
+        ]
+      }
+    ]
+  },
+  "hrct-interpretation": {
+    "title": "HRCT - Basic Interpretation",
+    "source": "Radiology Assistant: HRCT - Basic Interpretation",
+    "sections": [
+      {
+        "title": "Secondary Pulmonary Lobule",
+        "description": "HRCT resolution approaches the size of the secondary lobule. Understanding its anatomy is essential to interpret distribution and patterns.",
+        "items": [
+          "Centrilobular core: terminal bronchiole and accompanying artery run in the center of the lobule.",
+          "Interlobular septa: contain pulmonary veins and lymphatics; septal thickening produces reticular pattern.",
+          "Perilymphatic region: along pleura, fissures, bronchovascular bundles.",
+          "Centrilobular region: spared pleura and fissures; nodules here suggest small airway or vascular disease."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca0add_sec-lob3.jpg",
+            "alt": "Secondary lobule anatomy",
+            "caption": "Centrilobular artery/bronchiole in blue; veins/lymphatics in septa (red)."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca131e_centrilob-vs-perilymp.jpg",
+            "alt": "Centrilobular vs perilymphatic regions",
+            "caption": "Centrilobular (blue) vs perilymphatic (yellow) distribution."
+          }
+        ]
+      },
+      {
+        "title": "Approach to HRCT",
+        "description": "Two-axis approach: distribution and pattern.",
+        "items": [
+          "Distribution: upper vs mid vs lower zones; central vs peripheral; perilymphatic vs centrilobular vs random; subpleural vs peribronchovascular.",
+          "Pattern categories: reticular/interstitial, nodular, increased attenuation (ground-glass, consolidation, crazy paving), decreased attenuation (emphysema, cysts, mosaic attenuation/air-trapping).",
+          "Assess ancillary findings: traction bronchiectasis, architectural distortion, pleural disease, lymph nodes, airway caliber, vascular size."
+        ]
+      },
+      {
+        "title": "Reticular Pattern & Honeycombing",
+        "description": "Septal thickening, intralobular lines, architectural distortion; honeycombing signifies fibrosis.",
+        "items": [
+          "Honeycombing: stacked cystic air spaces with well-defined walls (usually 3-10 mm), subpleural and basal predominance.",
+          "Traction bronchiectasis accompanies fibrotic processes (e.g., UIP/IPF).",
+          "Septal thickening + GGO with gravitational distribution suggests edema (e.g., cardiogenic)."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca1e3f_UIP2.jpg",
+            "alt": "UIP honeycombing",
+            "caption": "Honeycombing and traction bronchiectasis in UIP/IPF."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca39de_honeycombing.jpg",
+            "alt": "Honeycombing",
+            "caption": "Subpleural stacked cysts typical for honeycombing."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca2f2b_GG-decomp1.jpg",
+            "alt": "Septal thickening and GGO",
+            "caption": "Septal thickening + ground-glass in dependent lungs (edema)."
+          }
+        ]
+      },
+      {
+        "title": "Ground-Glass, Crazy Paving, Consolidation",
+        "description": "Increased attenuation patterns.",
+        "items": [
+          "Ground-glass opacity (GGO): hazy increased attenuation with preserved vessel outlines.",
+          "Consolidation: opacification obscuring vessels; air bronchograms common.",
+          "Crazy paving: GGO with superimposed septal/intralobular lines (e.g., alveolar proteinosis, edema, hemorrhage, infection)."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca3506_alv-proteinosis.jpg",
+            "alt": "Alveolar proteinosis",
+            "caption": "Crazy paving pattern in alveolar proteinosis."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb2baa_crazy-paving2.jpg",
+            "alt": "Crazy paving",
+            "caption": "Crazy paving appearance."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cad6ec__GGconsol.jpg",
+            "alt": "GGO and consolidation",
+            "caption": "Bronchoalveolar carcinoma with mixed GGO and consolidation."
+          }
+        ]
+      },
+      {
+        "title": "Nodular Patterns",
+        "description": "Differentiate by distribution: perilymphatic, centrilobular, random.",
+        "items": [
+          "Perilymphatic: along pleura, fissures, peribronchovascular bundles (e.g., sarcoidosis).",
+          "Centrilobular: spares pleura/fissures; seen in HP, infection, RB-ILD; tree-in-bud when impacted bronchioles.",
+          "Random: uniform distribution, including subpleural (e.g., miliary TB, hematogenous metastases)."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca8c0a_sarcoid-nodules.jpg",
+            "alt": "Sarcoidosis",
+            "caption": "Perilymphatic nodules in sarcoidosis."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976ca9630_centrilob-gg.jpg",
+            "alt": "Centrilobular GGO nodules",
+            "caption": "Poorly defined centrilobular GGO nodules in hypersensitivity pneumonitis."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976caa2f7_Tree-in-bud.jpg",
+            "alt": "Tree-in-bud",
+            "caption": "Tree-in-bud pattern (endobronchial infection)."
+          }
+        ]
+      },
+      {
+        "title": "Mosaic Attenuation / Air Trapping",
+        "description": "Areas of differing attenuation/lucency.",
+        "items": [
+          "Causes: small airway disease (air-trapping), vascular occlusion, infiltrative ground glass.",
+          "Expiratory scans accentuate air-trapping; vessels smaller in hypoattenuated regions when perfusion reduced.",
+          "Correlate with distribution and clinical context."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976caeb56_moziak-3.jpg",
+            "alt": "Mosaic attenuation",
+            "caption": "Three etiologies of mosaic attenuation."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976caf140_mosaic-1.jpg",
+            "alt": "Mosaic in HP",
+            "caption": "Mosaic pattern in hypersensitivity pneumonitis."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976caf5ce_moziak-le.jpg",
+            "alt": "Mosaic in chronic thromboembolism",
+            "caption": "Perfusion-related mosaic pattern."
+          }
+        ]
+      },
+      {
+        "title": "Emphysema & Low Attenuation",
+        "description": "Patterns of decreased attenuation.",
+        "items": [
+          "Centrilobular emphysema: lucencies centered on respiratory bronchioles, sparing pleura.",
+          "Paraseptal emphysema: subpleural/bullous lucencies along septa and pleura.",
+          "Panlobular emphysema: diffuse low attenuation with uniform vessel attenuation (e.g., alpha-1 antitrypsin deficiency)."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb43fb_emf-centri.jpg",
+            "alt": "Centrilobular emphysema",
+            "caption": "Centrilobular emphysema sparing the pleural surface."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb4858_sept-emfyseem.jpg",
+            "alt": "Paraseptal emphysema",
+            "caption": "Subpleural/bullous paraseptal emphysema."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb4cd6_panlob-emfysema-1.jpg",
+            "alt": "Panlobular emphysema",
+            "caption": "Panlobular emphysema with uniform involvement."
+          }
+        ]
+      },
+      {
+        "title": "Cystic Lung Disease",
+        "description": "Thin- or thick-walled air-containing spaces.",
+        "items": [
+          "Langerhans cell histiocytosis: upper lobe-predominant nodules -> bizarre cysts.",
+          "LAM: diffuse, thin-walled round cysts; may be complicated by pneumothorax.",
+          "Differentiate cysts from honeycombing (fibrosis) and emphysema (no wall)."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb54e2_Langerhans.jpg",
+            "alt": "LCH cysts",
+            "caption": "Langerhans cell histiocytosis with cystic change."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb5b52_LAM.jpg",
+            "alt": "LAM cysts",
+            "caption": "Lymphangioleiomyomatosis with diffuse thin-walled cysts."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5aad0a8f1f23c__cystic.png",
+            "alt": "Cystic differential table",
+            "caption": "Cystic pattern quick reference."
+          }
+        ]
+      },
+      {
+        "title": "Bronchiectasis & Airways",
+        "description": "Dilated airways, tree-in-bud, mucoid impaction.",
+        "items": [
+          "Traction bronchiectasis signifies fibrosis; central bronchiectasis + mucoid impaction (glove-finger) in ABPA.",
+          "Tree-in-bud reflects endobronchial infection/inflammation with impacted bronchioles.",
+          "Evaluate airway caliber, wall thickening, and distribution."
+        ],
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5aad0370b2be0__TAB-Bronchiectasis2-.png",
+            "alt": "Bronchiectasis reference",
+            "caption": "Bronchiectasis patterns overview."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb63bc_ABPA.jpg",
+            "alt": "ABPA mucoid impaction",
+            "caption": "Glove-finger impaction in ABPA."
+          }
+        ]
+      },
+      {
+        "title": "Differential Quick Tables",
+        "description": "Reference panels summarizing patterns and differentials.",
+        "images": [
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb8b11_DD-reticular-hrct.jpg",
+            "alt": "Reticular differential",
+            "caption": "Reticular pattern differential."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cb9a2c_DD-highatt-hrct.jpg",
+            "alt": "High attenuation differential",
+            "caption": "High attenuation (GGO/consolidation) differential."
+          },
+          {
+            "src": "https://radiologyassistant.nl/assets/lung-hrct-basic-interpretation/a5097976cba43e_DD-low-attenuation-hrct.jpg",
+            "alt": "Low attenuation differential",
+            "caption": "Low attenuation (emphysema/cysts/mosaic) differential."
+          }
+        ]
+      }
+    ]
+  },
+  "bone-tumors": {
+    "title": "Bone Tumors - Differential Diagnosis",
+    "source": "Radiology Assistant: Bone tumors - Differential diagnosis",
+    "sections": [
+      {
+        "title": "Systematic Approach",
+        "description": "Start with patient age, lesion location (epiphysis/metaphysis/diaphysis, axial vs appendicular), and the most aggressive imaging feature.",
+        "images": [
+          {
+            "src": "-tab-overzicht.jpg",
+            "alt": "Bone tumor overview"
+          },
+          {
+            "src": "-tab-3-approach-1647507262.png",
+            "alt": "Three-question approach"
+          },
+          {
+            "src": "-tab-2.png",
+            "alt": "Approach summary"
+          }
+        ]
+      },
+      {
+        "title": "Zone of Transition",
+        "description": "Narrow zone suggests slow growth/benign; wide or ill-defined transition suggests aggressive or malignant process (including infection or EG).",
+        "images": [
+          {
+            "src": "_zin-2-narrow-zone.png",
+            "alt": "Narrow zone key points"
+          },
+          {
+            "src": "-narrow-zone.jpg",
+            "alt": "Narrow zone examples: NOF, SBC, ABC"
+          },
+          {
+            "src": "_zin-3-mets.png",
+            "alt": "Metastatic lesions illustration"
+          },
+          {
+            "src": "-wide-zone.jpg",
+            "alt": "Wide zone indicates aggressiveness"
+          }
+        ]
+      },
+      {
+        "title": "Periosteal Reaction",
+        "description": "Smooth, uninterrupted periosteal reaction is typically benign/stress/healing; aggressive patterns include lamellated, spiculated, or Codman triangle.",
+        "images": [
+          {
+            "src": "_zin-1-1647417708.png",
+            "alt": "Periosteal reaction overview"
+          },
+          {
+            "src": "-periosteal-1647469442.jpg",
+            "alt": "Periosteal reaction examples"
+          },
+          {
+            "src": "_zin-4-periosteal.png",
+            "alt": "Periosteal reaction types"
+          },
+          {
+            "src": "-periosteal-benign.jpg",
+            "alt": "Benign periosteal reaction"
+          },
+          {
+            "src": "_zin-4.png",
+            "alt": "Periosteal quick reference"
+          },
+          {
+            "src": "-periosteal-aggressive.jpg",
+            "alt": "Aggressive periosteal reaction"
+          }
+        ]
+      },
+      {
+        "title": "Cortex and Expansion",
+        "description": "Evaluate cortical destruction, ballooning, and soft-tissue mass.",
+        "images": [
+          {
+            "src": "-cortical-destruction.jpg",
+            "alt": "Cortical destruction examples"
+          },
+          {
+            "src": "-ballooning.jpg",
+            "alt": "Ballooning examples"
+          },
+          {
+            "src": "-cortical-destruction2.jpg",
+            "alt": "Permeative cortical destruction with soft-tissue mass"
+          }
+        ]
+      },
+      {
+        "title": "Location Patterns",
+        "description": "Location within the skeleton guides differential.",
+        "images": [
+          {
+            "src": "a50979791b51b6_Skeleton-top-5-2.jpg",
+            "alt": "Common locations overview"
+          },
+          {
+            "src": "-tab-overzicht-1647429028.jpg",
+            "alt": "Location-based overview"
+          }
+        ]
+      },
+      {
+        "title": "Centricity",
+        "description": "Eccentric vs central positioning within the bone can narrow differential diagnoses.",
+        "images": [
+          {
+            "src": "-centric.jpg",
+            "alt": "Centric vs eccentric lesions"
+          }
+        ]
+      },
+      {
+        "title": "Matrix",
+        "description": "Matrix mineralization pattern (chondroid, osteoid, fibrous) aids diagnosis.",
+        "images": [
+          {
+            "src": "-matrix1.jpg",
+            "alt": "Chondroid matrix"
+          },
+          {
+            "src": "-matrix.jpg",
+            "alt": "Osteoid matrix examples"
+          }
+        ]
+      },
+      {
+        "title": "Multiplicity",
+        "description": "Multiple lesions shift the differential toward metastases, myeloma, LCH, or multifocal benign entities.",
+        "images": [
+          {
+            "src": "-multiple.jpg",
+            "alt": "Multiple lesions examples"
+          },
+          {
+            "src": "-wervel-2.jpg",
+            "alt": "Vertebral lesion example 1"
+          },
+          {
+            "src": "-wervel-1.jpg",
+            "alt": "Vertebral lesion example 2"
+          },
+          {
+            "src": "-voet-1.jpg",
+            "alt": "Foot lesion 1"
+          },
+          {
+            "src": "-voet-2.jpg",
+            "alt": "Foot lesion 2"
+          },
+          {
+            "src": "-voet-3.jpg",
+            "alt": "Foot lesion 3"
+          },
+          {
+            "src": "frank--en-nini-1699003065.jpg",
+            "alt": "Authors"
+          }
+        ]
+      }
+    ]
+  },
+  "arthritis": {
+    "title": "Arthritis",
+    "source": "Radiology Assistant: Arthritis (Fractures video lesson)",
+    "sections": [
+      {
+        "title": "Approach",
+        "description": "Use a systematic ABCDE approach when evaluating arthritis on radiographs.",
+        "items": [
+          "Alignment",
+          "Bone density (osteopenia/erosions)",
+          "Cartilage space (joint space)",
+          "Deformity (osteophytes, bone proliferation)",
+          "Soft tissue"
+        ],
+        "images": [
+          {
+            "src": "1-tan-intro.jpeg",
+            "alt": "Arthritis intro diagram"
+          },
+          {
+            "src": "1-tab-abcde.png",
+            "alt": "ABCDE approach to arthritis"
+          }
+        ]
+      },
+      {
+        "title": "Erosions",
+        "description": "Erosions are focal bone loss at the joint margins-key for inflammatory arthritides.",
+        "images": [
+          {
+            "src": "1-tek-erosions2-1671726481.jpeg",
+            "alt": "Erosions example"
+          },
+          {
+            "src": "-1-erosions3.jpg",
+            "alt": "Erosions example 2"
+          }
+        ]
+      },
+      {
+        "title": "Alignment",
+        "description": "Assess for malalignment and subluxation.",
+        "images": [
+          {
+            "src": "1-tab-alignment.jpeg",
+            "alt": "Alignment reference"
+          }
+        ]
+      },
+      {
+        "title": "Osteophytes / Deformity",
+        "description": "Bone proliferation and osteophytes are typical in degenerative changes.",
+        "images": [
+          {
+            "src": "1-tab-osteophytes.jpeg",
+            "alt": "Osteophyte reference"
+          },
+          {
+            "src": "1-tab-osteophytes-1671799952.jpeg",
+            "alt": "Osteophyte reference 2"
+          }
+        ]
+      },
+      {
+        "title": "Bone Density / Osteopenia",
+        "description": "Periarticular osteopenia suggests inflammatory arthritis; sclerosis favors degenerative disease.",
+        "images": [
+          {
+            "src": "1-intro-osteopenie-1671790727.jpeg",
+            "alt": "Periarticular osteopenia examples"
+          }
+        ]
+      },
+      {
+        "title": "Cartilage Space",
+        "description": "Joint space narrowing pattern helps distinguish inflammatory from degenerative disease.",
+        "images": [
+          {
+            "src": "1-tek-cartilage-1671799701.jpeg",
+            "alt": "Cartilage/joint space reference"
+          }
+        ]
+      },
+      {
+        "title": "Soft Tissue",
+        "description": "Evaluate for swelling, effusions, or masses.",
+        "images": [
+          {
+            "src": "1-tab-soft-tissue-1671801713.jpeg",
+            "alt": "Soft tissue reference"
+          }
+        ]
+      },
+      {
+        "title": "Case: Hand Osteoarthrosis",
+        "description": "Example radiograph showing degenerative changes.",
+        "images": [
+          {
+            "src": "1-hand-osteoarthrosis.jpeg",
+            "alt": "Hand osteoarthrosis"
+          }
+        ]
+      }
+    ]
+  },
+  "lymph-node-limits": {
+    "title": "Upper Limit of Lymph Node Sizes in Adults",
+    "source": "Extracted from Wikipedia: Lymph node - table \"Upper limit of lymph node sizes in adults\"",
+    "sections": [
+      {
+        "title": "General and Pelvis",
+        "description": "General upper limits and pelvic/inguinal nodes (short-axis, unless specified).",
+        "table": {
+          "columns": [
+            "Location",
+            "Upper limit"
+          ],
+          "rows": [
+            [
+              "Generally",
+              "10 mm"
+            ],
+            [
+              "Inguinal",
+              "10-20 mm"
+            ],
+            [
+              "Pelvis",
+              "10 mm (ovoid), 8 mm (rounded)"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Neck",
+        "description": "Cervical lymph node size thresholds.",
+        "table": {
+          "columns": [
+            "Location",
+            "Upper limit"
+          ],
+          "rows": [
+            [
+              "Generally (non-retropharyngeal)",
+              "10 mm"
+            ],
+            [
+              "Jugulodigastric",
+              "11 mm or 15 mm"
+            ],
+            [
+              "Retropharyngeal",
+              "8 mm; lateral retropharyngeal 5 mm"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Mediastinum",
+        "description": "Mediastinal lymph node upper limits.",
+        "table": {
+          "columns": [
+            "Location",
+            "Upper limit"
+          ],
+          "rows": [
+            [
+              "Mediastinum (general)",
+              "10 mm"
+            ],
+            [
+              "Superior mediastinum / high paratracheal",
+              "7 mm"
+            ],
+            [
+              "Low paratracheal and subcarinal",
+              "11 mm"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Upper Abdominal",
+        "description": "Upper abdominal lymph node size thresholds.",
+        "table": {
+          "columns": [
+            "Location",
+            "Upper limit"
+          ],
+          "rows": [
+            [
+              "Retrocrural space",
+              "6 mm"
+            ],
+            [
+              "Paracardiac",
+              "8 mm"
+            ],
+            [
+              "Gastrohepatic ligament",
+              "8 mm"
+            ],
+            [
+              "Upper paraaortic region",
+              "9 mm"
+            ],
+            [
+              "Portacaval space",
+              "10 mm"
+            ],
+            [
+              "Porta hepatis",
+              "7 mm"
+            ],
+            [
+              "Lower paraaortic region",
+              "11 mm"
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "pediatric-normals": {
+    "title": "Pediatric Radiology Normal Measurements",
+    "source": "OHSU Pediatric Radiology Normal Measurements",
+    "sections": [
+      {
+        "title": "Chest - Aorta",
+        "description": "Measurement of pediatric thoracic aorta on contrast-enhanced axial CT.",
+        "items": [
+          "Level A: 1 cm below aortic arch",
+          "Level B: 1 cm cranial to aortic root",
+          "Level C: 1 cm cranial to dome of right hemidiaphragm",
+          "Formulas (mm): A1 = (0.72 x age) + 11.55; A2 = (0.629 x age) + 9.54; B1 = (0.668 x age) + 13; B2 = (0.572 x age) + 9.56; C = (0.559 x age) + 8.44",
+          "Regression charts plot mean with 95% confidence limits",
+          "Reference: Fitzgerald SW, Donaldson JS, Poznanski AK. Pediatric thoracic aorta: Normal measurements determined with CT. Radiology 1987;165:667-669."
+        ],
+        "images": [
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20PNM%20aorta_meas_jose.JPG",
+            "alt": "Pediatric Normal Measurements aorta diagram",
+            "caption": "Levels A-C and measurement sites on thoracic aorta"
+          },
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/aorta_ct_sections.JPG",
+            "alt": "Pediatric thoracic aorta CT measurement levels",
+            "caption": "CT sections demonstrating measurement levels"
+          },
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20Pediatric%20Normal%20Measurements%20aorta%20measurements%20Level%20A%20scatter%20graph.JPG",
+            "alt": "Aorta Level A scatter graph",
+            "caption": "Level A regression graph"
+          },
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20Pediatric%20Normal%20Measurements%20aorta%20measurements%20Level%20B%20scatter%20graph.JPG",
+            "alt": "Aorta Level B scatter graph",
+            "caption": "Level B regression graph"
+          },
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20Pediatric%20Normal%20Measurements%20aorta%20measurements%20Level%20C%20scatter%20graph.JPG",
+            "alt": "Aorta Level C scatter graph",
+            "caption": "Level C regression graph"
+          }
+        ]
+      },
+      {
+        "title": "Chest - Bronchi",
+        "description": "Normal bronchial measurements and visibility.",
+        "items": [
+          "Bronchiectasis defined by bronchus-to-artery ratio >1.2 on chest radiographs (external diameters).",
+          "Normal bronchi are not usually seen in the most peripheral 5-10 mm of lung on CT.",
+          "References: Woodring JH. Pulmonary artery-bronchus ratios in patients with normal lungs, pulmonary vascular plethora, and congestive heart failure. Radiology 1991;179:115-22. Siegel MJ. Pediatric Body CT. 1999. p.101."
+        ]
+      },
+      {
+        "title": "Chest - Cardiothoracic Index",
+        "description": "Frontal chest radiograph at 72 inches during quiet breathing.",
+        "items": [
+          "ID = internal diameter of chest at level of right hemidiaphragm",
+          "MRD = max perpendicular diameter from midline to right heart border",
+          "MLD = max perpendicular diameter from midline to left heart border",
+          "CT index = (MRD + MLD) / ID"
+        ],
+        "tables": [
+          {
+            "title": "Cardiothoracic Index by Age",
+            "columns": [
+              "Age",
+              "Mean CT index",
+              "Standard deviation x1",
+              "Range"
+            ],
+            "rows": [
+              [
+                "0-3 weeks (ref#1)",
+                "0.55",
+                "0.05",
+                "0.65-0.45"
+              ],
+              [
+                "4-7 weeks (ref#1)",
+                "0.58",
+                "0.06",
+                "0.70-0.46"
+              ],
+              [
+                "1 year (ref#1)",
+                "0.53",
+                "0.04",
+                "0.61-0.45"
+              ],
+              [
+                "1-2 years (ref#2)",
+                "0.49",
+                "",
+                "0.60-0.39"
+              ],
+              [
+                "2-6 years (ref#2)",
+                "0.45",
+                "",
+                "0.52-0.40"
+              ],
+              [
+                ">7 years (ref#2)",
+                "&lt;0.50",
+                "",
+                "0.50-0.40"
+              ]
+            ]
+          }
+        ],
+        "items2": [
+          "Comments: First year has larger CT index due to transverse heart position and expiratory films; infant data from supine films at 1.5 m.",
+          "References: Bakwin H, Bakwin R. Am J Dis Child 1935;49:861. Maresh MM, Washburn AH. Am J Dis Child 1938;56:33. Lincoln EM, Spillman R. Am J Dis Child 1928;35:791."
+        ],
+        "images": [
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20Pediatric%20Normal%20Measurements%20Cardiothoracic%20lung%20diagram.JPG",
+            "alt": "Cardiothoracic index diagram",
+            "caption": "ID, MRD, MLD measurement diagram"
+          }
+        ]
+      },
+      {
+        "title": "Chest - Retropharyngeal & Retrotracheal Soft Tissues",
+        "description": "Measurements on lateral neck radiographs.",
+        "tables": [
+          {
+            "title": "Retrotracheal Soft Tissues (max thickness)",
+            "columns": [
+              "Age (years)",
+              "Maximum (mm)"
+            ],
+            "rows": [
+              [
+                "0-1",
+                "2.0 x C5*"
+              ],
+              [
+                "1-2",
+                "1.5 x C5"
+              ],
+              [
+                "2-14",
+                "1.2 x C5"
+              ]
+            ]
+          },
+          {
+            "title": "Retropharyngeal Soft Tissues (max thickness)",
+            "columns": [
+              "Age (years)",
+              "Maximum (mm)"
+            ],
+            "rows": [
+              [
+                "0-1",
+                "1.5 x C5*"
+              ],
+              [
+                "1-3",
+                "0.5 x C5"
+              ],
+              [
+                "3-6",
+                "0.4 x C5"
+              ],
+              [
+                "6-14",
+                "0.3 x C5"
+              ]
+            ]
+          }
+        ],
+        "items": [
+          "*Measured at mid-portion of C5 on lateral radiograph.",
+          "Expiration and neck flexion increase apparent thickness artifactually.",
+          "Rule of 7s: retropharyngeal <=7 mm; retrotracheal <=14 mm.",
+          "References: Hay PD Jr. Ann Roentgenol 1930. Redman HC et al. Emergency Radiology, Cervical Spine, 1993."
+        ],
+        "images": [
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20Pediatric%20Normal%20Measurements%20retropharynx%20picture.JPG",
+            "alt": "Retropharynx measurement diagram",
+            "caption": "Retropharyngeal and retrotracheal measurement landmarks"
+          }
+        ]
+      },
+      {
+        "title": "Chest - Thymus",
+        "description": "Normal CT measurements (mean values).",
+        "tables": [
+          {
+            "title": "Thymus Measurements",
+            "columns": [
+              "Age (y)",
+              "AP diameter (cm)",
+              "Thickness of limbs (cm)",
+              "Craniocaudal length (cm)",
+              "Width (cm)"
+            ],
+            "rows": [
+              [
+                "0-10",
+                "2.52 (0.82)",
+                "1.50 (0.46)",
+                "3.53 (0.99)",
+                "3.13 (0.85)"
+              ],
+              [
+                "10-20",
+                "2.56 (0.88)",
+                "1.05 (0.36)",
+                "4.99 (1.25)",
+                "3.05 (1.17)"
+              ]
+            ]
+          }
+        ],
+        "items": [
+          "Reference: Francis IR, Glazer GM, Bookstein FL, Gross BH. The thymus: reexamination of age-related changes in size and shape. AJR 1985;145:249-254."
+        ],
+        "images": [
+          {
+            "src": "https://www.ohsu.edu/sites/default/files/2019-01/DRAD%20Pediatric%20Normal%20Measurements%20thymus.JPG",
+            "alt": "Thymus diagram",
+            "caption": "Thymic measurements"
+          }
+        ]
+      },
+      {
+        "title": "Endocrine - Thyroid",
+        "description": "Sonographic normal thyroid lobe measurements.",
+        "tables": [
+          {
+            "title": "Thyroid Lobe Dimensions",
+            "columns": [
+              "Age group",
+              "Transverse (cm)",
+              "Longitudinal (cm)",
+              "AP (cm)"
+            ],
+            "rows": [
+              [
+                "Infants & young children",
+                "1-1.5",
+                "2-3",
+                "0.2-1.2"
+              ],
+              [
+                "Adolescents & adults",
+                "2-4",
+                "5-8",
+                "1-2.5"
+              ]
+            ]
+          }
+        ],
+        "items": [
+          "Reference: Cole-Beuglet C. Ultrasonography of the thyroid, parathyroid and neck masses. In: Diagnostic ultrasound: text and cases. 1987:608-618. (Modified)"
+        ]
+      },
+      {
+        "title": "Gastrointestinal - Appendix",
+        "description": "Normal appendix measurements.",
+        "tables": [
+          {
+            "title": "Normal Appendix Dimensions",
+            "columns": [
+              "Modality",
+              "Transverse diameter (mm)",
+              "Appendiceal wall thickness (mm)"
+            ],
+            "rows": [
+              [
+                "Ultrasound",
+                "&lt;6 and compressible",
+                "Usually &lt;2"
+              ],
+              [
+                "CT",
+                "&lt;8",
+                "&lt;2-4"
+              ]
+            ]
+          }
+        ],
+        "items": [
+          "References: Kao SC et al. Acute appendicitis in children: sonographic findings. AJR 1989;153:375-379. Curtin KR et al. CT diagnosis of acute appendicitis. AJR 1995;164:905-909."
+        ]
+      }
+    ]
+  },
+  "injury-scoring": {
+    "kind": "injuryTables",
+    "source": "InjuryScoring.pdf",
+    "tables": [
+      {
+        "table": "Liver",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Subcapsular <10% surface area"
+          },
+          {
+            "grade": "I",
+            "type": "Laceration",
+            "description": "Capsular tear <1 cm parenchymal depth"
+          },
+          {
+            "grade": "II",
+            "type": "Hematoma",
+            "description": "Subcapsular 10-50% surface area; intraparenchymal <10 cm diameter"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Capsular tear 1-3 cm parenchymal depth, <10 cm length"
+          },
+          {
+            "grade": "III",
+            "type": "Hematoma",
+            "description": "Subcapsular >50% surface area or expanding; ruptured subcapsular or parenchymal hematoma; intraparenchymal hematoma >10 cm or expanding"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": ">3 cm parenchymal depth"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Parenchymal disruption involving 25-75% of hepatic lobe or 1-3 Couinaud segments"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Parenchymal disruption >75% of hepatic lobe or >3 Couinaud segments within a single lobe"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Juxtahepatic venous injuries (retrohepatic vena cava/central major hepatic veins)"
+          },
+          {
+            "grade": "VI",
+            "type": "Vascular",
+            "description": "Hepatic avulsion"
+          }
+        ]
+      },
+      {
+        "table": "Spleen",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Subcapsular <10% surface area"
+          },
+          {
+            "grade": "I",
+            "type": "Laceration",
+            "description": "Capsular tear <1 cm parenchymal depth"
+          },
+          {
+            "grade": "II",
+            "type": "Hematoma",
+            "description": "Subcapsular 10-50% surface area; intraparenchymal <5 cm diameter"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Capsular tear 1-3 cm parenchymal depth that does not involve a trabecular vessel"
+          },
+          {
+            "grade": "III",
+            "type": "Hematoma",
+            "description": "Subcapsular >50% surface area or expanding; ruptured subcapsular or parenchymal hematoma; intraparenchymal hematoma >5 cm or expanding"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": ">3 cm parenchymal depth or involving trabecular vessels"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Laceration involving segmental or hilar vessels producing major devascularization (>25% of spleen)"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Completely shattered spleen"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Hilar vascular injury that devascularizes spleen"
+          }
+        ]
+      },
+      {
+        "table": "Kidney",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Microscopic or gross hematuria, urologic studies normal"
+          },
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Subcapsular, nonexpanding without parenchymal laceration"
+          },
+          {
+            "grade": "II",
+            "type": "Hematoma",
+            "description": "Nonexpanding perirenal hematoma confined to renal retroperitoneum"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "<1 cm parenchymal depth of renal cortex without urinary extravasation"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": ">1 cm parenchymal depth of renal cortex without collecting system rupture or urinary extravasation"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Parenchymal laceration extending through cortex, medulla, and collecting system"
+          },
+          {
+            "grade": "IV",
+            "type": "Vascular",
+            "description": "Main renal artery or vein injury with contained hemorrhage"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Completely shattered kidney"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Avulsion of renal hilum which devascularizes kidney"
+          }
+        ]
+      },
+      {
+        "table": "Pancreas",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Minor contusion without duct injury"
+          },
+          {
+            "grade": "I",
+            "type": "Laceration",
+            "description": "Superficial laceration without duct injury"
+          },
+          {
+            "grade": "II",
+            "type": "Hematoma",
+            "description": "Major contusion without duct injury or tissue loss"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Major laceration without duct injury or tissue loss"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Distal transection or parenchymal injury with duct injury"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Proximal transection or parenchymal injury involving ampulla"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Massive disruption of pancreatic head"
+          }
+        ]
+      },
+      {
+        "table": "Heart",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Blunt",
+            "description": "Blunt cardiac injury with minor ECG abnormality (nonspecific ST/T changes, premature atrial or ventricular contraction, or persistent sinus tachycardia)"
+          },
+          {
+            "grade": "II",
+            "type": "Pericardial wound",
+            "description": "Blunt or penetrating pericardial wound without cardiac injury, cardiac tamponade, or cardiac herniation"
+          },
+          {
+            "grade": "III",
+            "type": "Blunt",
+            "description": "Blunt cardiac injury with heart block (RBBB/LBBB/LAFB/AV block) or ST depression/T wave inversion without cardiac failure; penetrating tangential myocardial wound up to but not through endocardium without tamponade; or sustained (>6 beats/min) multifocal ventricular contractions"
+          },
+          {
+            "grade": "IV",
+            "type": "Blunt/Penetrating",
+            "description": "Blunt pericardial laceration with cardiac herniation; penetrating tangential myocardial wound extending through endocardium with tamponade; or septal/valvular/ coronary injury without failure"
+          },
+          {
+            "grade": "V",
+            "type": "Blunt/Penetrating",
+            "description": "Cardiac injury with septal rupture, valvular incompetence, papillary muscle dysfunction, or distal coronary occlusion producing cardiac failure; proximal coronary occlusion; right/left atrial or ventricular perforation; aortic/mitral valve incompetence"
+          },
+          {
+            "grade": "VI",
+            "type": "Avulsion",
+            "description": "Blunt avulsion of the heart or penetrating wound producing >50% tissue loss of a chamber"
+          }
+        ]
+      },
+      {
+        "table": "Lung",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Unilateral lung contusion <1 lobe"
+          },
+          {
+            "grade": "II",
+            "type": "Contusion/Pneumothorax",
+            "description": "Unilateral single-lobe contusion or simple pneumothorax"
+          },
+          {
+            "grade": "III",
+            "type": "Contusion/Laceration",
+            "description": "Unilateral contusion >1 lobe; persistent air leak (>72h) from distal airway; nonexpanding intraparenchymal hematoma"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration/Hematoma",
+            "description": "Expanding intraparenchymal hematoma or major (segmental/lobar) laceration; primary branch intrapulmonary vessel disruption"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Hilar vessel disruption"
+          },
+          {
+            "grade": "VI",
+            "type": "Vascular",
+            "description": "Total uncontained transection of pulmonary hilum"
+          }
+        ]
+      },
+      {
+        "table": "Diaphragm",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Diaphragm contusion"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Laceration <2 cm"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Laceration 2-10 cm"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">10 cm laceration with tissue loss <25 cm^2"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": ">10 cm laceration with tissue loss >25 cm^2"
+          }
+        ]
+      },
+      {
+        "table": "Cervical Vascular",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Arterial dissection or hematoma",
+            "description": "Luminal narrowing <25% without ischemia"
+          },
+          {
+            "grade": "II",
+            "type": "Arterial dissection",
+            "description": "Luminal narrowing >25% or intraluminal thrombus"
+          },
+          {
+            "grade": "III",
+            "type": "Pseudoaneurysm",
+            "description": "Pseudoaneurysm of carotid or vertebral artery"
+          },
+          {
+            "grade": "IV",
+            "type": "Occlusion",
+            "description": "Carotid or vertebral arterial occlusion"
+          },
+          {
+            "grade": "V",
+            "type": "Transection",
+            "description": "Transection with extravasation"
+          }
+        ]
+      },
+      {
+        "table": "Chest Wall",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Fracture",
+            "description": "3 adjacent ribs, closed; nondisplaced sternum; scapular body closed"
+          },
+          {
+            "grade": "II",
+            "type": "Fracture",
+            "description": "Open or displaced clavicle; open or displaced sternum; full thickness wound including pleural penetration"
+          },
+          {
+            "grade": "III",
+            "type": "Fracture",
+            "description": "Flail sternum; unilateral flail segment (<3 ribs); chest wall avulsion with underlying rib fractures"
+          },
+          {
+            "grade": "IV",
+            "type": "Fracture",
+            "description": "Unilateral flail chest (>3 ribs)"
+          },
+          {
+            "grade": "V",
+            "type": "Fracture",
+            "description": "Bilateral flail chest (>3 ribs each side)"
+          }
+        ]
+      },
+      {
+        "table": "Thoracic Vascular",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Minor vessels",
+            "description": "Intercostal/internal mammary/bronchial/esophageal/azygos/unnamed small vessels injury"
+          },
+          {
+            "grade": "II",
+            "type": "Major veins",
+            "description": "Internal jugular/subclavian/innominate vein injury"
+          },
+          {
+            "grade": "III",
+            "type": "Carotid/innominate/subclavian artery",
+            "description": "Partial laceration or <50% circumference"
+          },
+          {
+            "grade": "IV",
+            "type": "Thoracic aorta/SVC/Pulmonary branch",
+            "description": "Laceration or >50% circumference; contained rupture"
+          },
+          {
+            "grade": "V",
+            "type": "Pulmonary trunk/aortic transection",
+            "description": "Main pulmonary artery/vein or aortic transection with free rupture"
+          }
+        ]
+      },
+      {
+        "table": "Extrahepatic Biliary",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Gallbladder contusion",
+            "description": "Gallbladder contusion/hematoma; portal triad contusion"
+          },
+          {
+            "grade": "II",
+            "type": "Gallbladder avulsion (partial)",
+            "description": "Partial avulsion from liver bed; cystic duct intact"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Gallbladder laceration or perforation; cystic duct laceration; partial right or left hepatic duct laceration; partial common hepatic/bile duct laceration (<50%)"
+          },
+          {
+            "grade": "IV",
+            "type": "Transection",
+            "description": ">50% transection of common hepatic or bile duct; combined right and left hepatic duct injuries"
+          },
+          {
+            "grade": "V",
+            "type": "Complex",
+            "description": "Intradoudenal/intrapancreatic bile duct injuries or complete gallbladder avulsion"
+          }
+        ]
+      },
+      {
+        "table": "Esophagus",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion/Hematoma",
+            "description": "Contusion or hematoma without devascularization"
+          },
+          {
+            "grade": "II",
+            "type": "Partial thickness",
+            "description": "Partial thickness laceration"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "<50% circumference laceration"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">50% circumference laceration"
+          },
+          {
+            "grade": "V",
+            "type": "Segmental loss",
+            "description": "Segmental loss or devascularization <2 cm"
+          },
+          {
+            "grade": "VI",
+            "type": "Segmental loss",
+            "description": "Segmental loss or devascularization >2 cm"
+          }
+        ]
+      },
+      {
+        "table": "Stomach",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion/Hematoma",
+            "description": "Contusion or intramural hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Partial thickness laceration"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "<2 cm at GE junction or pylorus; <5 cm in proximal 1/3; <10 cm in distal 2/3"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">2 cm at GE junction or pylorus; >5 cm proximal 1/3; >10 cm distal 2/3"
+          },
+          {
+            "grade": "V",
+            "type": "Tissue loss",
+            "description": "Tissue loss/devascularization <2/3 stomach"
+          },
+          {
+            "grade": "VI",
+            "type": "Tissue loss",
+            "description": "Tissue loss/devascularization >2/3 stomach"
+          }
+        ]
+      },
+      {
+        "table": "Duodenum",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Single portion, intramural"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Partial thickness, no perforation"
+          },
+          {
+            "grade": "III",
+            "type": "Hematoma",
+            "description": "Involving more than one portion"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Disruption <50% circumference"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "50-75% circumference D2 or 50-100% of D1/D3/D4"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": ">75% of D2; involving ampulla or distal common bile duct; massive duodenopancreatic disruption"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Devascularization of duodenum"
+          }
+        ]
+      },
+      {
+        "table": "Small Bowel",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Contusion/hematoma without devascularization"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Partial thickness, no perforation"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "<50% circumference laceration"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">50% circumference without transection"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Transection with tissue loss"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Devascularized segment"
+          }
+        ]
+      },
+      {
+        "table": "Colon",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Contusion/hematoma without devascularization"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Partial thickness, no perforation"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "<50% circumference laceration"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">50% circumference without transection"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Transection with tissue loss or devascularized segment"
+          }
+        ]
+      },
+      {
+        "table": "Rectum",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Contusion/hematoma without devascularization"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Partial-thickness laceration"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "<50% circumference laceration"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">50% circumference laceration"
+          },
+          {
+            "grade": "V",
+            "type": "Complex",
+            "description": "Full-thickness with extension into perineum or devascularized segment"
+          }
+        ]
+      },
+      {
+        "table": "Abdominal Vascular",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Minor vessels",
+            "description": "Non-named SMA/IMA branches, phrenic, lumbar, gonadal, other small vessels requiring ligation"
+          },
+          {
+            "grade": "II",
+            "type": "Named arteries/veins",
+            "description": "Hepatic artery, splenic artery/vein, gastric arteries, gastroduodenal artery, IMA trunk, primary mesenteric branches"
+          },
+          {
+            "grade": "III",
+            "type": "Major veins",
+            "description": "SMV trunk, renal artery/vein, iliac artery/vein, hypogastric artery/vein"
+          },
+          {
+            "grade": "IV",
+            "type": "Cava/Aorta",
+            "description": "IVC infrarenal; SMA trunk; celiac axis; IVC suprarenal; aorta infrarenal; portal vein; extrahepatic hepatic vein"
+          },
+          {
+            "grade": "V",
+            "type": "Major suprahepatic",
+            "description": "IVC retrohepatic/suprahepatic; aorta suprarenal; massive liver + veins"
+          }
+        ]
+      },
+      {
+        "table": "Adrenal",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Adrenal contusion"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Laceration involving only cortex (<2 cm)"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Laceration extending into medulla (>2 cm)"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": ">50% parenchymal destruction"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Total parenchymal destruction or avulsion from blood supply"
+          }
+        ]
+      },
+      {
+        "table": "Ureter",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma without devascularization"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "<50% transection"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": ">50% transection"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Complete transection with <2 cm devascularization"
+          },
+          {
+            "grade": "V",
+            "type": "Avulsion",
+            "description": "Avulsion with >2 cm devascularization"
+          }
+        ]
+      },
+      {
+        "table": "Bladder",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/intramural hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Partial thickness"
+          },
+          {
+            "grade": "III",
+            "type": "Extraperitoneal",
+            "description": "Extraperitoneal bladder wall laceration <2 cm"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Extraperitoneal >2 cm or intraperitoneal <2 cm"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Intraperitoneal >2 cm or extension into bladder neck/ureteral orifice"
+          }
+        ]
+      },
+      {
+        "table": "Urethra",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Blood at meatus; urethrogram normal"
+          },
+          {
+            "grade": "II",
+            "type": "Stretch",
+            "description": "Elongation without extravasation"
+          },
+          {
+            "grade": "III",
+            "type": "Partial disruption",
+            "description": "Extravasation at injury site with bladder visualization; <2 cm separation"
+          },
+          {
+            "grade": "IV",
+            "type": "Complete disruption",
+            "description": "Extravasation without bladder visualization; <2 cm separation"
+          },
+          {
+            "grade": "V",
+            "type": "Avulsion",
+            "description": "Complete transection with >2 cm separation or extension into prostate/vagina"
+          }
+        ]
+      },
+      {
+        "table": "Uterus",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Superficial laceration (<1 cm)"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Deep laceration (>1 cm)"
+          },
+          {
+            "grade": "IV",
+            "type": "Vascular",
+            "description": "Laceration involving uterine artery"
+          },
+          {
+            "grade": "V",
+            "type": "Avulsion",
+            "description": "Avulsion/devascularization"
+          }
+        ]
+      },
+      {
+        "table": "Pregnant Uterus",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma without placental abruption"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Superficial laceration (<1 cm) with placental abruption <25%"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Deep laceration (>1 cm) in 2nd trimester or abruption 25-50%"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Deep laceration (>1 cm) in 3rd trimester or >50% abruption; involving uterine artery"
+          },
+          {
+            "grade": "V",
+            "type": "Rupture",
+            "description": "Uterine rupture or complete placental abruption"
+          }
+        ]
+      },
+      {
+        "table": "Fallopian Tube",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Hematoma",
+            "description": "Hematoma/contusion"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "<50% circumference laceration"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": ">50% circumference laceration"
+          },
+          {
+            "grade": "IV",
+            "type": "Transection",
+            "description": "Transection"
+          },
+          {
+            "grade": "V",
+            "type": "Vascular",
+            "description": "Vascular injury with devascularized segment"
+          }
+        ]
+      },
+      {
+        "table": "Ovary",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Superficial laceration (depth <0.5 cm)"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Deep laceration (depth >0.5 cm)"
+          },
+          {
+            "grade": "IV",
+            "type": "Vascular",
+            "description": "Partial disruption or blood supply loss"
+          },
+          {
+            "grade": "V",
+            "type": "Destruction",
+            "description": "Avulsion or complete parenchymal destruction"
+          }
+        ]
+      },
+      {
+        "table": "Vagina",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Superficial laceration (mucosa only)"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Deep laceration into fat or muscle"
+          },
+          {
+            "grade": "IV",
+            "type": "Complex",
+            "description": "Laceration into cervix or peritoneum"
+          },
+          {
+            "grade": "V",
+            "type": "Extension",
+            "description": "Injury into adjacent organs (anus, rectum, urethra, bladder)"
+          }
+        ]
+      },
+      {
+        "table": "Vulva",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Superficial laceration (skin only)"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Deep laceration into fat or muscle"
+          },
+          {
+            "grade": "IV",
+            "type": "Avulsion",
+            "description": "Avulsion of skin/fat/muscle"
+          },
+          {
+            "grade": "V",
+            "type": "Extension",
+            "description": "Injury into adjacent organs (anus, rectum, urethra, bladder)"
+          }
+        ]
+      },
+      {
+        "table": "Testis",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion/hematoma"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Subclinical tunica albuginea laceration"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Tunica albuginea laceration with <50% parenchymal loss"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Tunica albuginea laceration with >50% parenchymal loss"
+          },
+          {
+            "grade": "V",
+            "type": "Destruction",
+            "description": "Total testicular destruction or avulsion"
+          }
+        ]
+      },
+      {
+        "table": "Scrotum",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Contusion",
+            "description": "Contusion"
+          },
+          {
+            "grade": "II",
+            "type": "Laceration",
+            "description": "Laceration <25% scrotal diameter"
+          },
+          {
+            "grade": "III",
+            "type": "Laceration",
+            "description": "Laceration >25% scrotal diameter"
+          },
+          {
+            "grade": "IV",
+            "type": "Avulsion",
+            "description": "Avulsion <50%"
+          },
+          {
+            "grade": "V",
+            "type": "Avulsion",
+            "description": "Avulsion >50%"
+          }
+        ]
+      },
+      {
+        "table": "Penis",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Laceration/Contusion",
+            "description": "Cutaneous laceration or contusion"
+          },
+          {
+            "grade": "II",
+            "type": "Buck fascia injury",
+            "description": "Buck fascia (corpora) laceration without tissue loss"
+          },
+          {
+            "grade": "III",
+            "type": "Avulsion",
+            "description": "Cutaneous avulsion"
+          },
+          {
+            "grade": "IV",
+            "type": "Laceration",
+            "description": "Laceration through glans/meatus; cavernosal or urethral defect <2 cm; partial penectomy"
+          },
+          {
+            "grade": "V",
+            "type": "Laceration",
+            "description": "Cavernosal or urethral defect >2 cm; total penectomy"
+          }
+        ]
+      },
+      {
+        "table": "Peripheral Vascular",
+        "rows": [
+          {
+            "grade": "I",
+            "type": "Minor arteries/veins",
+            "description": "Digital/palmar/plantar/pedal small arterial or venous injuries; basilic/cephalic/saphenous veins"
+          },
+          {
+            "grade": "II",
+            "type": "Medium veins",
+            "description": "Axillary vein; superficial/deep femoral vein; popliteal vein"
+          },
+          {
+            "grade": "III",
+            "type": "Medium arteries",
+            "description": "Radial/ulnar/axillary/brachial/anterior or posterior tibial/peroneal arteries"
+          },
+          {
+            "grade": "IV",
+            "type": "Major arteries",
+            "description": "Superficial/deep femoral, popliteal, axillary, common femoral arteries"
+          },
+          {
+            "grade": "V",
+            "type": "Transection/complex",
+            "description": "Transection or combined arterial/venous loss with limb threat"
+          }
+        ]
+      }
+    ]
+  },
+  "rotation-assignments": {
+    "kind": "rotation",
+    "data": {
+      "AB 1": [
+        "KH CT ER/IP",
+        "Body MR ER",
+        "Body MR IP/OBV",
+        "Body CTA ER/IP"
+      ],
+      "AB 2": [
+        "QR Assigned to Me"
+      ],
+      "AB Helper": [
+        "QR Assigned to Me",
+        "Fron 11a-2p",
+        "KH CT ER/IP",
+        "Body MR ER"
+      ],
+      "AB Late": [
+        "KH CT ER/IP",
+        "Body MR ER",
+        "Body MR IP/OBV",
+        "Body CTA ER/IP"
+      ],
+      "Advanced Imaging (AIC)": [
+        "Monday",
+        "MSK",
+        "Tuesday-Friday",
+        "OP X-ray"
+      ],
+      "Body Nighthawk 1 and 2": [
+        "New Body Nighthawk",
+        "ALL IP/ER*"
+      ],
+      "Body Day Swing": [
+        "Body CTA IP/OBV",
+        "AB CT IP/ER",
+        "AB CT/MR STAT OP",
+        "QR Assigned to Me",
+        "QR Assigned to Me"
+      ],
+      "Body Overnight Swing": [
+        "Body MR IP/OBV",
+        "Body CTA ER/IP",
+        "Body CTA IP/OBV",
+        "AB CT IP/ER",
+        "AB CT/MR STAT OP",
+        "Body Weekend/Overnight Swing"
+      ],
+      "Body Weekend Swing": [
+        "Body CTA IP/OBV",
+        "AB CT IP/ER",
+        "AB CT/MR STAT OP",
+        "After 4p add: Cardiac CTA/MR",
+        "All IP/ER*",
+        "Body Weekend/Overnight Swing"
+      ],
+      "Cardiac": [
+        "AIC Fluoro",
+        "Cardiac CTA/MR"
+      ],
+      "Body Late 2": [
+        "After 3 PM",
+        "All IP/ER*",
+        "All IP/ER*",
+        "Body Day Swing",
+        "of"
+      ],
+      "Cobb Stat": [
+        "3P worklis",
+        "t",
+        "From 8-10A",
+        "Cobb Day 8-10A",
+        "From 10A-12P"
+      ],
+      "Body Weekend": [
+        "All IP/ER*",
+        "From 7-10A",
+        "Body Weekend 7-10A",
+        "From 10A-9P"
+      ],
+      "Douglas Hospital": [
+        "DH All",
+        "QR Assigned to Me"
+      ],
+      "Douglas IR": [
+        "QR Assigned to Me"
+      ],
+      "Camp Creek Imaging (KAC)": [
+        "Monday",
+        "OP X-Ray",
+        "Tuesday and Thursday"
+      ],
+      "Kennestone Cancer Center (KCC)": [
+        "KCC PET/XR",
+        "QR Assigned to Me"
+      ],
+      "Kennestone IR": [
+        "Cobb Day 10A-12P",
+        "From 12-4P",
+        "Cobb Day 12-4P",
+        "KH IR",
+        "QR Assigned to Me"
+      ],
+      "Kennestone Late": [
+        "Body Weekend 10A-9P",
+        "All IP/ER*",
+        "Responsible for Fluoro at CH",
+        "KH Late 2-4P",
+        "KH Late 4-9P"
+      ],
+      "Kennestone Neuro": [
+        "From 6-8A",
+        "Neuro All",
+        "ALL IP/ER*"
+      ],
+      "Kennestone Stat": [
+        "From 6-8A",
+        "All IP/ER",
+        "STAT OP"
+      ],
+      "Kennestone Weekend AM/PM": [
+        "Mammo",
+        "Wednesday and Friday",
+        "QR Assigned to Me",
+        "Kennestone Weekend",
+        "AM/PM",
+        "From 7-10A",
+        "KH Weekend 7-10A",
+        "From 10A-9P"
+      ],
+      "MSK": [
+        "MSK CT/MRI",
+        "MSK BD",
+        "MSK Arthro/Inj"
+      ],
+      "Neuro Call": [
+        "Neuro All"
+      ],
+      "Neuro @ AIC": [
+        "Neuro All",
+        "Neuro STAT OP"
+      ],
+      "Neuro Late": [
+        "From 8A-2P",
+        "KH Neuro",
+        "QR Assigned to Me",
+        "Neuro All",
+        "Neuro STAT OP"
+      ],
+      "Neuro Nighthawk": [
+        "Fron 8A-2P",
+        "KH STAT 8A-2P",
+        "All IP/ER*"
+      ],
+      "Neuro Swing/Neuro Late 2": [
+        "KH Weekend 10A-9P",
+        "All IP/ER*",
+        "Neuro All",
+        "QR Assigned to Me"
+      ],
+      "Neuro Overnight Swing": [
+        "QR Assigned to Me",
+        "Neuro All",
+        "ALL IP/ER*"
+      ],
+      "Neuro Weekend Swing": [
+        "Neuro All"
+      ],
+      "North Fulton Neuro": [
+        "QR Assigned to Me",
+        "NF Neuro",
+        "QR Assigned to Me"
+      ],
+      "North Fulton Swing": [
+        "QR Assigned to Me",
+        "NF Day/Swing"
+      ],
+      "Paulding - PIC": [
+        "Paulding Fluoro",
+        "QR Assigned to Me"
+      ],
+      "Peds": [
+        "Peds IP/ER",
+        "Peds OP X-Ray"
+      ],
+      "Roswell Imaging Center": [
+        "RIC Mammo Mon - Thurs",
+        "QR Assigned to Me"
+      ],
+      "SCI": [
+        "QR Assigned to Me"
+      ],
+      "Thoracic/Thoracic 2": [
+        "QR Assigned to Me"
+      ],
+      "Vinings Health Park": [
+        "Responsible for RCC at TLI",
+        "VHP STAT OP",
+        "QR Assigned to Me"
+      ],
+      "Weekend Helper/DP Body Weekend": [
+        "Weekend Helper/DP Body",
+        "Weekend",
+        "All IP/ER",
+        "STAT OP"
+      ],
+      "Wellstar AM": [
+        "QR Assigned to Me",
+        "From 6-8A",
+        "All IP/ER"
+      ],
+      "Wellstar PM": [
+        "All IP/ER*"
+      ],
+      "Windy Hill": [
+        "WH Fluoro",
+        "QR Assigned to Me"
+      ],
+      "Mammo (all locations)": [
+        "Responsible for RCC at DIC and",
+        "MNI  (M-F) and WPC (F)",
+        "Open your specific facility worklist",
+        "QR Assigned to Me"
+      ],
+      "DOP lines - AB, Body, Mammo, Neuro, and PET": [
+        "DOP lines - AB, Body,",
+        "Orange header indicates rotation can be",
+        "Mammo, Neuro, and PET",
+        "QR Assigned to Me",
+        "* Designates the All IP/ER worklist"
+      ],
+      "Effective": [
+        "STAT OP",
+        "STAT OP",
+        "From 8A-2P",
+        "Wellstar AM",
+        "done from any location"
+      ]
+    }
+  },
+  "radiologists": {
+    "kind": "contacts",
+    "contacts": [
+      {
+        "name": "Beltz, Eric",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Neuro",
+        "email": "ebeltz@quantumrad.com",
+        "phone": "(317) 645-8700",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Blanchard, Ashley",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Neuro",
+        "email": "ablanchard@quantumrad.com",
+        "phone": "(512) 796-8085",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Bosserman, Andrew",
+        "badgeId": "NA",
+        "status": "Associate",
+        "subSpecialty": "Nighthawk team",
+        "email": "abosserman@quantumrad.com",
+        "phone": "(812) 344-8608",
+        "callPool": "NIGHTHAWK TEAM"
+      },
+      {
+        "name": "Byrd, Boyd",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "General Body",
+        "email": "bbyrd@quantumrad.com",
+        "phone": "(678) 361-1840",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Cann, Aaron",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "acann@quantumrad.com",
+        "phone": "(404) 803-3426",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Cavazuti, Bethany",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "bcavazuti@quantumrad.com",
+        "phone": "(352) 214-6779",
+        "callPool": "NIGHTHAWK TEAM"
+      },
+      {
+        "name": "Chang, Bryan",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "bchang@quantumrad.com",
+        "phone": "(617) 872-8547",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Chocallo, William",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "wchocallo@quantumrad.com",
+        "phone": "(404) 668-1748",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Cinnamon, Jay",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "jcinnamon@quantumrad.com",
+        "phone": "(404) 217-7405",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Collins, Kevin",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "MSK",
+        "email": "kcollins@Quantumrad.com",
+        "phone": "(229) 881-6128",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Courtney, Kelsey",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "kcourtney@quantumrad.com",
+        "phone": "(770) 401-6533",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Crockett, Keirsun",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "kcrockett@quantumrad.com",
+        "phone": "(904) 236-2290",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Datta, Jaydip",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "jdatta@quantumrad.com",
+        "phone": "(404) 849-7415",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Desai, Jay",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "IR",
+        "email": "jdesai@quantumrad.com",
+        "phone": "(678) 485-4859",
+        "callPool": "IR"
+      },
+      {
+        "name": "Dicks, Demetrius",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "ddicks@quantumrad.com",
+        "phone": "(206) 910-6900",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Early, Kevin Scott",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "searly@quantumrad.com",
+        "phone": "(404) 849-5495",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Elmore,Kate",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "IR",
+        "email": "kelmore@quantumrad.com",
+        "phone": "(770) 655-5241",
+        "callPool": "IR"
+      },
+      {
+        "name": "Ertel, Nathan",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "nertel@quantumrad.com",
+        "phone": "(317) 514-6593",
+        "callPool": "IR"
+      },
+      {
+        "name": "Faulconer, Nicholas",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "MSK",
+        "email": "nfaulconer@quantumrad.com",
+        "phone": "(816) 377-8470",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Filev, Peter",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "pfilev@quantumrad.com",
+        "phone": "(248) 921-4847",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Fleming, Margaret",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "mfleming@quantumrad.com",
+        "phone": "(404) 599-7156",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Gandhi, Ankit",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Neuro",
+        "email": "agandhi@quantumrad.com",
+        "phone": "(813) 610-9906",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Gira, John",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "MSK",
+        "email": "jgira@quantumrad.com",
+        "phone": "(678) 613-5947",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Gordon, Brian",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "PET/NM",
+        "email": "bgordon@quantumrad.com",
+        "phone": "(678) 644-2067",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Grattan-Smith, John Damien",
+        "badgeId": "",
+        "status": "Employee",
+        "subSpecialty": "PEDS",
+        "email": "jgrattansmith@quantumrad.com",
+        "phone": "(404) 660-7631",
+        "callPool": "Employee"
+      },
+      {
+        "name": "Gravolet, Ryan",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "rgravolet@quantumrad.com",
+        "phone": "(504) 450-5781",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Green, Mark",
+        "badgeId": "NA",
+        "status": "Shareholder",
+        "subSpecialty": "Nighthawk team",
+        "email": "mgreen@quantumrad.com",
+        "phone": "(404) 310-1562",
+        "callPool": "NIGHTHAWK TEAM"
+      },
+      {
+        "name": "Guddanti, Bhargavi",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Mammo",
+        "email": "bguddanti@quantumrad.com",
+        "phone": "(402) 669-2560",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Gupta, Mohit",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "mgupta@quantumrad.com",
+        "phone": "(513) 289-6160",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Hamlin, Scott",
+        "badgeId": "",
+        "status": "",
+        "subSpecialty": "Thoracic",
+        "email": "shamlin@quantumrad.com",
+        "phone": "(404) 909-1499",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Han, Dale",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "dhan@quantumrad.com",
+        "phone": "(770) 344-7396",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Hanes, Timothy",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "thanes@quantumrad.com",
+        "phone": "(404) 323-8043",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Harris, Merissa",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Mammo",
+        "email": "mharris@quantumrad.com",
+        "phone": "(408) 893-7600",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Hayat, Asad",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "ahayat@quantumrad.com",
+        "phone": "(305) 924-4260",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Horgan, Brett",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "bhorgan@quantumrad.com",
+        "phone": "(954) 558-4842",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Huh, Eric",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Neuro",
+        "email": "ehuh@quantumrad.com",
+        "phone": "(404) 775-1610",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Jawad, Hamza",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "hjawad@quantumrad.com",
+        "phone": "(267) 721-6812",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Jurgens, Michael",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "mjurgens@quantumrad.com",
+        "phone": "(770) 597-0982",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Kaineg, Brian",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "bkaineg@quantumrad.com",
+        "phone": "(678) 665-9260",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Kendall, Jed",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "jkendall@quantumrad.com",
+        "phone": "(435) 660-0958",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Kerwin, Glenn",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "gkerwin@quantumrad.com",
+        "phone": "(404) 483-9191",
+        "callPool": "IR"
+      },
+      {
+        "name": "Khan, Adam",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Neuro",
+        "email": "akhan@quantumrad.com",
+        "phone": "(609) 781-1363",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Khasat, Vikram",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "vkhasat@quantumrad.com",
+        "phone": "(302) 463-1944",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Khatod, Elaine",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "ekhatod@quantumrad.com",
+        "phone": "(404) 695-9567",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Kuhlman, Chad",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "ckuhlman@quantumrad.com",
+        "phone": "(404) 520-9695",
+        "callPool": "IR"
+      },
+      {
+        "name": "Louden, Philip Connor",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "clouden@quantumrad.com",
+        "phone": "(304) 615-2501",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Lynch, Marsha C",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "mclynch@quantumrad.com",
+        "phone": "(617) 281-7840",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Lynch, Kenneth",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "klynch@quantumrad.com",
+        "phone": "(404) 273-6390",
+        "callPool": "NIGHTHAWK TEAM"
+      },
+      {
+        "name": "Mam, Max",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "MSK",
+        "email": "mmam@quantumrad.com",
+        "phone": "(404) 578-5270",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Matthews, David",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "MSK",
+        "email": "dmatthews@quantumrad.com",
+        "phone": "(803) 622-4632",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Meyerson, Anna",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "ameyerson@quantumrad.com",
+        "phone": "(404) 370-2901",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Michalak, Adam",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "MSK",
+        "email": "amichalek@quantumrad.com",
+        "phone": "(229) 251-1155",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Mohan, Shelia",
+        "badgeId": "#",
+        "status": "Employee",
+        "subSpecialty": "Neuro",
+        "email": "smohan@quantumrad.com",
+        "phone": "(919) 306-8800",
+        "callPool": "Employee"
+      },
+      {
+        "name": "Moomjian, Lauren",
+        "badgeId": "NA",
+        "status": "Employee",
+        "subSpecialty": "General Body",
+        "email": "lmoomjian@quantumrad.com",
+        "phone": "(215) 896-4346",
+        "callPool": "CONTRACT"
+      },
+      {
+        "name": "Moyers, Joseph",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "PEDS",
+        "email": "jmoyers@quantumrad.com",
+        "phone": "(404) 376-2266",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Murphy, Thomas",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "tmurphy@quantumrad.com",
+        "phone": "(770) 283-7432",
+        "callPool": "IR"
+      },
+      {
+        "name": "Nasiru, Abdul",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "anasiru@quantumrad.com",
+        "phone": "(304) 910-9196",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Oh, Christopher",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "coh@quantumrad.com",
+        "phone": "(404) 934-2943",
+        "callPool": "NIGHTHAWK TEAM"
+      },
+      {
+        "name": "Okechukwu, Nancy",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "nokechukwu@quantumrad.com",
+        "phone": "(972) 533-1365",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Panah, Sepehr",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "General Body",
+        "email": "spanah@quantumrad.com",
+        "phone": "(404) 877-8487",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Parikh, Adish",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "aparikh@quantumrad.com",
+        "phone": "(240) 602-0748",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Parikh, Puja",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Mammo",
+        "email": "pparikh@quantumrad.com",
+        "phone": "(334) 505-1039",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Parsh, Nikhil",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "nparsh@quantumrad.com",
+        "phone": "(404) 354-5441",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Parson, Mark",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "mparson@quantumrad.com",
+        "phone": "(702) 280-4640",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Patel, Jay G",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "jgpatel@quantumrad.com",
+        "phone": "(423) 504-0282",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Patel, Jay P",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "jpatel@quantumrad.com",
+        "phone": "(404) 583-0649",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Patel, Tarak",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "tpatel@quantumrad.com",
+        "phone": "(832) 771-6407",
+        "callPool": "IR"
+      },
+      {
+        "name": "Pham, Robert",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "MSK",
+        "email": "rpham@quantumrad.com",
+        "phone": "(678) 371-8543",
+        "callPool": "NIGHTHAWK TEAM"
+      },
+      {
+        "name": "Rao, Ashutosh",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "arao@quantumrad.com",
+        "phone": "(770) 851-9858",
+        "callPool": "IR"
+      },
+      {
+        "name": "Ray, Carolyn",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "Mammo",
+        "email": "cray@quantumrad.com",
+        "phone": "(904) 200-9560",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Ray, Michael Jordan",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "jray@quantumrad.com",
+        "phone": "(501) 231-5550",
+        "callPool": "IR"
+      },
+      {
+        "name": "Resnick, Stuart",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "sresnick@quantumrad.com",
+        "phone": "(347) 229-2470",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Robertson, James Edward",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "MSK",
+        "email": "jrobertson@quantumrad.com",
+        "phone": "(404) 906-7817",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Rush, Barry",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "brush@quantumrad.com",
+        "phone": "(815) 326-1887",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Silverstein, Mark",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "msilverstein@quantumrad.com",
+        "phone": "(404) 290-2986",
+        "callPool": "IR"
+      },
+      {
+        "name": "Smith, James",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "MSK",
+        "email": "jlsmith@quantumrad.com",
+        "phone": "(706) 224-2530",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Speir, Ethan",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "IR",
+        "email": "espeir@quantumrad.com",
+        "phone": "(770) 601-5517",
+        "callPool": "IR"
+      },
+      {
+        "name": "Spencer, Kimberly",
+        "badgeId": "",
+        "status": "Employee",
+        "subSpecialty": "Mammo",
+        "email": "kspencer@quantumrad.com",
+        "phone": "(404) 545-9068",
+        "callPool": "CONTRACT"
+      },
+      {
+        "name": "Sung, Chris",
+        "badgeId": "#",
+        "status": "Associate",
+        "subSpecialty": "IR",
+        "email": "csung@quantumrad.com",
+        "phone": "(718) 637-1330",
+        "callPool": "IR"
+      },
+      {
+        "name": "Syed, Umair",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Advanced Body",
+        "email": "usyed@quantumrad.com",
+        "phone": "(571) 393-7815",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Thomas, Abraham",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Advanced Body",
+        "email": "athomas@quantumrad.com",
+        "phone": "(813) 362-7993",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Trent, Graham",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Mammo",
+        "email": "gtrent@quantumrad.com",
+        "phone": "(703) 963-4659",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Tumkur, Shivaprakash",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "stumkur@quantumrad.com",
+        "phone": "(513) 348-5523",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Ulbrandt, Alison",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Mammo",
+        "email": "aulbrandt@quantumrad.com",
+        "phone": "(678) 371-2095",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Wetherly, Mark",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "General Body",
+        "email": "mwetherly@quantumrad.com",
+        "phone": "(770) 402-1598",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Williams, Benjamin",
+        "badgeId": "",
+        "status": "Associate",
+        "subSpecialty": "Mammo",
+        "email": "bwilliams@quantumrad.com",
+        "phone": "(678) 637-3905",
+        "callPool": "BODY"
+      },
+      {
+        "name": "Williams, Roger",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "rwilliams@Quantumrad.com",
+        "phone": "(267) 664-2214",
+        "callPool": "IR"
+      },
+      {
+        "name": "Wottrich. Scott",
+        "badgeId": "",
+        "status": "Shareholder",
+        "subSpecialty": "Neuro",
+        "email": "swottrich@quantumrad.com",
+        "phone": "(678) 613-0990",
+        "callPool": "NEURO"
+      },
+      {
+        "name": "Zuckerman, Alan",
+        "badgeId": "#",
+        "status": "Shareholder",
+        "subSpecialty": "IR",
+        "email": "azuckerman@quantumrad.com",
+        "phone": "(770) 845-7307",
+        "callPool": "IR"
+      }
+    ]
+  },
+  "imaging-chief-techs": {
+    "kind": "facilityContacts",
+    "title": "Chief Technologists & Modality Contacts",
+    "subtitle": "Call, text, or email chief technologists and modality leads across facilities.",
+    "hint": "Source: medical_imaging_contacts/Medical Imaging Chief Technologists & Modality Contacts.xlsx. Contacts embedded inline for quick lookup.",
+    "searchPlaceholder": "Search name, facility, modality, phone, email...",
+    "sections": [
+      {
+        "title": "Contacts",
+        "contacts": [
+          {
+            "facility": "Acworth Health Park",
+            "name": "Jeff Nail",
+            "phone": "470-956-0078 (MRI 0071)",
+            "email": "Jeff.Nail@Wellstar.org",
+            "fax": "770-527-1379"
+          },
+          {
+            "facility": "Acworth Health Park",
+            "name": "Brandi Carmichael",
+            "phone": "470-956-0081",
+            "email": "Brandi.Carmichael@wellstar.org",
+            "fax": "770-527-1379"
+          },
+          {
+            "facility": "Camp Creek Imaging Center",
+            "name": "Mammo",
+            "phone": "943-202-7642",
+            "fax": "470-986-7212"
+          },
+          {
+            "facility": "Camp Creek Imaging Center",
+            "fax": "470-986-7212"
+          },
+          {
+            "facility": "Cherokee Health Park",
+            "name": "Reza Deldar",
+            "phone": "470-245-5594",
+            "email": "Reza.Deldar@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jonathan Dotson (MR)",
+            "phone": "470-732-3513 or 470-732-9070",
+            "email": "Jonathan.Dotson@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jonathan Dotson (NM)",
+            "phone": "470-732-3513 or 470-732-9070",
+            "email": "Jonathan.Dotson@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Marion \"Michelle\" King (Women's Imaging)",
+            "phone": "470-732-5108 or 470-732-9993",
+            "email": "Marion.King@wellstar.org",
+            "fax": "770-732-7288"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Dimple Trevino (Rad)",
+            "phone": "470-732-3567 or 470-732-9072",
+            "email": "Dimple.Trevino@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jack Wiggins (PACS, ED Img & Clerical)",
+            "phone": "470-732-3660 or 470-732-9075",
+            "email": "Jack.Wiggins@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Michelle Stroh (US)",
+            "phone": "470-732-3572 or 470-732-9071",
+            "email": "Michelle.Stroh@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Tina Vincent (CT)",
+            "phone": "470-732-1515 or 470-732-9069",
+            "email": "Tina.Vincent@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Brittany Russell (Night Chief Tech Sun/Mon/Tues)",
+            "phone": "470-732-9074",
+            "email": "Brittany.Russell@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Diane Hill (Night Chief Tech Sun/Mon/Tues)",
+            "phone": "470-732-9074",
+            "email": "Diane.Hill@wellstar.org"
+          },
+          {
+            "facility": "Cobb Imaging Center",
+            "name": "Cindy Montgomery",
+            "phone": "470-732-3546 or 470-732-9100",
+            "email": "Cindy.Montgomery@Wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Penny Galloway",
+            "phone": "470-644-6602",
+            "email": "Penny.Galloway@wellstar.org",
+            "fax": "470-644-6610"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Emily Bowman",
+            "phone": "470-644-5403",
+            "email": "Emily.Bowman@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Sam Frazier (MRI)",
+            "phone": "470-644-5525",
+            "email": "Sam.Frazier@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Karen Goins (US)",
+            "phone": "470-644-6616",
+            "email": "Karen.Goins@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Anitra Laury (NM)",
+            "phone": "470-644-5527 or 470-644-6756",
+            "email": "Anitra.Laury@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Lisa Thomas (DIC)",
+            "phone": "470-644-5594",
+            "email": "Lisa.Thomas@Wellstar.org",
+            "fax": "470-644-5596"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Amanda Reese (X-Ray)",
+            "phone": "470-644-5405 or 470-245-3233",
+            "email": "Amanda.Reese@Wellstar.org",
+            "fax": "470-644-5063"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Rodney Washington (PACS & Clerical)",
+            "phone": "470-644-5502 or 470-245-2899",
+            "email": "Rodney.Washington@Wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "James Brown (PI/Educ. Coord.)",
+            "phone": "470-644-6392",
+            "email": "James.Brown@Wellstar.org",
+            "fax": "470-644-5535"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Susan Toole, RN",
+            "phone": "470-644-5389 or 470-644-4613",
+            "email": "Susan.Toole@wellstar.org",
+            "fax": "470-644-5535"
+          },
+          {
+            "facility": "East Cobb Health Park",
+            "name": "Lindsey Poulos",
+            "phone": "470-956-8801",
+            "email": "lindsey.poulos@wellstar.org",
+            "fax": "678-560-5936"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Angela Casey (PACS, File Room)",
+            "phone": "770-793-5533 or 470-267-8570",
+            "email": "Angela.Casey@wellstar.org"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Esther Nwanze (MRI)",
+            "phone": "770-793-5586",
+            "email": "Esther.nwanze@Wellstar.org",
+            "fax": "770-793-5593"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Beth Black (CT)",
+            "phone": "770-793-5538",
+            "email": "Beth.Black@wellstar.org",
+            "fax": "770-313-5107"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Bridget Monroe (AIC)",
+            "phone": "770-793-7804 or 5579",
+            "email": "bridget.monroe@wellstar.org",
+            "fax": "770-793-7722"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Missy Bourne (Ultrasound)",
+            "phone": "770-793-5882 or 470-245-0293",
+            "email": "Missy.Bourne@wellstar.org",
+            "fax": "678-773-5725"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Christy Sinclair (Rad)",
+            "phone": "770-793-5512 or 470-245-0300",
+            "email": "Christy.Sinclair@Wellstar.org",
+            "fax": "678-910-9683"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Robert Gaudette (VI)",
+            "email": "Robert.Gaudette@wellstar.org"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Tony Hart (NM) & (Cancer Center)",
+            "phone": "770-793-9804 or 470-245-0298",
+            "email": "anthony.hart@Wellstar.org",
+            "fax": "678-337-7474"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Andrea Lowe, KOP WC & The Breast Center (Clerical)",
+            "phone": "470-793-0062",
+            "email": "andrea.lowe@wellstar.org",
+            "fax": "770-999-2712"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Jackie Vaughn, KOP WC & The Breast Center (Clinical)",
+            "phone": "470-793-0061 or 470-267-8695",
+            "email": "jackie.vaughn@wellstar.org",
+            "fax": "770-999-2712"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Michelle Bartholomew-PI Coordinator",
+            "phone": "770-793-6895",
+            "email": "michelle.bartholomew@wellstar.org"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Jordan Dozier (CT)",
+            "phone": "770-751-2733",
+            "email": "darian.dozier@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "X-Ray (Sa, Su, Mo)",
+            "phone": "770-751-2530",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "David Kutka (X-Ray T-F)",
+            "phone": "770-751-2530",
+            "email": "david.kutka@Wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Marie Harweger (VI)",
+            "phone": "770-751-3084 or 954-999-8728",
+            "email": "marie.harweger@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Sinead Cochran, Charge Nurse (IR)",
+            "phone": "770-751-2784",
+            "email": "sinead.cochran@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Brittany Karr (MRI)",
+            "phone": "470-267-0299",
+            "email": "Brittany.Karr@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Ultrasound",
+            "phone": "770-751-2992",
+            "email": "Arlene.Henderson@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "Paulding Hospital",
+            "name": "Jessica Beck (X-ray / NM)",
+            "phone": "470-644-9654",
+            "email": "Jessica.Beck@wellstar.org"
+          },
+          {
+            "facility": "Paulding Hospital",
+            "name": "Rebecca Lee (CT/MRI)",
+            "phone": "470-644-9655",
+            "email": "Rebecca.Lee@wellstar.org"
+          },
+          {
+            "facility": "Paulding Imaging Center",
+            "name": "Melissa Trammell (Mammo/US)",
+            "phone": "470-644-9649",
+            "email": "Melissa.Trammell@Wellstar.org"
+          },
+          {
+            "facility": "Pediatric Center",
+            "name": "Derrick Saint-Laurent",
+            "phone": "470-956-9147",
+            "email": "derrick.saint-laurent@wellstar.org",
+            "fax": "770-527-1379"
+          },
+          {
+            "facility": "Towne Lake Imaging Center",
+            "name": "Karen Stoor",
+            "phone": "470-956-0879",
+            "email": "Karen.Stoor@Wellstar.org"
+          },
+          {
+            "facility": "Vinings Health Park",
+            "name": "Brenda Rosser",
+            "phone": "470-956-0377 or 470-267-7005",
+            "email": "Brenda.Rosser@wellstar.org",
+            "fax": "678-842-5520"
+          },
+          {
+            "facility": "Windy Hill Hospital",
+            "name": "Chasity Winters",
+            "phone": "770-644-1168",
+            "email": "Chasity.Winters@wellstar.org",
+            "fax": "770-644-1261"
+          }
+        ]
+      }
+    ]
+  },
+  "imaging-management": {
+    "kind": "facilityContacts",
+    "title": "Medical Imaging Management",
+    "subtitle": "Call, text, or email imaging managers and directors across sites.",
+    "hint": "Source: medical_imaging_contacts/Medical Imaging Management Phone List.xlsx. Contacts embedded inline for quick lookup.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Contacts",
+        "contacts": [
+          {
+            "facility": "Acworth Health Park",
+            "name": "Julie Robinson (Manager)",
+            "office": "470-956-0079",
+            "fax": "770-529-1357",
+            "cell": "770-315-1119"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Mike Sands (Executive Director)",
+            "office": "470-732-3551",
+            "fax": "770-732-3515",
+            "cell": "814-591-9883"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Lamont Suitt (Manager)",
+            "office": "470-732-4888",
+            "cell": "678-360-3826"
+          },
+          {
+            "facility": "Cobb Imaging Center (SCI)",
+            "name": "Brian May (Manager)",
+            "office": "470-732-5672",
+            "fax": "470-732-5649",
+            "cell": "404-557-7412"
+          },
+          {
+            "facility": "Cobb Women's Imaging",
+            "name": "Brian May (Manager)",
+            "office": "470-732-4626",
+            "cell": "404-557-7412"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Melanie Driskell (Manager)",
+            "office": "470-644-5504",
+            "fax": "470-644-5063",
+            "cell": "770-617-0898",
+            "ascom": "470-644-4611"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Michelle Kellett (Director)",
+            "office": "470-644-6102",
+            "fax": "470-644-6101",
+            "cell": "770-815-7429",
+            "ascom": "470-644-4614"
+          },
+          {
+            "facility": "East Cobb Health Park",
+            "name": "Lisa Gentle (Manager)",
+            "office": "470-956-8770",
+            "fax": "678-560-5936",
+            "cell": "678-773-3039"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "VACANT (Executive Director)",
+            "office": "770-793-5529",
+            "fax": "770-793-7933",
+            "cell": "404-279-2123"
+          },
+          {
+            "facility": "Kennestone (210 Bldg, KCC, WIC, MNI, TIC, MRI & NM/PET)",
+            "name": "Charles McCallum (Manager)",
+            "office": "770-793-7801",
+            "fax": "770-793-7998",
+            "cell": "404-368-8167"
+          },
+          {
+            "facility": "Kennestone (Diag X-ray, CT )",
+            "name": "April Gilreath (Manager)",
+            "office": "770-793-5556",
+            "cell": "770-597-3240"
+          },
+          {
+            "facility": "Kennestone (Ultrasound & Clerical Imaging)",
+            "name": "Jerrika Lewiel (Manager)",
+            "office": "770-793-5514",
+            "cell": "678-435-1641"
+          },
+          {
+            "facility": "Kennestone Camp Creek Imaging Center",
+            "name": "Kim Christian (Manager)",
+            "office": "943-202-7607",
+            "fax": "470-986-7212",
+            "cell": "678-689-7642"
+          },
+          {
+            "facility": "Kennestone Women's Center (KOP & TBC)",
+            "name": "Natalie Garrett (Manager)",
+            "office": "470-793-0060",
+            "fax": "770-999-2712",
+            "cell": "404-376-6182"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Lindsay Lance (RN Assistant Nurse Manager)",
+            "cell": "404-314-6188"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Kori Rippe (Manager)",
+            "office": "770-751-2806",
+            "cell": "708-715-7852"
+          },
+          {
+            "facility": "North Fulton (Inc Avalon HP and RIC)",
+            "name": "Michael Barber (Site Director, Imaging Svcs)",
+            "office": "770-751-2534",
+            "fax": "770-751-2731",
+            "cell": "404-803-4609"
+          },
+          {
+            "facility": "Paulding Hospital",
+            "name": "Randall Davenport (Director Site Imaging Services)",
+            "office": "470-644-8107",
+            "fax": "770-443-7733",
+            "cell": "770-362-6211",
+            "ascom": "470-644-9647"
+          },
+          {
+            "facility": "Paulding Hospital",
+            "name": "Robin Sowders (Manager)",
+            "office": "470-644-9648",
+            "cell": "404-281-5177",
+            "ascom": "470-644-9648"
+          },
+          {
+            "facility": "Pediatric Imaging Center",
+            "name": "Julie Robinson (Manager)",
+            "office": "470-956-9139",
+            "fax": "678-797-5742",
+            "cell": "770-315-1119"
+          },
+          {
+            "facility": "Shared Services",
+            "name": "Hanse Gaertner (MRI Clinical Specialist)",
+            "office": "470-956-7137",
+            "cell": "770-335-3414"
+          },
+          {
+            "facility": "Shared Services",
+            "name": "Julie L. Jones (Manager Radiation Safety & PI)",
+            "office": "470-956-7132",
+            "fax": "770-999-2211",
+            "cell": "770-842-0905"
+          },
+          {
+            "facility": "Shared Services",
+            "name": "Kelly Golkin (CT Clinical Specialist)",
+            "office": "404-430-4274",
+            "cell": "404-430-4274"
+          },
+          {
+            "facility": "Shared Services",
+            "name": "Lynn Hanks (Executive Director Medical Imaging Operations)",
+            "office": "470-956-7145",
+            "fax": "470-956-7150",
+            "cell": "404-787-3419"
+          },
+          {
+            "facility": "Shared Services",
+            "name": "Nicole Davis (US Clinical Specialist)",
+            "office": "470-956-7141",
+            "cell": "770-652-3930"
+          },
+          {
+            "facility": "Shared Services",
+            "name": "Tiffany Castano (Imaging Clinical Support Specialist)",
+            "office": "678-371-9346",
+            "fax": "470-956-7150",
+            "cell": "678-371-9346"
+          },
+          {
+            "facility": "Towne Lake Imaging & Cherokee Health Park Imaging Center",
+            "name": "Kimberly Hartley (Manager)",
+            "office": "TLI 470-956-0877 & Cherokee Health Park 470-267-0053",
+            "fax": "470-956-0927",
+            "cell": "404-918-6454"
+          },
+          {
+            "facility": "Vinings Health Park",
+            "name": "Donna Daniel (Manager)",
+            "office": "470-956-0378",
+            "fax": "678-842-5563",
+            "cell": "678-457-5418"
+          },
+          {
+            "facility": "East Cobb Health Park",
+            "name": "Lisa Gentle (Manager)",
+            "office": "770-644-1168",
+            "fax": "770-644-1261",
+            "cell": "678-773-3039"
+          },
+          {
+            "facility": "Windy Hill Hospital",
+            "name": "Stephen Maner (Director of Operations)",
+            "office": "770-644-1250",
+            "cell": "912-660-9859"
+          },
+          {
+            "facility": "Windy Hill Hospital",
+            "name": "Nnenna Onyeji (Medical Imaging Manager)",
+            "office": "770-644-1044",
+            "cell": "678-643-0536"
+          }
+        ]
+      }
+    ]
+  },
+  "pacs-coordinators": {
+    "kind": "facilityContacts",
+    "title": "PACS Coordinators",
+    "subtitle": "PACS contact numbers grouped by facility from personnel contact files.",
+    "hint": "Sources: imaging-chief-techs.html, cobb-hospital-contacts.html, douglas-hospital-contacts.html, kennestone-hospital-contacts.html.",
+    "searchPlaceholder": "Search name, facility, number, email...",
+    "sections": [
+      {
+        "title": "Contacts",
+        "contacts": [
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jack Wiggins",
+            "role": "PACS, ED Img & Clerical",
+            "phones": [
+              "470-732-3660",
+              "470-732-9075"
+            ],
+            "email": "Jack.Wiggins@Wellstar.org",
+            "sources": [
+              "imaging-chief-techs.html",
+              "cobb-hospital-contacts.html"
+            ]
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Rodney Washington",
+            "role": "PACS & Clerical",
+            "phones": [
+              "470-644-5502",
+              "470-245-2899"
+            ],
+            "email": "Rodney.Washington@Wellstar.org",
+            "sources": [
+              "imaging-chief-techs.html",
+              "douglas-hospital-contacts.html"
+            ]
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Angela Casey",
+            "role": "PACS, File Room",
+            "phones": [
+              "770-793-5533",
+              "470-267-8570"
+            ],
+            "email": "Angela.Casey@wellstar.org",
+            "sources": [
+              "imaging-chief-techs.html",
+              "kennestone-hospital-contacts.html"
+            ]
+          }
+        ],
+        "subtitle": "Search PACS coordinators by name, facility, number, or email."
+      }
+    ]
+  },
+  "cobb-hospital-contacts": {
+    "kind": "facilityContacts",
+    "title": "Cobb Hospital Contacts",
+    "subtitle": "Chief technologists and imaging management contacts for Cobb sites.",
+    "hint": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Chief Technologists & Modality Contacts",
+        "contacts": [
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jonathan Dotson (MR)",
+            "phone": "470-732-3513 or 470-732-9070",
+            "email": "Jonathan.Dotson@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jonathan Dotson (NM)",
+            "phone": "470-732-3513 or 470-732-9070",
+            "email": "Jonathan.Dotson@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Marion \"Michelle\" King (Women's Imaging)",
+            "phone": "470-732-5108 or 470-732-9993",
+            "email": "Marion.King@wellstar.org",
+            "fax": "770-732-7288"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Dimple Trevino (Rad)",
+            "phone": "470-732-3567 or 470-732-9072",
+            "email": "Dimple.Trevino@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Jack Wiggins (PACS, ED Img & Clerical)",
+            "phone": "470-732-3660 or 470-732-9075",
+            "email": "Jack.Wiggins@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Michelle Stroh (US)",
+            "phone": "470-732-3572 or 470-732-9071",
+            "email": "Michelle.Stroh@Wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Tina Vincent (CT)",
+            "phone": "470-732-1515 or 470-732-9069",
+            "email": "Tina.Vincent@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Brittany Russell (Night Chief Tech Sun/Mon/Tues)",
+            "phone": "470-732-9074",
+            "email": "Brittany.Russell@wellstar.org"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Diane Hill (Night Chief Tech Sun/Mon/Tues)",
+            "phone": "470-732-9074",
+            "email": "Diane.Hill@wellstar.org"
+          },
+          {
+            "facility": "Cobb Imaging Center",
+            "name": "Cindy Montgomery",
+            "phone": "470-732-3546 or 470-732-9100",
+            "email": "Cindy.Montgomery@Wellstar.org"
+          },
+          {
+            "facility": "East Cobb Health Park",
+            "name": "Lindsey Poulos",
+            "phone": "470-956-8801",
+            "email": "lindsey.poulos@wellstar.org",
+            "fax": "678-560-5936"
+          }
+        ]
+      },
+      {
+        "title": "Imaging Management Contacts",
+        "contacts": [
+          {
+            "facility": "Cobb Hospital",
+            "name": "Mike Sands (Executive Director)",
+            "office": "470-732-3551",
+            "fax": "770-732-3515",
+            "cell": "814-591-9883"
+          },
+          {
+            "facility": "Cobb Hospital",
+            "name": "Lamont Suitt (Manager)",
+            "office": "470-732-4888",
+            "cell": "678-360-3826"
+          },
+          {
+            "facility": "Cobb Imaging Center (SCI)",
+            "name": "Brian May (Manager)",
+            "office": "470-732-5672",
+            "fax": "470-732-5649",
+            "cell": "404-557-7412"
+          },
+          {
+            "facility": "Cobb Women's Imaging",
+            "name": "Brian May (Manager)",
+            "office": "470-732-4626",
+            "cell": "404-557-7412"
+          },
+          {
+            "facility": "East Cobb Health Park",
+            "name": "Lisa Gentle (Manager)",
+            "office": "470-956-8770",
+            "fax": "678-560-5936",
+            "cell": "678-773-3039"
+          },
+          {
+            "facility": "East Cobb Health Park",
+            "name": "Lisa Gentle (Manager)",
+            "office": "770-644-1168",
+            "fax": "770-644-1261",
+            "cell": "678-773-3039"
+          }
+        ]
+      }
+    ]
+  },
+  "douglas-hospital-contacts": {
+    "kind": "facilityContacts",
+    "title": "Douglas Hospital Contacts",
+    "subtitle": "Chief technologists and imaging management contacts for Douglas sites.",
+    "hint": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Chief Technologists & Modality Contacts",
+        "contacts": [
+          {
+            "facility": "Douglas Hospital",
+            "name": "Penny Galloway",
+            "phone": "470-644-6602",
+            "email": "Penny.Galloway@wellstar.org",
+            "fax": "470-644-6610"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Emily Bowman",
+            "phone": "470-644-5403",
+            "email": "Emily.Bowman@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Sam Frazier (MRI)",
+            "phone": "470-644-5525",
+            "email": "Sam.Frazier@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Karen Goins (US)",
+            "phone": "470-644-6616",
+            "email": "Karen.Goins@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Anitra Laury (NM)",
+            "phone": "470-644-5527 or 470-644-6756",
+            "email": "Anitra.Laury@wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Lisa Thomas (DIC)",
+            "phone": "470-644-5594",
+            "email": "Lisa.Thomas@Wellstar.org",
+            "fax": "470-644-5596"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Amanda Reese (X-Ray)",
+            "phone": "470-644-5405 or 470-245-3233",
+            "email": "Amanda.Reese@Wellstar.org",
+            "fax": "470-644-5063"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Rodney Washington (PACS & Clerical)",
+            "phone": "470-644-5502 or 470-245-2899",
+            "email": "Rodney.Washington@Wellstar.org"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "James Brown (PI/Educ. Coord.)",
+            "phone": "470-644-6392",
+            "email": "James.Brown@Wellstar.org",
+            "fax": "470-644-5535"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Susan Toole, RN",
+            "phone": "470-644-5389 or 470-644-4613",
+            "email": "Susan.Toole@wellstar.org",
+            "fax": "470-644-5535"
+          }
+        ]
+      },
+      {
+        "title": "Imaging Management Contacts",
+        "contacts": [
+          {
+            "facility": "Douglas Hospital",
+            "name": "Melanie Driskell (Manager)",
+            "office": "470-644-5504",
+            "fax": "470-644-5063",
+            "cell": "770-617-0898",
+            "ascom": "470-644-4611"
+          },
+          {
+            "facility": "Douglas Hospital",
+            "name": "Michelle Kellett (Director)",
+            "office": "470-644-6102",
+            "fax": "470-644-6101",
+            "cell": "770-815-7429",
+            "ascom": "470-644-4614"
+          }
+        ]
+      }
+    ]
+  },
+  "kennestone-hospital-contacts": {
+    "kind": "facilityContacts",
+    "title": "Kennestone Hospital Contacts",
+    "subtitle": "Chief technologists and imaging management contacts for Kennestone sites.",
+    "hint": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Chief Technologists & Modality Contacts",
+        "contacts": [
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Angela Casey (PACS, File Room)",
+            "phone": "770-793-5533 or 470-267-8570",
+            "email": "Angela.Casey@wellstar.org"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Esther Nwanze (MRI)",
+            "phone": "770-793-5586",
+            "email": "Esther.nwanze@Wellstar.org",
+            "fax": "770-793-5593"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Beth Black (CT)",
+            "phone": "770-793-5538",
+            "email": "Beth.Black@wellstar.org",
+            "fax": "770-313-5107"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Bridget Monroe (AIC)",
+            "phone": "770-793-7804 or 5579",
+            "email": "bridget.monroe@wellstar.org",
+            "fax": "770-793-7722"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Missy Bourne (Ultrasound)",
+            "phone": "770-793-5882 or 470-245-0293",
+            "email": "Missy.Bourne@wellstar.org",
+            "fax": "678-773-5725"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Christy Sinclair (Rad)",
+            "phone": "770-793-5512 or 470-245-0300",
+            "email": "Christy.Sinclair@Wellstar.org",
+            "fax": "678-910-9683"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Robert Gaudette (VI)",
+            "email": "Robert.Gaudette@wellstar.org"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Tony Hart (NM) & (Cancer Center)",
+            "phone": "770-793-9804 or 470-245-0298",
+            "email": "anthony.hart@Wellstar.org",
+            "fax": "678-337-7474"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Andrea Lowe, KOP WC & The Breast Center (Clerical)",
+            "phone": "470-793-0062",
+            "email": "andrea.lowe@wellstar.org",
+            "fax": "770-999-2712"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Jackie Vaughn, KOP WC & The Breast Center (Clinical)",
+            "phone": "470-793-0061 or 470-267-8695",
+            "email": "jackie.vaughn@wellstar.org",
+            "fax": "770-999-2712"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Michelle Bartholomew-PI Coordinator",
+            "phone": "770-793-6895",
+            "email": "michelle.bartholomew@wellstar.org"
+          }
+        ]
+      },
+      {
+        "title": "Imaging Management Contacts",
+        "contacts": [
+          {
+            "facility": "Kennestone Hospital",
+            "name": "VACANT (Executive Director)",
+            "office": "770-793-5529",
+            "fax": "770-793-7933",
+            "cell": "404-279-2123"
+          },
+          {
+            "facility": "Kennestone (210 Bldg, KCC, WIC, MNI, TIC, MRI & NM/PET)",
+            "name": "Charles McCallum (Manager)",
+            "office": "770-793-7801",
+            "fax": "770-793-7998",
+            "cell": "404-368-8167"
+          },
+          {
+            "facility": "Kennestone (Diag X-ray, CT )",
+            "name": "April Gilreath (Manager)",
+            "office": "770-793-5556",
+            "cell": "770-597-3240"
+          },
+          {
+            "facility": "Kennestone (Ultrasound & Clerical Imaging)",
+            "name": "Jerrika Lewiel (Manager)",
+            "office": "770-793-5514",
+            "cell": "678-435-1641"
+          },
+          {
+            "facility": "Kennestone Camp Creek Imaging Center",
+            "name": "Kim Christian (Manager)",
+            "office": "943-202-7607",
+            "fax": "470-986-7212",
+            "cell": "678-689-7642"
+          },
+          {
+            "facility": "Kennestone Women's Center (KOP & TBC)",
+            "name": "Natalie Garrett (Manager)",
+            "office": "470-793-0060",
+            "fax": "770-999-2712",
+            "cell": "404-376-6182"
+          },
+          {
+            "facility": "Kennestone Hospital",
+            "name": "Lindsay Lance (RN Assistant Nurse Manager)",
+            "cell": "404-314-6188"
+          }
+        ]
+      }
+    ]
+  },
+  "north-fulton-hospital-contacts": {
+    "kind": "facilityContacts",
+    "title": "North Fulton Hospital Contacts",
+    "subtitle": "Chief technologists and imaging management contacts for North Fulton sites.",
+    "hint": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Chief Technologists & Modality Contacts",
+        "contacts": [
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Jordan Dozier (CT)",
+            "phone": "770-751-2733",
+            "email": "darian.dozier@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "X-Ray (Sa, Su, Mo)",
+            "phone": "770-751-2530",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "David Kutka (X-Ray T-F)",
+            "phone": "770-751-2530",
+            "email": "david.kutka@Wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Marie Harweger (VI)",
+            "phone": "770-751-3084 or 954-999-8728",
+            "email": "marie.harweger@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Sinead Cochran, Charge Nurse (IR)",
+            "phone": "770-751-2784",
+            "email": "sinead.cochran@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Brittany Karr (MRI)",
+            "phone": "470-267-0299",
+            "email": "Brittany.Karr@wellstar.org",
+            "fax": "770-751-2731"
+          },
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Ultrasound",
+            "phone": "770-751-2992",
+            "email": "Arlene.Henderson@wellstar.org",
+            "fax": "770-751-2731"
+          }
+        ]
+      },
+      {
+        "title": "Imaging Management Contacts",
+        "contacts": [
+          {
+            "facility": "North Fulton Hospital",
+            "name": "Kori Rippe (Manager)",
+            "office": "770-751-2806",
+            "cell": "708-715-7852"
+          },
+          {
+            "facility": "North Fulton (Inc Avalon HP and RIC)",
+            "name": "Michael Barber (Site Director, Imaging Svcs)",
+            "office": "770-751-2534",
+            "fax": "770-751-2731",
+            "cell": "404-803-4609"
+          }
+        ]
+      }
+    ]
+  },
+  "paulding-hospital-contacts": {
+    "kind": "facilityContacts",
+    "title": "Paulding Hospital Contacts",
+    "subtitle": "Chief technologists and imaging management contacts for Paulding sites.",
+    "hint": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Chief Technologists & Modality Contacts",
+        "contacts": [
+          {
+            "facility": "Paulding Hospital",
+            "name": "Jessica Beck (X-ray / NM)",
+            "phone": "470-644-9654",
+            "email": "Jessica.Beck@wellstar.org"
+          },
+          {
+            "facility": "Paulding Hospital",
+            "name": "Rebecca Lee (CT/MRI)",
+            "phone": "470-644-9655",
+            "email": "Rebecca.Lee@wellstar.org"
+          },
+          {
+            "facility": "Paulding Imaging Center",
+            "name": "Melissa Trammell (Mammo/US)",
+            "phone": "470-644-9649",
+            "email": "Melissa.Trammell@Wellstar.org"
+          }
+        ]
+      },
+      {
+        "title": "Imaging Management Contacts",
+        "contacts": [
+          {
+            "facility": "Paulding Hospital",
+            "name": "Randall Davenport (Director Site Imaging Services)",
+            "office": "470-644-8107",
+            "fax": "770-443-7733",
+            "cell": "770-362-6211",
+            "ascom": "470-644-9647"
+          },
+          {
+            "facility": "Paulding Hospital",
+            "name": "Robin Sowders (Manager)",
+            "office": "470-644-9648",
+            "cell": "404-281-5177",
+            "ascom": "470-644-9648"
+          }
+        ]
+      }
+    ]
+  },
+  "windy-hill-hospital-contacts": {
+    "kind": "facilityContacts",
+    "title": "Windy Hill Hospital Contacts",
+    "subtitle": "Chief technologists and imaging management contacts for Windy Hill sites.",
+    "hint": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories.",
+    "searchPlaceholder": "Search name, facility, role, phone, email...",
+    "sections": [
+      {
+        "title": "Chief Technologists & Modality Contacts",
+        "contacts": [
+          {
+            "facility": "Windy Hill Hospital",
+            "name": "Chasity Winters",
+            "phone": "770-644-1168",
+            "email": "Chasity.Winters@wellstar.org",
+            "fax": "770-644-1261"
+          }
+        ]
+      },
+      {
+        "title": "Imaging Management Contacts",
+        "contacts": [
+          {
+            "facility": "Windy Hill Hospital",
+            "name": "Stephen Maner (Director of Operations)",
+            "office": "770-644-1250",
+            "cell": "912-660-9859"
+          },
+          {
+            "facility": "Windy Hill Hospital",
+            "name": "Nnenna Onyeji (Medical Imaging Manager)",
+            "office": "770-644-1044",
+            "cell": "678-643-0536"
+          }
+        ]
+      }
+    ]
+  },
+  "frequents": {
+    "kind": "frequentContacts",
+    "title": "Frequently Contacted Clinicians",
+    "subtitle": "Search, sort, and call clinicians from the live directory.",
+    "searchPlaceholder": "Search by name, practice, or phone",
+    "apiUrl": "https://7ma49hqc9j.execute-api.us-east-2.amazonaws.com/test",
+    "routineSmsTemplate": "{firstName}, its me Zahir from Radiology. Its {time} on {date}. I would like to discuss routine priority results with you regarding a patient you referred to us. Please give me a call at your convenience.",
+    "urgentSmsTemplate": "{firstName}, its me Zahir from Radiology. Its {time} on {date}. I would like to discuss urgent priority results with you regarding a patient you referred to us. Please give me a call at your earliest convenience."
+  }
+}

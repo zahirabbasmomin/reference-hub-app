@@ -1,0 +1,80 @@
+{
+  "id": "mr-safety-appendix-5-a16f11",
+  "title": "Appendix 5: Spatial Field Gradient Evaluation | MRI Safety Manual",
+  "source": "mr-safety-appendix-5.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "APPENDIX 5:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spatial Field Gradient Evaluation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The translational force on an object in the MR environment is proportional to the product of the induced field in the object by the magnetic field and the spatial field gradient (SFG). Therefore, the SFG plays an important role in the forces experienced by an object in addition to the magnitude of the magnetic field itself. The SFG characterizes the static spatial gradient of the magnetic field surrounding an MR system. It is the spatial rate of change (∆) in the magnetic field at any given position in space around the MR scanner. The SFG increases substantially as one approaches either end, or “face,” of an MR scanner."
+    },
+    {
+      "type": "paragraph",
+      "text": "A map of the SFG is necessary to characterize or predict forces on ferromagnetic objects in the vicinity of the MR system and so is required to be disclosed for each specific magnet configuration in the MR vendor operating manual [1]. Note that this information is most often applied to assess the MR safety conditions on implanted medical devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Conditional labeling of implants and devices typically provide 2 numbers relevant to translational and rotational forces, the maximum static field (B0) and the maximum SFG (DB/Dz), to which the device/implant has been tested and shown to be safe when exposed [2,3]. The SFG varies as a function of the proximity to the bore wall, increasing with increased bore wall proximity. Based on the physical location of the implant in the patient’s body, the use of specific SFG plots provided by manufacturers for the specific MRI unit permits predicting the maximum SFG to which an implant would be subjected based on its physical location in the body and its location relative to the bore wall. Implanted device vendors provide the maximum SFG value that should not be exceeded with the device’s MR Conditional labeling in its instructions for use. Note the maximum allowable SFG may be quoted as a function of maximal static B0 value or may be stated to be independent of this value [1,3]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevant question to be answered is the following: What is the maximum SFG a device in the patient will be exposed to for a specific anatomic scan during movement into and out of the MR scanner bore?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Currently, MR system vendors provide SFG maps specific to their magnets. The suggested visual layout, advocated by the current International Electrotechnical Commission standard, is via manufacturer-provided SFG maps that depict a transaxial view of the bore of the magnet and include the patient couch, with equidistant concentric circles around the scanner isocenter (Figure 30) [4]. Each concentric circle represents the cross-section of a cylindrical volume within the scanner bore and the maximum estimated or measured SFG value within this volume, which is listed in a legend for reference. Limitations of such axial SFG maps include ambiguity of the exact location of the maximum SFG value along the cylindrical volume associated with each circle. Another common representation of SFG values are maps that depict either sagittal (Figure 31) or coronal planes passing through the center of the magnet bore, with contours tracing out the regions of constant SFG values (isogradient contours). If provided in only 1/4 view, the operator should understand that these representations of SFG are typically both horizontally (about both the central y and central x axes) and radially (about the central z axis) symmetric. Quarter SFG maps may be mirrored to yield a map that covers the entire MR bore."
+    },
+    {
+      "type": "paragraph",
+      "text": "F"
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 30. Transaxial view SFG map of an MR system indicating maximum SFG values that may be encountered within each of the cylindrical volumes within the diameter of the bore (image courtesy of Tobias Gilk of Gilk Radiology Consultants)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 31. Sagittal view spatial field gradient map of an MR system. The solid gray line just above the horizontal x-axis is the tabletop. Each dotted line represents spatial increments of 10 cm (image courtesy of Tobias Gilk of Radiology Consultants)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is essential that the physician responsible for MR safety, or the physician’s designee(s) (i.e., often the MR Safety Expert), be able to apply the manufacturer-provided SFG values and maps to each scanning event as a means of safe scanning in the presence of a medical device, taking into consideration the anatomy scanned and the route the device will take during its course in Zone IV [1]."
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Kanal E, Gilk TB. Regarding the value reported for the term “spatial gradient magnetic field” and how this information is applied to labeling of medical implants and devices. AJR Am J Roentgenol. 2011;196(1):142-145. doi: 10.2214/AJR.10.5004"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Reference Manual for Magnetic Resonance Safety, Implants, and Devices. 2020 ed. Biomedical Research Publishing Group; 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Woods TO, Crues JV III. MR labeling information for implants and devices: explanation of terminology. Radiology. 2009;253(1):26-30. doi: 10.1148/radiol.2531091030"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Electrotechnical Commission. IEC 60601-2-33:2022: Medical electrical equipment - Part 2-33: Particular requirements for the safety of magnetic resonance equipment for medical diagnosis. Published August 4, 2022. Accessed April 22, 2024. https://webstore.iec.ch/publication/67211"
+    }
+  ]
+}

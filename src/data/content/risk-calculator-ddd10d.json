@@ -1,0 +1,81 @@
+{
+  "id": "risk-calculator-ddd10d",
+  "title": "SHE MD Breast Cancer Risk Calculator",
+  "source": "risk-calculator.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Before you start"
+    },
+    {
+      "type": "paragraph",
+      "text": "Match the guidance from shemdpodcast.com."
+    },
+    {
+      "type": "list",
+      "items": [
+        "For women in the US, choose the BI-RADS ATLAS option for Breast Density Measure.",
+        "For Breast Density, refer to your mammogram or breast MRI.",
+        "After you calculate lifetime risk, see SHE MD Action Plans."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Manual Workflow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Collect inputs here, open IBIS in a new tab, then paste results and explanations back into this form."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Patient"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reproductive history"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Personal history"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Family history"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Notes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "IBIS entry summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use this summary for manual entry into IBIS."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Results & explanations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Disclaimer"
+    },
+    {
+      "type": "paragraph",
+      "text": "This information is not a substitute for professional healthcare and does not replace evaluation by a clinician. Always consult a healthcare provider. Do not disregard professional medical advice or delay seeking care because of this tool."
+    }
+  ]
+}

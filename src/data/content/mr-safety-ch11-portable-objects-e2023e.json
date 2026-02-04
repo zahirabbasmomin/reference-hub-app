@@ -1,0 +1,548 @@
+{
+  "id": "mr-safety-ch11-portable-objects-e2023e",
+  "title": "Chapter 11: Portable Objects in Zones III/IV | MRI Safety Manual",
+  "source": "mr-safety-ch11-portable-objects.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 11:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introducing Portable Metallic Objects and Equipment Into Zone III and Zone IV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Labeling and Testing"
+    },
+    {
+      "type": "paragraph",
+      "text": "All sites should have ready access to a strong handheld magnet (>1000 G) and/or a ferromagnetic detection device for testing purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "All portable metallic or partially metallic objects intended to be stored/located in Zone III/IV are to be properly labeled as MR Unsafe  or MR Conditional  prior to permitting them into Zone III when practical based on size/mass (e.g., pens, paperclips)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Never assume an MR Conditional or MR Safe status of an object unless it has been tested. The results of such testing, as well as the date, time, name of the tester, and methodology used for that particular object, should be documented in writing. If an object has not been tested or if its MR safety status is unknown, it should not be permitted unrestricted access into Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone III areas typically house electrically active stationary computers, printers, etc., that are not intended to enter Zone IV. MR safety testing and labeling are not required for such stationary items."
+    },
+    {
+      "type": "paragraph",
+      "text": "The testing of objects that are not electrically activated (e.g., fire extinguishers, intravenous poles, oxygen tanks, step stools) is to be accomplished by MR Personnel exposing the object to a handheld magnet (>1000 G) or ferromagnetic detector. If grossly detectable ferromagnetic properties are observed, it is to be labeled with a circular red MR Unsafe label. If none are observed, the object may be a candidate for a triangular yellow MR Conditional label , which can be used in specific locations and scenarios in the room that do not adversely impact the function of the device nor introduce other safety hazards (i.e., conducting materials). It is only when the composition of an object and its components are known to be nonmetallic, nonconducting, and nonmagnetic that the green MR Safe label  is to be affixed to a device or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Unsafe Transport Equipment—Temporary Provisions"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Unsafe transport equipment (e.g., wheelchairs, gurneys) may be brought into Zone III under specific temporary circumstances if they are deemed by MR Personnel to be necessary and appropriate for patient care (e.g., minimize patient transfers in medically compromised patients, etc.) and conscientiously secured to ensure that they do not pose a projectile risk. This equipment should only be brought into Zone III if it is under the direct supervision of specifically designated MR Personnel who are thoroughly familiar with the equipment, its function, and the reason supporting its introduction into Zone III. These devices must be appropriately physically secured, tethered, or restricted at all times within Zone III to ensure that they never pose a projectile risk (as in Figure 17 and Figure 18)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 17. Tethering of an MR Unsafe gurney to a fixed anchor point in Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 18. An example of a stop sign reminder that the tethered equipment cannot be taken into the magnet room."
+    },
+    {
+      "type": "paragraph",
+      "text": "Portable Objects in Zone IV"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, objects that are not required for the immediate care of a patient should not enter Zone IV if a patient is occupying the room. For example, introducing an MR Conditional ventilator into Zone IV should be done prior to a patient occupying the room. To the extent possible, it may be beneficial for the patient to be last in and first out of Zone IV with respect to external objects."
+    },
+    {
+      "type": "paragraph",
+      "text": "All portable metallic objects that are to be brought into Zone IV must be properly labeled as MR Conditional  or MR Unsafe . MR Conditional objects should be obtained instead of MR Unsafe objects when necessary for use within Zone IV. Items that are clearly made of ferrous materials or otherwise deemed unsafe should be identified as MR Unsafe and labeled appropriately with the corresponding round label . Proper precautions including tethering must be taken to prevent an MR Unsafe object from becoming a dangerous projectile (see MR Conditional External Nonimplanted Devices (Zone IV) in Appendix 2). It is advisable to position these objects in Zone IV when patients and staff are not occupying the room. If the patient is already in the MR scanner, if feasible, remove the patient from the bore of the magnet prior to object transport. Objects with an MR Conditional status should be affixed with a triangular MR Conditional label  prior to being brought into the scan room/Zone IV (Figure 19 and Figure 20) and the conditions clearly documented and communicated."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 19. Tethering and placement of anesthesia equipment in Zone IV. Note the tether (black arrow) and the 200-gauss line (yellow arrow).FIGURE 20. Tethering of an appropriately labeled MR Unsafe ultrasound equipment in a hybrid procedural suite, preventing it from crossing the black and yellow striped line. The ultrasound system is positioned beyond the 100-gauss (blue line) and 300-gauss (red line) areas. The intention of the tether is to prevent the ultrasound system from entering a fringe field that would cause it to become a projectile. Extensive physics testing was performed on the ultrasound equipment, verifying its safe location as pictured, prior to its deployment in Zone IV. (Figure used with permission of the Mayo Clinic Foundationfor Medical Education and Research, all rights reserved.)FIGURE 19. Tethering and placement of anesthesia equipment in Zone IV. Note the tether (black arrow) and the 200-gauss line (yellow arrow).FIGURE 20. Tethering of an appropriately labeled MR Unsafe ultrasound equipment in a hybrid procedural suite, preventing it from crossing the black and yellow striped line. The ultrasound system is positioned beyond the 100-gauss (blue line) and 300-gauss (red line) areas. The intention of the tether is to prevent the ultrasound system from entering a fringe field that would cause it to become a projectile. Extensive physics testing was performed on the ultrasound equipment, verifying its safe location as pictured, prior to its deployment in Zone IV. (Figure used with permission of the Mayo Clinic Foundationfor Medical Education and Research, all rights reserved.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 21 illustrates a typical configuration of an MR system and associated equipment in an inpatient facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 21. Typical configuration of an MR system in an inpatient facility. The design of Zone IV should consider the optimal workflow during more complex MR examinations, such as those requiring anesthesia. It is recommended that dedicated space is devoted to the anesthesia ventilator and physiologic patient monitoring equipment, typically away from the door. Similarly, anesthesiologists, nurses, respiratory technicians, and other personnel supporting the patient must have dedicated space to perform their functions. A clear path between the scanner door and the patient ensures easy access to the patient by the MR Technologist and nursing and a route for fast transportation of the patient out of Zone IV in the event of a medical emergency. In addition to the 9-gauss line marking on the floor, a 200-gauss line is recommended since this limit is often stipulated in labeling for MR Conditional equipment frequently used in Zone IV. Reliable tethering prevents this equipment from crossing the 200-gauss line. This is an example configuration, and appropriate physics testing may be required for specific devices at any given facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR scanning of hospitalized, higher-risk, or nonambulatory patients presents additional challenges. In many instances, these patients are too sick to enter Zone IV by themselves and must be transported into the MR scanner using an MR Conditional wheelchair or stretcher."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, metallic objects used for patient care (e.g., needles, small oxygen tanks, sandbags with metal shot, etc.) may be inadvertently transported after being used at other locations in the facility and hidden around the patient (e.g., underneath sheets or within pillow covers). The full stop/final check is intended to mitigate these potential projectile risks. (Refer to Chapter 6: Full Stop/Final Check). Whenever possible, the transfer of these patients to the MR table should be done in Zone III (e.g., via a detachable MR table)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cellphones. Cellphones in Zone III represent a particular challenge because they can become projectiles if brought into Zone IV and are ubiquitous and commonly used for routine work in Zone III. Facilities should develop policies and procedures to ensure that cellphones do not enter Zone IV (including potential use of pocketless scrubs, dedicated secured locations for their storage in Zone III, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pocketless attire. Items commonly found in the pockets of personnel (cellphones, scissors, stethoscopes, and other small metallic objects without MR safety labeling, etc.) present additional projectile risks. MR Safe pocketless garments should be strongly considered for use by all individuals entering Zone IV to mitigate projectile risks (Figure 22). Pocketless attire is recommended for those MR Personnel that regularly work in Zone IV on a daily basis. Existing attire can be made functionally pocketless by oversewing the pockets. Due to potential issues at institutional laundries in accurately separating pocketless from pocketed attire, having them uniquely colored or conspicuously labeled/emblazoned will ensure the ability to readily identify these garments. Unique MR Personnel attire would also be anticipated to aid rapid identification of MR Personnel from non-MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 22. Example of pocketless scrub attire."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Processes/procedures to decrease projectile risk from portable equipment/devices:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Employ a ferromagnetic detection system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Employ Zone IV doorway protection closed/strap/other barrier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incorporate full stop/final check standard operating procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deploy MR Safe or MR Conditional equipment/devices in Zone IV when possible. The use of MR Conditional equipment must follow the specified conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tether MR Unsafe items in Zone III and Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Provide MR Safe pocketless attire to patients/research participants, MR Personnel, and any other personnel required to work in Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Employ proper American Society for Testing Materials MR safety labeling of equipment in Zone III and Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Employ proper and effective screening of all staff, research subjects, and patients, including MR Personnel, before crossing into Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that all non-MR Personnel granted access to Zone III are closely monitored by and remain the consistent responsibility of Level 2 MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that entry into Zone IV is appropriately secured when the area is unsupervised."
+    },
+    {
+      "type": "paragraph",
+      "text": "Position external objects prior to patient entry to Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove the patient from Zone IV prior to removing or manipulating objects whenever possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSASTM: American Society for Testing MaterialsG: gaussKEY ABBREVIATIONSASTM: American Society for Testing MaterialsG: gauss"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chapter 12:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Managing Patients and Research Subjects With Medical Implants and Devices In The MR Environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some devices, both active and passive, may require adjustments before and after the MRI to ensure a safe completion of the MR examination and adequate functioning of the device. The number of such devices continues to increase and requires MRI facilities to develop specific standard operating procedures (SOPs), frequently in conjunction with the referring physicians. Adequate management during and after the MR scan should include an assessment of the device, programming for MR scanning, and a post-scan reprogramming or check. Facilities must ensure access to properly trained personnel both inside and outside radiology (i.e., cardiology, electrophysiology, pain medicine, vendor representative, etc.) to meet the MR safety conditions as specified by the instructions for use (IFU)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Active Implanted/On-planted Devices"
+    },
+    {
+      "type": "paragraph",
+      "text": "Active implanted medical devices (AIMDs) contain an energy source such as a battery or have the ability to be inductively coupled [1,2]. In contrast to implanted devices, on-planted or external devices (e.g., external insulin pump, continuous glucose monitoring device, etc.) are located, at least partially, external to a patient’s body."
+    },
+    {
+      "type": "paragraph",
+      "text": "An exhaustive discussion of the large number of AIMDs currently available is beyond the scope of this Manual. However, this Manual will summarize information for several AIMDs due to their frequency in the clinical environment and the important MR safety considerations related to these items."
+    },
+    {
+      "type": "paragraph",
+      "text": "All elements of an MR Conditional system must be present for the system to be MR Conditional. For example, an MR Conditional neurostimulation system is comprised of a MR Conditional pulse generator and MR Conditional leads. If any element of the system is not MR Conditional, the entire system is not MR Conditional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cardiac implantable electronic devices. Cardiac implantable electronic devices (CIEDs) have expanded in number and complexity since their introduction in 1958 and now include cardiac pacemakers, implantable cardioverter defibrillators (ICDs), cardiac resynchronization therapy (CRT) devices, cardiac contractility modulation therapy devices, implantable cardiovascular monitors (ICMs), and implantable loop recorders (ILRs). Cardiac pacemakers, which include implantable pulse generators (IPGs) and leads that are approved by the FDA and are labeled MR Conditional, became available in the United States in 2011. Since then, other commercially available CIEDs have been labeled MR Conditional, including ICDs, CRT devices, ILRs, and ICMs. IFU product inserts, identification cards for patients, manufacturer-maintained databases, lead and IPG identifiers visualized on plain radiographs, and operative notes may assist in the proper identification of MR Conditional CIEDs."
+    },
+    {
+      "type": "paragraph",
+      "text": "In patients who have implanted cardiac devices that have not been labeled MR Conditional, guidance regarding the performance of MR examinations is deferred to recommendations from the Heart Rhythm Society [3]. Key elements included in the document related to the scanning of"
+    },
+    {
+      "type": "paragraph",
+      "text": "patients with CIEDs that have not been labeled MR Conditional include, but are not limited to the following:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Institutional workflow/SOP with responsible MR Medical Director (MRMD) and CIED MD and a radiology/cardiology team approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical necessity of the MR exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evaluation for fractured or abandoned leads. At times, the documentation in the electronic medical record for a patient with a history of a removed implanted CIED may not be entirely clear. A chest radiograph may be useful to determine the presence of abandoned leads."
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrocardiogram and pulse oximetry monitored during the MR examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Defibrillator/monitor with external pacing available (outside Zone IV)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Advanced cardiac life support personnel in attendance during the MR exam until the CIED is reprogrammed following the examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "CIED evaluation/programming immediately pre- and post-MRI."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information related to MRI scanning of patients with CIEDs has been provided by the ISMRM. [4]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Epicardial pacing wires. A distinction of the type, MR safety labeling, and location/alteration associated with epicardial leads is important for MR safety decision-making considerations. In the majority of cases, epicardial leads are associated with 2 major scenarios:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary epicardial pacing leads and remnants. After cardiac surgery, these typically short, small caliber leads (wires) are placed and are tunneled through the mediastinum to traverse the chest wall to permit attachment to an external pulse generator in the event that it is necessary to support the patient with temporary pacing. While frequently these are completely extracted prior to patient discharge, not infrequently, some remnant remains, often cut/snipped and often extending to just below the skin surface (Figure 23). Previous publications have addressed performing MRI exams in this patient group [5,6]. In the typical clinical setting of a patient with a retained temporary epicardial lead fragment, the relatively short length together with lack of large conducting loops has not been shown to pose a barrier to scanning, with no adverse outcomes associated with this scenario reported to date. Postsurgical temporary epicardial leads that have been partially removed are not considered to be abandoned pacing leads according to the Heart Rhythm Society [3]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Permanently implanted epicardial leads/CIEDs. These permanent epicardial leads/CIEDs are often implanted in children or infants with congenital heart defects in whom endovascular access would be difficult or impossible (Figure 24 and Figure 25). Other applications are in those with infected endovascular CIEDs or endocarditis. Permanently implanted epicardial leads are typically of a larger caliber than temporary epicardial pacing leads, and these are combined with IPGs. As noted in the Heart Rhythm Society document, there are presently insufficient data to comment on the safety of MRI performance in the presence of permanent epicardial leads [3], although some recent studies have addressed this question [7,8]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Retained or abandoned endovascular and intracardiac leads. A typical appearance of abandoned endovascular and intracardiac leads is demonstrated in Figure 26. Also as noted in the Heart Rhythm Society document, there is insufficient data to comment on MR safety considerations in the presence of retained or abandoned endovascular and intracardiac leads [3]. A prior study demonstrated the possibility of substantial length-dependent lead tip heating. In addition, the attachment of leads to the pulse generator substantially affects heating at the lead tip [9]. Recent studies have investigated safety in patients with abandoned leads undergoing MRI with careful monitoring and other precautions [10,11]. As other studies emerge on abandoned leads, the recommendations in this manual may be modified."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 25. Lateral chest radiograph demonstrating relatively long permanently implanted epicardial leads (white arrows) and attached to a pulse generator."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 26. Radiograph demonstrating abandoned transvenous intracardiac leads(whitearrows). For patients with a history of revision or removal of implanted electronic devices, cardiac or otherwise, radiographic screening prior to MR examination should be considered to evaluate for abandoned leads."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neuromodulation systems. An increasing number of AIMDs used for neuromodulation are now available, designed to stimulate the central nervous system and peripheral nervous system targets for clinical benefit. These include deep brain stimulators, responsive neurostimulation systems, cochlear implants, spinal cord stimulator systems, vagus nerve stimulator systems, hypoglossal nerve stimulator systems, sacral nerve stimulator systems, and peripheral nerve stimulator systems [12]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Careful attention to the accurate identification of the precise make, model, and manufacturer as well as location of implantation of the leads and IPG for the AIMD is mandatory to ensure patient safety. Subtle differences in model numbers within a particular class of neurostimulation systems or a modification in how or where it is or was implanted can markedly change the scanning conditions, including a device changing from being MR Conditional to being MR Unsafe and posing a serious risk to the patient. Different model numbers within a particular type of neurostimulator class can be associated with the ability to use the transmit body RF coil as opposed to being restricted to transmit/receive RF coils such as those used for the head or knee."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is frequently necessary to have current imaging to accurately confirm the location of IPG and lead systems as well as to evaluate for possible broken or abandoned leads. Increasingly, patients can present with more than 1 active implanted device, requiring thoughtful considerations of the conditions for safe scanning and frequently benefiting from a coordinated evaluation by the MR Safety Officer (MRSO), MR Safety Expert, and MRMD safety team. For MR Conditional neurostimulation systems, it is useful to contact the patient prior to their arrival to ensure that they bring the device programmer to allow the device to be programmed appropriately for scanning as needed. Facilities should incorporate SOPs, often including"
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient Eligibility forms or Patient Checklists, to ensure that all the necessary conditions for safe scanning are being met. Coordination with nonradiology subspecialty clinical teams can also be beneficial for post-MRI reprogramming of certain devices (e.g., vagus nerve stimulators)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implantable infusion pumps. Implantable infusion pumps provide controlled delivery of medications primarily into the spinal subarachnoid space, with morphine and baclofen and their derivatives the most commonly infused agents for control of pain and spasticity, respectively. If MR conditions for safe scanning are not followed carefully, there is potential for patient injury or death that can be related to drug overdosage or potentially from interrupted drug infusion. Safety issues related to implantable infusion pumps in MRI were the subject of a 2017 FDA alert [13]."
+    },
+    {
+      "type": "paragraph",
+      "text": "A number of deaths have occurred in association with MRI related to drug overdosing that are apparently attributable primarily to not adhering to MR conditions for safe scanning [14]. The drug reservoirs for some implantable infusion pumps must be entirely emptied of their contents prior to scanning, as the drug can be subject to uncontrolled release while in MRI, with potentially catastrophic results. For other devices, the motors are expected to stall in MRI, temporarily interrupting drug infusion, but occasionally the pump motors may not restart as expected following removal of the patient from the MR environment. This can pose significant clinical problems associated with unanticipated opioid withdrawal or clinically more dangerous baclofen withdrawal syndrome, which is associated with approximately 20% mortality [15]. For this reason, these infusion pumps must be evaluated to ensure they are operating properly following scanning. Other infusion pumps exist, including hepatic artery infusion pumps, that are MR Conditional primarily for the administration of chemotherapeutic agents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implantable and external insulin pumps. Due to increasingly widespread use, practices should be particularly vigilant for the presence of insulin pumps that can be implanted or worn externally (on planted). Presently, these devices are considered MR Unsafe due to the presence of ferrous materials and/or electronics that can be adversely impacted by the electromagnetic field used for MR. Importantly, if exposed to the MR environment, sensing and insulin delivery circuits may be temporarily or permanently damaged such that there may be dangerous physiologically unsafe insulin delivery that could lead to life-threatening hypo- or hyperglycemia [16]. For this reason, it is critical to positively identify diabetic patients in the screening process in an effort to further ensure reliable detection of these devices. If the patient has an implantable insulin pump, MRI is contraindicated. If the patient has an external insulin pump, the device must be removed from the patient prior to allowing the patient into the MR system room. Additionally, MR Personnel should be aware that internal and external insulin pumps are often used in association with continuous glucose monitoring devices, some of which are MR Unsafe and therefore require removal from the patient prior to entry into Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Passive Implanted Devices"
+    },
+    {
+      "type": "paragraph",
+      "text": "Passive implants and devices, unlike active devices, do not contain an intrinsic electrical power source. All passive implants that contain metal are by definition either MR Conditional or MR Unsafe. Common passive implants and devices include aneurysm clips, intravascular stents (vascular, ureteral, tracheal, esophageal, etc.), heart valve prostheses, orthopedic implants (plates, screws, pins, total hip prostheses, mesh, etc.), intraocular lens implants and glaucoma shunts, programmable and nonprogrammable ventricular shunts, and prostheses. The major"
+    },
+    {
+      "type": "paragraph",
+      "text": "risks in MRI of these devices relate to the potential for electrical current induction, RF-associated heating, gradient-associated vibration or heating, magnetic field–associated translation and torque, and possible Lenz-related forces. Some devices, such as certain programmable ventricular shunts, may require confirmation of setting with possible setting reprogramming after exposure to the MR environment. A nonmetallic, nonconducting, nonmagnetic passive implant, such as hernia mesh, can be considered MR Safe [17]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intracranial aneurysm clips. If it is unclear whether a patient has an implanted intracranial aneurysm clip, if available, recent cranial radiographs or CT or MR examinations should be reviewed to identify a possible intracranial aneurysm clip. If unavailable, radiographs or CT should be obtained."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the event that a patient has an intracranial aneurysm clip, the MR examination should not be performed until the specific manufacturer, model, and type of aneurysm clip within that patient is identified. Next, it should be determined if the aneurysm clip is MR Unsafe or MR Conditional [18]. All documentation of types of implanted clips, dates, etc., must be in writing and signed by/attributable to a licensed physician. Electronic copies of operative reports, physician statements, etc., are acceptable as long as a legible physician signature or other electronic attestation accompanies the requisite documentation. Blanket letters indicating the safety of all clips implanted by a practice are not acceptable. A written history of the clip describing appropriate ferromagnetic testing methods (as specified for appropriate labeling in American Society for Testing Materials (ASTM) International F2503) [17] used to characterize the clip prior to implantation by the operating surgeon is also considered acceptable."
+    },
+    {
+      "type": "paragraph",
+      "text": "A patient with a previously unrecognized MR Unsafe aneurysm clip (or another implant) may have undergone a prior MR examination without a known adverse event. This fact is insufficient evidence of the safety of the implant and should not be relied on solely to determine the MR safety status of that aneurysm clip (or other implant) for future MR examinations."
+    },
+    {
+      "type": "paragraph",
+      "text": "For these previously scanned patients with unknown or unsafe aneurysm clips, it is important to note that variations in static magnetic field strength, static gradient magnetic field, orientation of the aneurysm clip (or other implant) relative to the direction of the static magnetic field or its static magnetic field gradient, and rate of motion through that static magnetic field gradient, as well as other factors, are presumably unknown variables that are impossible to control or reproduce. These variables may not have resulted in an adverse event in one circumstance but could potentially result in significant injury or death on a subsequent MR exposure. By assessing the size of the artifact associated with the clip relative to the static field strength on which it was studied, the MRI pulse sequence type, and the MRI parameters selected, an opinion may be issued by one of the facility’s Level 2 MR Physicians as to whether or not the aneurysm clip demonstrates substantial ferromagnetic properties. Access to the MR scanner could be based on that opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Barring the availability of either pretesting or prior MRI-related data for the aneurysm clip in question, the supervising physician in each case must perform a risk versus benefit assessment and review. Furthermore, for patients with intracranial aneurysm clips with no available ferromagnetic or imaging data, should the risk-benefit ratio favor the performance of the MR examination, the patient or guardian should provide written informed consent that includes death as a potential risk of the MR procedure prior to permitting that patient to undergo an MR"
+    },
+    {
+      "type": "paragraph",
+      "text": "examination. Because research scans in general do not offer benefit for the research participant, scanning patients without written information about the specific device is strongly discouraged."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 27 depicts CT and 1.5-T MRI appearance of MR Conditional aneurysm clips and aneurysm embolization coils."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 27. CT and 1.5-T MRI appearance of MR Conditional aneurysm clips and aneurysm embolization coils. (A) CT topogram appearance of MR Conditional aneurysm clip (arrow) and aneurysm embolization coil mass (dashed arrow). (B and C) CT appearance of aneurysm clip and embolization coil mass. (D and E) 1.5-T T2* gradient-echo axial and coronal localizer images. Note the limited susceptibility artifact associated with the nonferromagnetic aneurysm clip and embolization coil mass and compare this with the pronounced artifact associated with the MR Unsafe ferromagnetic clip seen in Figure 28. (F and G) Relatively limited susceptibility artifact on T2 fast spin-echo images associated with the MR Conditional nonferromagnetic aneurysm clip and embolization coil mass."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implant, Device, or Object Discovered During an MR Examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "During an MR examination, it is possible that an unanticipated ferromagnetic implant or foreign body is discovered within a patient or research participant. This is typically suspected or detected on localizer images by observing a sizable image distortion and/or signal-loss artifact that grows with increasing echo time and is more prominent on gradient-echo relative to spin-echo imaging sequences. In such cases, it is imperative that further image acquisition is put on hold and that the Level 2 MR Physician (and/or MRMD or MRSO when appropriate) responsible for the patient be immediately notified of the suspected ferromagnetic object. This Level 2 MR Physician should then assess the situation, review the imaging, and decide the best course of action."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 28. Examples of pronounced susceptibility artifact on 1.5-T localizer images associated with ferromagnetic intracranial aneurysm clip (A, B, C). The ferromagnetic clip is seen on the CT images (D). In this case, the patient was removed safely from the scanner using slow table speed, and the table was detached and wheeled out of the room slowly without the patient sitting up."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should be noted that there are numerous potentially acceptable courses of action that might be recommended that are dependent on many factors, including the status of the patient, the location of the suspected ferromagnetic implant/foreign body relative to local anatomic structures, the mass of the implant, the length of the object, the strength of the static magnetic field, and other factors. Appropriate courses of action might include proceeding with the scan underway, immobilizing and slowly removing the patient from the scanner, or other intermediate steps. Regardless of the course of action selected, it is important to note that the forces on the implant will change, and may actually increase, during the attempt to remove the patient from the scanner bore. Further, the greater the rate of motion of the patient/device through the magnetic field near the scanner bore (spatial field gradient), the greater the forces acting on that device will likely be. In general, slow table speed and slow patient movement should be beneficial. Efforts to immobilize an unrecognized on-planted device can be helpful."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 28 illustrates discovery and subsequent safe removal of a patient after identification of susceptibility artifact associated with an aneurysm clip on the anatomical localizer. Reinforcing this critical need to carefully review patient localizer images to assess for the presence of ferromagnetic objects, a case reported in 1986 in the literature documented a patient that went blind from interactions between an undetected metallic foreign body in his retina and the static magnetic field of the MR system after both entering the scanner and undergoing the entire MR examination without reported incident. Notably, this patient only went blind on exiting the MR system at the completion of the examination [19]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The detection of an unexpected focus of susceptibility artifact in MR examinations of the torso can be particularly challenging because of the multitude of devices that are implanted during surgical and interventional procedures (e.g., staples, stents, inferior vena cava filters, hemostatic clips, embolization coils, etc.). The Level 2 MR Personnel should be aware that some commonly used devices, such as certain clips used in endoscopic procedures, are indeed MR Unsafe [20]. Furthermore, ingested iron supplements within the bowel can cause substantial susceptibility artifacts mimicking metallic clips on MRI [21]. Also, due to their ferromagnetic content, some hemostatic clips deployed during endoscopy impart susceptibility artifacts that could adversely affect the diagnostic quality of the images."
+    },
+    {
+      "type": "paragraph",
+      "text": "When an unexpected artifact is encountered in a patient undergoing MRI, the Level 2 supervising physician should be contacted before proceeding with the rest of the MR examination. The magnetic fields associated with the MR scanner are 3-D. Thus, especially for superconducting systems, one should avoid the temptation to have the patient sit up as soon as they are physically out of the bore. Doing so may expose the ferromagnetic object to significant torque- and translation-related forces despite its being physically outside the scanner bore."
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, it is advisable to continue to extract the patient along a straight-line course parallel to the center of the MR system while the patient remains immobilized until they are as far as physically possible from the MR scanner in Zone IV and continuing directly into Zone III, if possible, before having the patient sit up."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the table is dockable, detach the table and move the patient into Zone III before allowing the patient to sit up. If the table is fixed, it is recommended to slowly horizontally transfer the patient to an MR Conditional stretcher in Zone IV and then move the patient into Zone III. If there is determined to be a strong likelihood of producing or worsening patient injury by attempting to remove the patient from the MR system, quenching could be a consideration. Additionally, having emergency medical assistance readily available (with proper safety precautions) is also a consideration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Should an implanted device that may be altered by the magnetic field (e.g., programmable shunt, implantable infusion pump, tissue expander, continuous glucose monitor, etc.) inadvertently be discovered while the patient is in Zone IV, the physician responsible for the maintenance of the device(s) should be contacted prior to the patient’s discharge from the MRI facility. Significant injuries have resulted from such partial exposures to powerful static magnetic fields, and thus, the functionality of the device should be verified and never assumed for critical devices such as internal or external insulin pumps or AIMDs."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "External (nonimplanted) devices, objects, and equipment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Portable metallic devices should be properly labeled prior to entry to Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Unsafe equipment necessary for patient care in Zone III must be responsibly managed by physically securing/tethering or other means."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pocketless scrubs attire should be strongly considered for personnel entering Zone IV to decrease projectile risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Active implanted/on-planted devices"
+    },
+    {
+      "type": "paragraph",
+      "text": "Active medical devices contain an energy source or can be inductively coupled."
+    },
+    {
+      "type": "paragraph",
+      "text": "Careful attention to MR conditions for safe scanning of specific devices is essential."
+    },
+    {
+      "type": "paragraph",
+      "text": "CIED systems without MR Conditional labeling can be scanned provided a program is employed in accordance with the recommendations of the Heart Rhythm Society."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identify patients with CIED, neurostimulators, insulin pumps, and infusion devices early in the screening process to confirm whether and how the patient can be safely scanned."
+    },
+    {
+      "type": "paragraph",
+      "text": "Passive implanted devices"
+    },
+    {
+      "type": "paragraph",
+      "text": "Passive implanted devices do not contain an intrinsic electrical power source."
+    },
+    {
+      "type": "paragraph",
+      "text": "Metal-containing passive devices cannot be MR Safe, only MR Conditional or MR Unsafe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lack of a known adverse event in a patient scanned with an implanted device of unknown safety labeling does not ensure its safety in any way with future MR exams."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implant, device, or object discovered during MR examination"
+    },
+    {
+      "type": "paragraph",
+      "text": "Extensive susceptibility artifacts can be an indicator of potentially unsafe ferromagnetic content in an implant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sites should have SOPs in place on processes/procedures to remove a patient from the magnet if potentially unsafe metal is identified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Slow table speed and keeping the patient recumbent until well away from the bore are important elements."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSACLS: advanced cardiac life supportAIMD: active implanted medical device ASTM: American Society for Testing Materials CCM: cardiac contractility modulationCIED: cardiac implantable electronic deviceCRT: cardiac resynchronization therapyCT: computed tomographyFDA: Food and Drug AdministrationICD: implantable cardioverter defibrillator ICM: implantable cardiovascular monitor IFU: instructions for useILR: implantable loop recorderIPG: implantable pulse generatorsMRMD: Magnetic Resonance Medical Director MRSE: Magnetic Resonance Safety Expert MRSO: Magnetic Resonance Safety Officer RF: radiofrequencySOP: standard operating procedureB0: Static magnetic fieldKEY ABBREVIATIONSACLS: advanced cardiac life supportAIMD: active implanted medical device ASTM: American Society for Testing Materials CCM: cardiac contractility modulationCIED: cardiac implantable electronic deviceCRT: cardiac resynchronization therapyCT: computed tomographyFDA: Food and Drug AdministrationICD: implantable cardioverter defibrillator ICM: implantable cardiovascular monitor IFU: instructions for useILR: implantable loop recorderIPG: implantable pulse generatorsMRMD: Magnetic Resonance Medical Director MRSE: Magnetic Resonance Safety Expert MRSO: Magnetic Resonance Safety Officer RF: radiofrequencySOP: standard operating procedureB0: Static magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Watson RE Jr, Edmonson HA. MR safety: active implanted electronic devices. Magn Reson Imaging Clin N Am. 2020;28(4):549-558. doi: 10.1016/j.mric.2020.08.001"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Organization of Standardization. Assessment of the safety of magnetic resonance imaging for patients with an active implantable medical device. Published April 2018. Accessed April 22, 2024. https://www.iso.org/standard/65055.html"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indik JH, Gimbel JR, Abe H, et al. 2017 HRS expert consensus statement on magnetic resonance imaging and radiation exposure in patients with cardiovascular implantable electronic devices. Heart Rhythm. 2017;14(7):e97-e153. doi: 10.1016/j.hrthm.2017.04.025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vigen KK, Reeder SB, Hood MN, et al. Recommendations for Imaging Patients With Cardiac Implantable Electronic Devices (CIEDs). J Magn Reson Imaging. 2021;53(5):1311-1317. doi:10.1002/jmri.27320"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hartnell GG, Spence L, Hughes LA, Cohen MC, Saouaf R, Buff B. Safety of MR imaging in patients who have retained metallic materials after cardiac surgery. AJR Am J Roentgenol. 1997;168(5):1157-1159. doi: 10.2214/ajr.168.5.9129404"
+    },
+    {
+      "type": "paragraph",
+      "text": "Murphy KJ, Cohan RH, Ellis JH. MR imaging in patients with epicardial pacemaker wires. AJR Am J Roentgenol. 1999;172(3):727-728. doi: 10.2214/ajr.172.3.10063869"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vuorinen AM, Paakkanen R, Karvonen J, et al. Magnetic resonance imaging safety in patients with abandoned or functioning epicardial pacing leads. Eur Radiol. 2022;32(6):3830-3838. doi: 10.1007/s00330-021-08469-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ma YD, Watson RE Jr, Olson NE, et al. Safety of magnetic resonance imaging in patients with surgically implanted permanent epicardial leads. Heart Rhythm. 2023;20(8):1111-18. doi: 10.1016/j.hrthm.2023.04.003"
+    },
+    {
+      "type": "paragraph",
+      "text": "Langman DA, Goldberg IB, Finn JP, Ennis DB. Pacemaker lead tip heating in abandoned and pacemaker-attached leads at 1.5 Tesla MRI. J Magn Reson Imaging. 2011;33(2):426-431. doi: 10.1002/jmri.22463"
+    },
+    {
+      "type": "paragraph",
+      "text": "Higgins JV, Gard JJ, Sheldon SH, et al. Safety and outcomes of magnetic resonance imaging in patients with abandoned pacemaker and defibrillator leads. Pacing Clin Electrophysiol. 2014;37(10):1284-1290. doi: 10.1111/pace.12419"
+    },
+    {
+      "type": "paragraph",
+      "text": "Schaller RD, Brunker T, Riley MP, Marchlinski FE, Nazarian S, Litt H. Magnetic resonance imaging in patients with cardiac implantable electronic devices with abandoned leads. JAMA Cardiol. 2021;6(5):549-556. doi: 10.1001/jamacardio.2020.7572"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rahman M, Shellock FG. Chapter 18: MRI issues for implants and devices. In: Shellock FG, Crues JV III, eds."
+    },
+    {
+      "type": "paragraph",
+      "text": "MRI Bioeffects, Safety, and Patient Management. Biomedical Research Publishing Group; 2022:710-748."
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Safety concerns with implantable infusion pumps in the magnetic resonance (MR) environment. Published January 11, 2017. Accessed April 22, 2024. https://wayback.archive-it.org/7993/20201224130324/https:/www.fda.gov/medical-devices/safety-communications/safety-concerns-implantable-infusion-pumps-magnetic-resonance-mr-environment-fda-safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "McRobbie DW. Essentials of MRI Safety. Wiley Blackwell; 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mohammed I, Hussain A. Intrathecal baclofen withdrawal syndrome- a life-threatening complication of baclofen pump: a case report. BMC Clin Pharmacol. 2004;4:6. doi: 10.1186/1472-6904-4-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yeh T, Yeung M, Mendelsohn Curanaj FA. Managing patients with insulin pumps and continuous glucose monitors in the hospital: to wear or not to wear. Curr Diab Rep. 2021;21(2):7. doi: 10.1007/s11892-021-01375-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "American Society for Testing Materials International. Standard practice for marking medical devices and other items for safety in the magnetic resonance environment. Published October 24, 2023. Accessed April 22, 2024. doi: 10.1520/F2503-23E01"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Chapter 18: MRI issues for implants and devices. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022;462-497."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kelly WM, Paglen PG, Pearson JA, San Diego AG, Soloman MA. Ferromagnetism of intraocular foreign body causes unilateral blindness after MR study. AJNR Am J Neuroradiol. 1986;7(2):243-245."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accorsi F, Coutu G, Simms EL, Lalonde A, Leswick DA. Endoscopic clip MRI screening: a Canada-wide policy survey. AJR Am J Roentgenol. 2017;209(1):130-135. doi: 10.2214/AJR.16.17521"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bowser BA, Campeau NG, Carr CM, et al. Incidental ferumoxytol artifacts in clinical brain MR imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neuroradiology. 2016;58(11):1087-1091. doi: 10.1007/s00234-016-1747-1"
+    }
+  ]
+}

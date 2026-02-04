@@ -1,0 +1,42 @@
+{
+  "id": "incidental-adnexal-findings-8e2cce",
+  "title": "Incidental Adnexal Findings",
+  "source": "incidental-adnexal-findings.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive pathway"
+    },
+    {
+      "type": "paragraph",
+      "text": "Review the decision tree, then reference the original flowchart."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Loading..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tip: Use left and right arrow keys to move between pathways."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to use"
+    },
+    {
+      "type": "paragraph",
+      "text": "For incidental adnexal masses detected on CT or MR."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Start with cyst morphology and size, then apply menopausal status thresholds.",
+        "Use ultrasound when CT/MR assessment is limited or characterization is incomplete.",
+        "Follow MR characterization thresholds to decide on follow-up imaging."
+      ]
+    }
+  ]
+}

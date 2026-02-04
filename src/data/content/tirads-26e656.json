@@ -1,0 +1,15 @@
+{
+  "id": "tirads-26e656",
+  "title": "TI-RADS Reference",
+  "source": "tirads.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matches feature names, category labels, size thresholds, or notes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading TI-RADS..."
+    }
+  ]
+}

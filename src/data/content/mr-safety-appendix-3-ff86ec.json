@@ -1,0 +1,180 @@
+{
+  "id": "mr-safety-appendix-3-ff86ec",
+  "title": "Appendix 3: MR Facility Maintenance & Emergency Preparedness | MRI Safety Manual",
+  "source": "mr-safety-appendix-3.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "APPENDIX 3:"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Facility Maintenance and Emergency Preparedness Guidelines"
+    },
+    {
+      "type": "paragraph",
+      "text": "Health care facilities have a unique obligation to minimize the disruption from maintenance issues as well as disasters and hasten their ability to restore critical patient care services when interrupted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those charged with the operation of MR facilities have the added complexities of protecting not only the staff and structure but also the equipment, which may be extraordinarily sensitive to changes in its environment, including vibration, interrupted power supply, and water damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on location, facilities may have to contend with earthquakes, tornadoes, fires, ice storms, snowstorms, or blackouts. Prospective disaster planning may prove beneficial to such sites."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance in Zone IV brings many unique challenges. Maintenance efforts should be well planned and monitored, and an MR Safety Officer should be available to supervise contractors and maintenance personnel. Appropriate role-specific MR safety training for these individuals is recommended. Every effort should be made to have nonferrous tools, and if ferromagnetic material must be brought into Zone IV, there must be a well-designed plan of action to ensure safety (i.e., tethering, potentially ramping the magnet down prior to the maintenance work). Maintenance should be performed in accordance with manufacturer’s recommendations and schedules."
+    },
+    {
+      "type": "paragraph",
+      "text": "Water damage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether from roof failure, burst pipes, storm surges, or rising water levels, every facility has the potential for water damage to equipment and facilities. It takes only a small quantity of water in contact with an MRI scanner to incapacitate or destroy the equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the event of impending water damage, facilities may decide to prepare by covering gantries and equipment with sturdy plastic taped in place. Where possible, electronic components should be raised from the ground. Radiofrequency (RF) shields, particularly the floor assembly, may be significantly damaged and may need to be replaced following a flood if not designed to be protected against water damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary electrical power may be provided either through on-site or portable emergency generators. Facilities should evaluate risks from water damage and assess their preparations for failure of the building enclosure and be especially sensitive to emergency generators that may be located in basements or other low-lying areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Structural damage"
+    },
+    {
+      "type": "paragraph",
+      "text": "MRI presents a particular challenge with structural failure. Although unlikely with current MR systems, vibrations from seismic events have the potential to initiate a"
+    },
+    {
+      "type": "paragraph",
+      "text": "quench of the MR system. Structural damage or motion may also damage the RF shield enclosure, potentially degrading image quality."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power outage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Without electrical power to the vacuum pump/cold head to reliquefy the cryogen within a superconducting MR system, the cryogens will begin to boil off at an accelerated rate. Depending on cryogen vent design and boil-off rate, the additional cryogenic gas discharge may freeze any accumulated water or water vapor in the cryogen vent, occluding the pipe and increasing the possibility for a cryogen vent breach in the event of a quench."
+    },
+    {
+      "type": "paragraph",
+      "text": "At some point, if power to the vacuum pump is not restored, likely a couple days to perhaps a week after power is lost, the magnet will spontaneously quench, discharging most or all of its remaining cryogenic gases. This poses a safety risk to anyone near the discharge and runs a risk of potentially permanently damaging the magnet’s coils."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if power to the vacuum pump/cold head and cryogen levels is restored prior to a quench, there should be no long-term consequences to the magnet’s operation from a power interruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quench"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of the risks to personnel, equipment, and physical facilities, manual magnet quenches are to be initiated only after careful consideration and preparation. In addition to following those specific recommendations provided by the MRI manufacturer, a facility should initiate a preemptive quench in nonemergent situations only after verifying the function of emergency exhaust systems and verifying or providing means of pressure relief. The facility should check for water leaking from fittings or condensation forming on vent pipe sections as possible signs for water or ice inside the pipe. If/when feasible, a discussion with the device manufacturer regarding an intentional, controlled static magnetic field ramp down may be advisable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prevention"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it is the nature of emergencies to be surprises, we can anticipate the types of incidents that have higher likelihoods given our facilities, practices, and locations. Every facility should anticipate the potential for flooding and fire."
+    },
+    {
+      "type": "paragraph",
+      "text": "State and federal offices of emergency preparedness are dedicated to anticipating and preparing for the specific threats of a given region. These can serve as an excellent resource regarding risks and strategies for preparation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once a disaster has struck, it is important to assess what the immediate needs of a community are and to restore those critical patient care services first."
+    },
+    {
+      "type": "paragraph",
+      "text": "Damage to MRI equipment and facilities may not be repaired as quickly. For seriously incapacitated facilities, the use of mobile MR system units may be the only means of quickly restoring radiology capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "All health care facilities should have emergency preparedness plans. The health care plans for MRI facilities should specifically address the unique aspects of MRI equipment. These plans should define who has the authority to authorize nonemergent quenches, procedures for emergency or backup power for the vacuum pump/cold head, and instructions on how to protect gantries and sensitive electronics. Facilities should have the necessary supplies prepositioned and checklists for preparatory and responsive actions. Emergency preparedness plans should also include information necessary for restoring clinical services, including contacts for the MR system vendor, RF shield vendor, cryogen contractor, MR suite architect and construction contractor, local and state officials, and affiliated hospital and professional organizations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Below are a few questions that may facilitate the development of an emergency preparedness plan specific to the needs of a facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "What are the likely/possible natural disasters to affect the area?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What are the likely/possible manmade disasters to affect the area?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is electrical power likely to be interrupted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Would other utilities (natural gas, telecommunications, etc.) likely be interrupted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What equipment would be inoperative during the emergency?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What equipment could be damaged by the emergency?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What equipment should be provided with critical or backup power?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the utility service is not quickly restored, what other risks may arise?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Would patients and staff be able to get to the facility?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Would patients or staff be trapped at the facility?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How critical is each patient care service provided at the facility?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How does the facility protect the equipment needed to support each service?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How does the facility protect the patient data (including such options as off-site storage) from each service?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the facility does not have the resources for the above on-site, who can provide them?"
+    }
+  ]
+}

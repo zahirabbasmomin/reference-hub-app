@@ -1,0 +1,660 @@
+{
+  "id": "mr-safety-ch8-fields-d7bcff",
+  "title": "Chapter 8: MRI Fields & Safety Concerns | MRI Safety Manual",
+  "source": "mr-safety-ch8-fields.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 8:"
+    },
+    {
+      "type": "paragraph",
+      "text": "MRI Fields and Safety Concerns"
+    },
+    {
+      "type": "paragraph",
+      "text": "The electromagnetic fields associated with MRI are generally the primary sources of safety considerations associated with routine use of the equipment. Therefore, these fields should be considered in terms of potential interactions and risks with respect to humans and objects exposed to the fields. The strong static magnetic field can induce torque and translational forces on ferromagnetic objects and devices that can lead to projectile events. The pulsed gradient magnetic fields can cause peripheral nerve stimulation and damage to implanted and on-planted devices as well as generate loud acoustic noise. Each of these phenomena will be discussed in turn. Additionally, time-varying radiofrequency (RF) magnetic fields are predominantly responsible for whole-body and localized heating of tissue and devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Static Magnetic Field"
+    },
+    {
+      "type": "paragraph",
+      "text": "The static magnetic field, often denoted as B0, is the strong, unchanging field in MRI that, for most superconducting systems, remains on at all times. Generally, the B0 field is designed to be constant within the magnet bore central to the imaging system and taper off quickly outside this region. The MR environment is typically defined as the region with a magnetic field higher than 9 gauss, within which some medical devices, such as pacemakers, have been observed to malfunction and therefore present a threat for patients and personnel [1]. This spatial rate of change in the magnetic field from the center of the magnet to the fringes of the MR environment is referred to as the “spatial field gradient” (SFG)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As noted earlier, all projectile safety events are preventable. In terms of risk, torque on objects is determined primarily by the strength of the static magnetic field and is greatest within the bore where the field is at its maximum, while translational displacement forces tend to be greatest near the bore openings where the SFG is largest. As ferromagnetic objects approach the front or back of the bore of the scanner, the translational forces can easily turn them into dangerous projectiles, with forces increasing with proximity to the bore edge and with B0 static magnetic field strength. This is a primary risk associated with MRI and a fundamental reason why access of personnel and objects into Zone IV is highly restricted (Figure 9)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 9. 3-D depiction of the static magnetic field in a 1.5 T MR scanner. The right side of the scanner has been rendered transparent so that the energies/fields can be depicted as they are distributed 3-dimensionally throughout the MR scanner bore and room. The strength and spatial distribution of the static magnetic field B0 are depicted. (Courtesy of Dr. Emanuel Kanal, created using MagnetVision, Advanced Magnetic Analytics, LLC)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spatial field gradient. Strong magnetic fields can magnetize metallic objects placed within them, making the object itself interact with the magnetic field. The effect is strongest for objects with ferromagnetic content. The translational force on a metallic object in a magnetic field is proportional to the product of the induced magnetic field in the object and the SFG experienced by the object. The SFG (sometimes called the static field gradient) describes the rate of change in B0 as a function of position around the MR system and is (typically cited in tesla per meter (T/m) or gauss per centimeter (G/cm), in which 1T/m = 100 G/cm). The translational forces experienced by ferromagnetic objects near the MR scanner are directly influenced by the SFG. MR magnets are designed to confine the magnetic field to the area of imaging as much as possible. For typical cylindrical, horizontal-field magnets, the maximal translational forces exerted by the system on objects occurs at the front or back of the bore of the MR system (Figure 10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 10. 3-D depiction of the SFG in a 1.5-T MR scanner. The right side of the scanner has been rendered transparent so that the energies/fields can be depicted as they are distributed 3-dimensionally throughout the MR scanner bore and room. The strength and spatial distribution of the SFG is depicted. Notice that, in the homogeneous static magnetic field at the center of the MR scanner, the strength of the SFG and, therefore, potential translational forces on ferromagnetic materials and objects are minimal. The greatest translational forces scale with the SFG of this magnet, which maximizes near the radial extremes/borders at the entrance (and exits) to the MR scanner bore. (Courtesy of Dr. Emanuel Kanal, created using MagnetVision, Advanced Magnetic Analytics, LLC)"
+    },
+    {
+      "type": "paragraph",
+      "text": "To aid in evaluating forces on specific objects in the MR environment, in particular medical implants, MR system manufacturers are required to provide a map of both B0 and the SFG for their scanner(s) to demonstrate to the MR system operator the strength of these fields at specific locations. Some MR system manufacturers also provide the product of the SFG and B0 at these locations."
+    },
+    {
+      "type": "paragraph",
+      "text": "These charts are designed to be used by the MR system operator to evaluate whether an object or implant will be exposed to fields exceeding the MR conditions described on the device labeling [2,3]. Typically, implant and device manufacturers will cite the MR system B0 and magnet configuration (i.e., cylindrical bore) along with the SFG known to facilitate safe scanning of an implant as determined by nonclinical testing. The MR system operator must then determine the maximal SFG a device will be exposed to when entering/exiting the MR system to ensure that it is within the stated conditions for the implant or device. In a cylindrical bore magnet, the SFG that a device may be exposed to while traveling into or out of the magnet increases with proximity to the magnet bore as shown in Figure 11."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information on how to evaluate SFG information provided by MR system manufacturers for this purpose is provided in Appendix 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 11. Front view of an example SFG map of an MR system indicating maximum SFG values that may be encountered within each of the cylindrical volumes within the diameter of the bore as a patient with an implant or device enters/exits this particular magnet (black arrow, table top of the MR system)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Image courtesy of Tobias Gilk of Gilk Radiology Consultants.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lenz effect. A conducting object experiencing a change in magnetic field will have a current induced within the object that generates a magnetic field resisting that change. This resistive effect can result in mechanical forces on the object. This has important consequences for MRI: if an electrical conductor (i.e., an aluminum tray) is moved through the SFG of the static magnetic field, voltages and currents will be generated within the conductor with a magnitude directly proportional to the rate of motion as well as the regional SFG value. The current will induce a secondary magnetic field oriented in opposition to the motion of the conductor, which will exert an opposing force on its motion. Note that this will occur even if the conductor is metallic but nonferromagnetic."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many scenarios in which these forces may pose concerns. For example, if a nonferromagnetic metallic device such as an MR Conditional oxygen tank is moved toward the bore of an MR scanner, as the scanner bore is approached, the force that arises from these Lenz effects can be sufficiently strong to virtually stop forward progress of the device. Further, the faster one moves the device into the bore, the greater the opposing force that is created to stop this motion. There are also potential consequences for large implanted metallic devices. Even if these devices do not pose projectile hazards, rapid motion of the patient/implant in a direction perpendicular to the static magnetic field orientation can result in forces on the implant opposing this motion that may be detected by the patient. If the patient were to complain of experiencing forces tugging or pulling on the implant, this might lead to the patient or health care personnel to erroneously conclude that the device has ferromagnetic components and possibly canceling the examination. Slowly moving a patient with a relatively large metallic"
+    },
+    {
+      "type": "paragraph",
+      "text": "device into and out of the bore is a key factor in decreasing any Lenz effects that might be induced, decreasing the likelihood of a misunderstanding or unnecessary study cancelation."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Lenz effects are proportional to the rate of the object’s motion through an SFG, and as these effects may be substantially higher at 7 T than 1.5 T or 3 T, these might bear special reconsideration for metal objects or devices used in or around 7-T MR scanners such as metallic aortic or mitral valve replacements [4]. Electrocardiograms (ECGs) are significantly distorted within the bore of an MRI as a result of the magnetohydrodynamic (MHD) effect, rendering those ECGs nondiagnostic and potentially inappropriate for cardiac gating. Magnetic field–induced voltage in flowing blood in the descending aorta underlies the MHD"
+    },
+    {
+      "type": "paragraph",
+      "text": "effect. Maximum blood flow in the descending aorta coincides temporally with the T wave on the ECG. Due to this, ST segment elevation or depression in an ECG acquired while in the magnet bore could mimic or obscure cardiac ischemia. The MHD can be associated with trace resistance to cardiac output, not considered to be clinically significant [5-7]."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Static magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "The strong static magnetic field associated with MRI can interact with metallic objects, potentially turning ferromagnetic metals into dangerous projectiles. Access to these fields (Zone IV) must be strictly"
+    },
+    {
+      "type": "paragraph",
+      "text": "controlled. Personnel and devices entering this environment must be thoroughly screened by Level 2 MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fringes of the static magnetic field above 9 gauss can interfere with implanted medical devices, such as pacemakers or implantable cardioverter defibrillators, resulting in potential injury or death. Access to these fields (Zone III and IV) must be strictly controlled. Personnel entering this environment must be screened by Level 2 MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Metal devices and medical implants have defined limits for exposure to maximal field strength and/or the SFG to prevent damage to the person and/or device. MR operators should have access to, and understanding of, vendor documents that describe these fields to safely manage both patients and devices in the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SFG changes markedly about the magnet bore edges (also see Appendix 5 for further discussion)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Translational forces are greatest near the edge of the magnet where the SFG is largest."
+    },
+    {
+      "type": "paragraph",
+      "text": "B0 torque is greatest at the center of the magnet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time-Varying Radiofrequency Magnetic Field"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electric fields induced by RF transmission and the subsequent B1 magnetic field in MR are the main sources of tissue heating and burns [8] (Figure 12)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Focal heating during the MR examination can result in tissue burns. Most thermal injuries occur on the skin of the upper extremities or torso, although they can occur virtually anywhere in the body. Direct communication between the patient and the MR Technologist during the examination is crucial because the patient may only experience minimal discomfort during the MR exam. Direct inspection of the area of discomfort may reveal only minimal skin redness, but thermal injury with blisters or even ulcers may yet develop within 24 hours after completion of the MR examination. Unconscious patients and those with limited capacity to communicate are at higher risk and require careful preparation prior to the MR exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "A."
+    },
+    {
+      "type": "paragraph",
+      "text": "B."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 12. 3-D depiction of the transmitted RF (B1) oscillating magnetic fields in a 1.5-T MR scanner. The right side of the scanner has been rendered transparent so that the energies/fields can be depicted as they are distributed 3-dimensionally throughout the MR scanner bore. (A) The spatial distribution of the transmitted RF (B1) oscillating magnetic fields with the body RF coil of this scanner being used as the RF transmitter hardware is depicted. (B) The spatial distribution of the transmitted RF (B1) oscillating magnetic fields with a transmit-receive head RF coil being used as the RF transmitter hardware is depicted. Note how the transmitted RF fields cover a smaller volume when a transmit-receive head RF coil is used for RF transmission in this same scanner."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Courtesy of Dr. Emanuel Kanal, created using MagnetVision, Advanced Magnetic Analytics, LLC)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whole-body heating: Quantitative considerations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specific absorption rate, B1+rms, specific energy dose, and specific absorption. The dosimetric term used to estimate the rate of absorption of RF energy by human tissue in MR is the specific absorption rate (SAR), which is the mass-normalized rate at which RF power is coupled to biological tissue. It is expressed in units of watts per kilogram (W/kg) on the MR system [9]. The most commonly used SAR metric presented by the scanner is the whole body–averaged value [10-12]. SAR is an estimation of the rate of energy absorption by the patient, not a total dose of energy. The normal operating mode limits the whole-body SAR to less than 2 W/kg. The first level control mode whole-body SAR is limited to be less than 4 W/kg. The SAR is a conservative metric that is meant to estimate the dose received by the patient, which is extrapolated from the B1+rms, the root-mean-square value of the transmitted B1 RF energy averaged over 10 seconds. Total energy absorbed by the patient over the course of an exam is referred to as the"
+    },
+    {
+      "type": "paragraph",
+      "text": "specific energy dose (SED). The SED is commonly reported in units of joules per kilogram or kilojoules per kilogram. It is worth noting that recently the International Electrotechnical Commission (IEC) renamed SED to specific absorption (SA), and this term may begin to appear in MR safety literature and guidance documents [1]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The thermal load associated with an MR examination is a separate phenomenon from focal RF-related thermal injury [9]. Although discomfort related to a high thermal load during MR may be experienced by the patient, an actual burn does not occur if that load is sufficiently dissipated over time and/or space. Various health conditions may impair an individual’s ability to manage a thermal challenge during MRI, including cardiovascular disease, diabetes, fever, and large body habitus. Medications, including diuretics, beta-blockers, calcium blockers, amphetamines, and sedatives, can alter the patient’s thermoregulatory responses to a heat load [8,11]. Importantly, certain medications may have a synergistic effect with RF radiation with respect to tissue heating [8,11]."
+    },
+    {
+      "type": "paragraph",
+      "text": "SAR limits are designed to avoid excessive RF-related tissue heating and burns, whereas SED limits are intended to protect a patient from experiencing an excessive elevation in core temperature or physiologic stress or discomfort related to inordinately high thermal loads from long-duration and/or high-SAR pulse sequences (e.g., total spine or body exams)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SED of an exam may be reduced with shorter pulse sequences and/or reduced RF pulse strength, but sufficient rest and cooling-off periods between pulse sequences can ensure that it is possible to safely scan the patient even with high total SED values. It should be noted that although manufacturers have implemented SED limits on their MR scanners, limiting the SED of an MR examination does not necessarily reduce the risks of a thermal injury (burns have occurred in patients even when MR systems were operating within guidelines for RF power deposition) [13-16]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The IEC permits each MR system manufacturer to conduct its own risk assessment and structure criteria for MR system operator alerts, warnings, and/or “lockouts” as it deems appropriate [1]. Therefore, depending on the software operating on the MR system, the scanner may not present SED information (e.g., for older software versions); it may provide SED warnings at predetermined intervals with or without a lockout, or it may provide warnings and prevent additional scanning on a given patient for up to 24 hours if the MR system manufacturer–defined maximum SED threshold is reached. MR health care professionals should be aware of the SED procedure that a given MR system uses and understand the context of alerts and possible scanning restrictions. If restrictions exist, it may be necessary to modify the scanning protocol to successfully and safely complete the examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Specific thermal safety risks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrically conductive material–related burns. Electrical voltages and currents can be induced within electrically conductive materials that are within the bore of the MR scanner during the MRI exam. This might result in the heating of this conductive material by resistive losses. This heat might be of a magnitude sufficient to cause injury to human tissue. Among the variables that determine the amount of induced voltage or current is the consideration that the larger the implant and/or the diameter of conductive loops, typically the greater the potential for induced current that could result in a thermal injury to the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Transmitting RF coil-related proximity burns. To help safeguard against thermal injuries or burns, pads meeting the MR system manufacturer’s specifications ensuring adequate distance should be placed between the patient’s skin and any transmit RF coil [8,11,17]. These pads ensure spacing between the transmit RF coil and the patient’s tissue, protecting against proximity burns. Attention to the physical condition of insulating padding is recommended, as with time, pads can degrade and become overly compressible such that their insulating capacity is compromised, and a sufficient distance from the bore wall is not maintained. It is important to emphasize that insulating pads are necessary; a single-layer bedsheet is insufficient insulation or spacing to prevent burns (Figure 13)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 13. Example of a full thickness third degree burn that resulted from the MR bore proximity associated with use of a worn-out insulating pad that was overly compressed (central circled area)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conducted tissue loop–related burns. RF deposition can be exacerbated by electrically conducting tissue loops within the patient’s body. If there is significant current induction, burns can result when there are small areas of high resistance contact points where the energy is dissipated as heat. Therefore, it is important to prevent electrically conductive current loops that involve small areas of high resistance contact points such as between the patient’s finger and a thigh, between small thigh-to-thigh contact areas, etc. The usage of supplied insulation pads to help prevent induced tissue current loops is recommended [18]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrically conductive wires/leads. The concern for induced current loops is even greater when electrically conductive wires or leads are involved. When electrically conductive material (wires, leads, implants, etc.) are required to be entirely or partially within the volume undergoing direct RF irradiation during MRI, care should be taken to ensure that no potentially dangerous electrically conducting loops (including the patient’s tissue) are formed within the MR scanner during imaging. There are several reports of serious injury, including coma and permanent neurological impairment, in patients with implanted neurological stimulators who underwent MR examinations. The injuries in these instances resulted from excessive heating of the electrodes [19-23]."
+    },
+    {
+      "type": "paragraph",
+      "text": "To avoid potential thermal issues and injuries associated with RF fields, all unnecessary or unused electrically conductive materials external to the patient should be removed from the MR system before the onset of imaging [8]. It is insufficient to merely disconnect and leave unused, unnecessary electrically conductive devices, such as surface RF coils or ECG leads and electrodes, in the MR scanner with the patient during imaging. All electrical connections, such as those used for surface RF coils or patient interfaces used for physiological monitoring systems, must be visually checked by the scanning MR Technologist prior to each use to ensure the integrity of the thermal and/or electrical insulation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resonant wavelength-related heating of conductors. The length, orientation, shape, position, and inductance of any electrical conductor may be heated by the transmitted RF energy during an MRI exam. Even if only part of a conductor is within range of the transmitted RF radiation, substantial unsafe heating can result. While heating concerns generally increase with stronger magnetic fields and longer conductors, specific conductor lengths, orientations, and other settings can lead to resonant spikes in induced current."
+    },
+    {
+      "type": "paragraph",
+      "text": "Virtually any conductor lengths of more than a few centimeters can produce substantial heating under certain conditions [24]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Internal. Very rapid and clinically significant internal lead heating can occur due to RF deposition. Especially at the uninsulated lead tips, this can occur in a matter of seconds with a magnitude sufficient to result in serious thermal injury [8]. Residual or abandoned implanted leads or wires that are not connected to any other device are also prone to substantial heating under certain conditions [25]. For example, while it has been demonstrated in vitro that the heating of certain implants or wires may be clinically insignificant at 1.5 T but quite significant at 3 T, the converse can also be true in some circumstances in which specific implants might demonstrate no significant heating at 3 T/128 MHz but may heat to clinically significant levels in seconds at 1.5 T/64 MHz [25]. Thus, it is important to follow established product MR Conditional labeling and safety guidelines carefully and precisely, applying them to the static magnetic field strengths and frequencies at which they have been tested. MR scanning at either stronger and/or weaker magnetic field strengths than those tested may result in significant heating in which no or insignificant heating had been observed at the tested field strength(s). For example, if MR Conditional labeling specifies 3 T, it cannot be assumed that similar scanning parameters at 1.5 T are safe for the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is possible to substantially reduce RF exposure to implanted leads with the use of transmit-receive RF coils located at distant anatomic sites relative to implanted devices. For example, a patient with an abandoned spinal cord stimulator lead located a sufficient distance from the head is likely able to safely undergo a head MRI using a transmit-receive head RF coil without risk of RF heating of the stimulator. Other transmit-receive RF coils, including wrist, knee, ankle, etc., may be used in similar situations to limit RF deposition to implanted devices and leads [26]."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are devices available that can be used to shape the RF-field, such as RF-shielding blankets or RF shim pads. These can be potentially unsafe since electric fields are shifted to their edges where there could be interaction with adjacent tissue (heating). These devices should be used with caution and in accordance with their FDA approved instructions for use."
+    },
+    {
+      "type": "paragraph",
+      "text": "External. When any portion of electrically conductive materials external to the patient are required to be within the volume of the transmitting RF coil during imaging, thermal insulation"
+    },
+    {
+      "type": "paragraph",
+      "text": "(including air, pads, etc.) should be placed between the patient and the electrically conductive material to minimize any contact with the patient. It is also appropriate to position the leads or wires as far as possible from the inner bore walls along the midline central long axis of the MR scanner if the body RF coil is being used for RF transmission [27]. When it is necessary that electrically conductive leads directly contact the patient during imaging, consideration should be given to prophylactic application of cold compresses or sealed ice packs to such contact areas. If using detachable transmit-receive coils (e.g., head, wrist, knee, etc.), the risk of the heating of external leads can be substantially diminished [26,28]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples of RF field–associated burns are provided in Figure 14."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 14. Examples of serious tissue burns resulting from RF-related heating during MRI exams. (A) Healing third degree burn at patient’s knee. (B) Reenactment of path of an arterial pressure transducer extension cable within the RF field that crossed an anesthetized patient’s knee during an interventional MR procedure. Subsequent testing with the cable in that configuration demonstrated that the turbo spin-echo pulse sequences with whole body–averaged SARs of approximately 2 W/kg produced localized heating approaching 30° Celsius. (C) Skin burns caused by ECG electrode lead heating during MRI. The reader is referred to [25] for details. Figure used with permission. (D) Third degree burn resulting from RF-related heating of a material (i.e., cell phone) courtesy of Frank G. Shellock, PhD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Special considerations for RF field–related thermal issues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrically conductive clothing. Some materials used in clothing have been increasingly associated with thermal injury and/or burns in patients undergoing MRI. Recent trends in the manufacturing of clothing and other related products have incorporated metallic and conductive materials (e.g., antimicrobial silver and copper) that are not reliably disclosed in labeling [29]. Such clothing products include, but are not limited to, sportswear (including"
+    },
+    {
+      "type": "paragraph",
+      "text": "underwear), brassieres, orthotic-related items (e.g., stump covers or stump shrinkers), and blankets [8,30]. Reliance on clothing labeling is not sufficient, as the Federal Trade Commission guidelines allow clothing to contain impurities at levels as high as 5%, which could be significant for a patient undergoing an MR examination [31]. For anatomic regions within or near the volume undergoing direct RF (B1) field irradiation, to avoid such thermal concerns, we recommend gowning patients to skin, wearing only MR Safe pocketless garments supplied by the imaging facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "Skin staples, multiple dermal implants, or piercings in proximity to each other. In general, although the thermal risks associated with individual small dermal implants (i.e., skin staples, superficial metallic sutures, piercings that cannot be removed) are quite small, dermal implants that are in close proximity or directly contact one another may increase the risk of thermal injury. If the items are inside the MR bore and the built-in body coil is being used for transmission, several precautions are recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "The patient should be instructed to report immediately if they experience warmth or burning sensations during the study by verbally alerting the technologist or using the technologist notification device (i.e., squeeze ball) and not wait until the end of the MR sequence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The application of cold compresses or sealed ice packs may be helpful. Alternatively, the use of a transmit-receive RF coil may be used to avoid RF irradiation of the dermal implants in a different part of the body inside the bore of the scanner (e.g., transmit-"
+    },
+    {
+      "type": "paragraph",
+      "text": "receive RF head coil for a brain MRI exam in a patient with unremovable umbilical piercings)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patients with tattoos within range of RF transmission. Extensive, dark, or loop-shaped tattoos or tattooed eyeliner may increase the potential for RF heating. Patients should be instructed to immediately report any discomfort during scanning. If appropriate, the placement of cold compresses or sealed ice packs should be considered. Parenthetically, although not an RF thermal concern, patients with tattoos that had been placed within 48 hours prior to the pending MR examination should be advised of the potential for a smearing or smudging of the edges of the freshly placed tattoo [32-36]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Drug-delivery patches and pads. Some drug-delivery patches contain metallic components. Scanning patients with such medication patches may result in thermal injury or alteration in drug-delivery rate by heating if the patch is within the volume of RF irradiation [37]. Options are to remove the patch, use a transmit-receive RF coil to scan a different anatomic region, or perform the MRI exam using low whole-body average SAR pulse sequences. Clinical implications of patch removal need to be assessed and reviewed by a Level 2 MR Physician."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of clinically important drug-delivery patches, removal or repositioning may be considered following a consultation with the patient’s prescribing physician. If the patch for a prescription medication is removed, an appropriate process must be in place to replace the medication (particularly for drugs that may cause undesired clinical symptoms or complications if not replaced in a timely manner)."
+    },
+    {
+      "type": "paragraph",
+      "text": "An option to consider could include placing a cold compress or sealed ice pack directly on the medication patch, recognizing this could substantially alter the rate of delivery or absorption of the medication and possibly be less comfortable for the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Time-varying RF magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "RF burns are the most commonly reported adverse events in MR."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove all removable electrically conductive materials from the patient prior to imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Insulation and appropriate distance should be placed between the patient and any external conductive material, including the bore wall."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoid large diameter electrically conducting loops, including patient tissue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoid skin-to-skin contact, especially small contact areas, completing large caliber body loops."
+    },
+    {
+      "type": "paragraph",
+      "text": "Currents can be induced within conductive materials."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any conductor of more than a few centimeters may produce substantial heating, which may increase rapidly depending on its specific length, orientation, and position due to resonant heating."
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow established product MR Conditional labeling and safety guidelines carefully and precisely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Position any leads or wires as far as possible from the inner bore walls along the midline central long axis of the MR scanner if the body coil is being used for RF transmission."
+    },
+    {
+      "type": "paragraph",
+      "text": "Metallic clothing can cause injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reliance on clothing labeling is not sufficient."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safe pocketless garments supplied by the facility are recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dermal implants that are in close proximity or directly contacting one another may increase the risk of thermal injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tattoos can heat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider cold compresses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Drug-delivery patches can contain metallic components, which may result in thermal injury and/or alterations in drug-delivery rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Conditional labeling at a specified field strength does not imply MR conditions at other field strengths."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detachable transmit-receive coils can reduce the risk of heating in specific clinical scenarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "SAR estimates the rate of absorption of RF energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "SAR limits are designed to manage RF heating of tissue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Normal Operating Mode can reduce the risk of whole-body heating but does not necessarily eliminate the risk of burns."
+    },
+    {
+      "type": "paragraph",
+      "text": "First Level Controlled Operating Mode may increase risk and requires medical supervision (see discussion of Operating Modes in PNS)"
+    },
+    {
+      "type": "paragraph",
+      "text": "SED refers to total energy absorbed."
+    },
+    {
+      "type": "paragraph",
+      "text": "SED limits are a means to protect a patient from adverse events related to core temperature elevation over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shorter sequence length and cooling-off periods between sequences can reduce risk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Return to Table of Contents68Return to Table of Contents68SA is a newer synonymous term that may replace SED."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time-Varying Gradient Magnetic Field"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spatial localization of MR signal employs time-varying gradient magnetic fields that are rapidly alternated and varied over time and are often described by their temporal rate of change, dB/dt. A sample time-varying gradient magnetic field is shown in Figure 15; these fields can vary with pulse sequences employed, and so associated safety considerations should be recognized on an exam-specific (and implant-specific) basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 15. 3-D depiction of the time-varying gradient magnetic fields dB/dt in a 1.5-T MR scanner. The near side of the scanner has been rendered transparent so that the energies/fields can be depicted as they are distributed 3-dimensionally throughout the MR scanner bore and room. The strength and spatial distribution of the time-varying gradient magnetic fields dB/dt is depicted. Note that when the patient’s brain is positioned at the MR isocenter, the greatest dB/dt values are over the chest of this patient, right where a cardiac pacemaker might be positioned. (Courtesy of Emanuel Kanal, MD, created using MagnetVision, Advanced Magnetic Analytics, LLC)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Auditory considerations. Acoustic noise is generated by the switching of the time-varying gradient magnetic fields. It is recommended that all patients and research volunteers use hearing protection when appropriate [38]. MRI sequences that are not FDA cleared should not be performed on patients or research volunteers without hearing protection in place. The FDA considers MRI systems capable of producing sound pressures that exceed 99 A-weighted decibels (dB(A)) with hearing protection in place as a significant risk [12]. The IEC standard on this issue (IEC 60601-2-33:2022) [1] also states that, for all equipment capable of producing more than an A-weighted root-mean-square sound pressure level of 99 dB(A), hearing protection should reduce the sound pressure level below that threshold for the safety of the"
+    },
+    {
+      "type": "paragraph",
+      "text": "patient. Hearing protection frequently needs to be in excess of 28 to 30 dB(A) given the loudness of some contemporary magnets and sequences. Manufacturer instructions for use should provide at least the minimum appropriate level of hearing protection."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is important that staff are thoroughly trained on the proper placement of ear plugs and use of other types of hearing protection. Staff should work with all persons receiving the hearing protection to ensure proper placement and to verify fit and function of the hearing protection prior to the MR examination. Hearing must be adequately protected concurrent with being able to adequately hear patient instructions, etc. In the event a patient refuses hearing protection, sites should have a process and procedure in place to discuss the risks of proceeding without the protection and may consider canceling the examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "All patients or research volunteers in whom research sequences are to be performed (i.e., MR scan sequences that have not yet been cleared by the FDA) should also have hearing protective devices in place prior to initiating any MR sequences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peripheral neural stimulation. Nerve and muscle cells can be stimulated by currents induced by the time-varying gradient magnetic field. The resulting sensation ranges from tingling to muscle contractions and generally presents minimal discomfort or danger to the patient. The magnitude of the stimulation is a function of the pulse characteristics and repetition rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concerns related to this are addressed in the IEC standard 60601-2-33 [1], which defines different scanning modes. Clinical scanners are usually restricted to the Normal Operating Mode and the First Level Controlled Operating Mode."
+    },
+    {
+      "type": "paragraph",
+      "text": "The IEC standard 60601-2-33 [1] defines 3 modes for scanning:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Normal Operating Mode: mode of operation of the MR equipment in which none of the outputs has a value that may cause physiologic stress to patients. (Outputs refer to the magnitude of the magnetic fields.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "First Level Controlled Operating Mode: mode of operations of the MR equipment in which 1 or more outputs reach a value that may cause physiologic stress to patients that needs to be controlled by medical supervision."
+    },
+    {
+      "type": "paragraph",
+      "text": "Software allowing access to this mode must require specific acknowledgement by the operator that the First Level Controlled Operating Mode has been entered."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second Level Controlled Operating Mode: mode of operation of the MR equipment in which 1 or more outputs reach a value that may produce significant risk for patients in which explicit ethical approval is required (i.e., a human subject research protocol approved to local requirements)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Normal Operating Mode, the gradient system shall operate at a level that does not exceed 80% of the mean threshold for peripheral neural stimulation (PNS), in which the threshold for PNS is defined as the onset of sensation."
+    },
+    {
+      "type": "paragraph",
+      "text": "In First Level Controlled Operating Mode, the gradient system shall operate at a level that does not exceed 100% of the directly determined mean threshold for PNS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Induced voltages. Patients with implanted or retained wires and leads in anatomically or functionally sensitive areas (e.g., myocardium, implanted electrodes in the brain, adjacent to the spinal cord, etc.) should be considered higher risk, especially from faster MRI pulse sequences"
+    },
+    {
+      "type": "paragraph",
+      "text": "such as echo-planar imaging (i.e., often used with diffusion-weighted imaging), functional imaging, perfusion-weighted imaging, MR angiographic imaging, etc. that require a rapid variation of the gradient magnetic fields. These risks include whether the lead/wire is directly exposed to the time-varying gradient magnetic fields or may be part of an anticipated induced current pathway. The decision to alter the rate of magnetic field change (dB/dt) and the maximum strength of the magnetic field of the gradient subsystems during the imaging of such patients should be reviewed by the Level 2 MR Physician supervising the patient with attention to the MR conditions of scanning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, time-varying gradient magnetic field–induced voltages can potentially be induced in implanted devices, possibly causing implant vibration, active device damage/malfunction/incorrect sensing, or even device and tissue heating [39-41]."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTSTime-varying gradient magnetic field (dB/dt)The rapidly switched magnetic field gradients used during imaging may result in uncomfortable or painful PNS. MRI operators can reduce the probability of PNS by employing Normal Operating Mode for dB/dt versus First Level Controlled Operating Mode.The rapid switching of this field can also result in peak acoustic noise in the MR suite, requiring appropriately positioned hearing protection to minimize discomfort and the potential for auditory damage.Additionally, devices and implants in this field may experience induced voltages, vibration, damage, and (in some cases) additional heating. MR operators should be able to understand and apply recommended dB/dt limits for devices using information provided by the MR vendor.KEY POINTSTime-varying gradient magnetic field (dB/dt)The rapidly switched magnetic field gradients used during imaging may result in uncomfortable or painful PNS. MRI operators can reduce the probability of PNS by employing Normal Operating Mode for dB/dt versus First Level Controlled Operating Mode.The rapid switching of this field can also result in peak acoustic noise in the MR suite, requiring appropriately positioned hearing protection to minimize discomfort and the potential for auditory damage.Additionally, devices and implants in this field may experience induced voltages, vibration, damage, and (in some cases) additional heating. MR operators should be able to understand and apply recommended dB/dt limits for devices using information provided by the MR vendor."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSB0: static magnetic fieldB1: time-varying radiofrequency magnetic fieldB1+rms: radiofrequency magnetic field + root mean squaredB(A): A-weighted decibelsdB/dt: time-varying gradient magnetic fieldECG: electrocardiogramFDA: Food and Drug AdministrationG/cm: gauss per centimeterIEC: International Electrotechnical CommissionMHz: megahertzMHD: magnetohydrodynamic PNS: peripheral nerve stimulation RF: radiofrequencySA: specific absorptionSAR: specific absorption rate SED: specific energy dose SFG: spatial field gradient T/m: tesla per meterKEY ABBREVIATIONSB0: static magnetic fieldB1: time-varying radiofrequency magnetic fieldB1+rms: radiofrequency magnetic field + root mean squaredB(A): A-weighted decibelsdB/dt: time-varying gradient magnetic fieldECG: electrocardiogramFDA: Food and Drug AdministrationG/cm: gauss per centimeterIEC: International Electrotechnical CommissionMHz: megahertzMHD: magnetohydrodynamic PNS: peripheral nerve stimulation RF: radiofrequencySA: specific absorptionSAR: specific absorption rate SED: specific energy dose SFG: spatial field gradient T/m: tesla per meter"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Electrotechnical Commission. Medical electrical equipment — Part 2-33: Particular requirements for the safety of magnetic resonance equipment for medical diagnosis. 4th ed. Published August 4, 2022. Accessed April 22, 2024. https://webstore.iec.ch/publication/67211"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Woods TO, Crues JV III. MR labeling information for implants and devices: explanation of terminology. Radiology. 2009;253(1):26-30. doi: 10.1148/radiol.2531091030."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Kanal E, Gilk TB. Regarding the value reported for the term “spatial gradient magnetic field” and how this information is applied to labeling of medical implants and devices. AJR Am J Roentgenol. 2011;196(1):142-145. doi: 10.2214/AJR.10.5004"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoff MN, McKinney At, Shellock FG, et al. Safety Considerations of 7-T MRI in Clinical Practice. Radiology. 2019;292(3):509-518. doi: 10.1148/radiol.2019182742"
+    },
+    {
+      "type": "paragraph",
+      "text": "Edwards MB, McLean J, Solomonidis S, Condon B, Gourlay T. In vitro assessment of the Lenz effect on heart valve prostheses at 1.5 T. J Magn Reson Imaging. 2015;41(1):74-82. doi: 10.1002/jmri.24547"
+    },
+    {
+      "type": "paragraph",
+      "text": "Krug JW, Rose G. Magnetohydrodynamic distortions of the ECG in different MR scanner configurations. Paper presented at: 2011 Computing in Cardiology; September 18-21, 2011; Hangzhou, China."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jekic M, Ding Y, Dzwonczyk R, Burns P, Raman SV, Simonetti OP. Magnetic field threshold for accurate electrocardiography in the MRI environment. Magn Reson Med. 2010;64(6):1586-1591. doi: 10.1002/mrm.22419"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Chapter 8: Radiofrequency-energy induced heating during MRI: laboratory and clinical experiences. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022:233-253."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bottomley PA, Edelstein WA. Power deposition in whole-body NMR imaging. Med Phys. 1981;8(4):510-512. doi: 10.1118/1.595000"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Crues JV. Temperature, heart rate, and blood pressure changes associated with clinical MR imaging at 1.5 T. Radiology. 1987;163(1):259-262. doi: 10.1148/radiology.163.1.3823445"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Radiofrequency energy-induced heating during MR procedures: a review. J Magn Reson Imaging. 2000;12(1):30-36. doi: 10.1002/1522-2586(200007)12:1<30::aid-jmri4>3.0.co;2-s."
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Criteria for significant risk investigation of magnetic resonance diagnostic devices - guidance for industry and Food and Drug Administration staff. Published June 20, 2014. Accessed April 22, 2024. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Reference Manual for Magnetic Resonance Safety, Implants, and Devices. 2020 ed. Biomedical Research Publishing Group; 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Schaefer DJ, Crues JV. Alterations in body and skin temperatures caused by magnetic resonance imaging: is the recommended exposure for radiofrequency radiation too conservative? Br J Radiol. 1989;62(742):904-909. doi: 10.1259/0007-1285-62-742-904."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Schaefer DJ, Kanal E. Physiologic responses to an MR imaging procedure performed at a specific absorption rate of 6.0 W/kg. Radiology. 1994;192(3):865-8. doi: 10.1148/radiology.192.3.8058962"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boss A, Graf H, Berger A, et al. Tissue warming and regulatory responses induced by radio frequency energy deposition on a whole-body 3-Tesla magnetic resonance imager. J Magn Reson Imaging. 2007;26(5):1334-1339. doi: 10.1002/jmri.21156"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tsai LL, Grant AK, Mortele KJ, Kung JW, Smith MP. A practical guide to MR imaging safety: what radiologists need to know. Radiographics. 2015;35(6):1722-1737. doi: 10.1148/rg.2015150108"
+    },
+    {
+      "type": "paragraph",
+      "text": "Knopp MV, Essig M, Debus J, Zabel HJ, van Kaick G. Unusual burns of the lower extremities caused by a closed conducting loop in a patient at MR imaging. Radiology. 1996;200(2):572-575. doi: 10.1148/radiology.200.2.8685360"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gandhi OP, Chen XB. Specific absorption rates and induced current densities for an anatomy-based model of the human for exposure to time-varying magnetic fields of MRI. Magn Reson Med. 1999;41(4):816-823. doi: 10.1002/(sici)1522-2594(199904)41:4<816::aid-mrm22>3.0.co;2-5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Konings MK, Bartels LW, Smits HF, Bakker CJ. Heating around intravascular guidewires by resonating RF waves. J Magn Reson Imaging. 2000;12(1):79-85. doi: 10.1002/1522-2586(200007)12:1<79::aid-jmri9>3.0.co;2-t"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rezai AR, Phillips M, Baker K, et al. Neurostimulation system used for deep brain stimulation (DBS): MR safety issues and implications of failing to follow guidelines. Invest Radiol. 2004;39(5):300-303. doi: 10.1097/01.rli.0000124940.02340.ab"
+    },
+    {
+      "type": "paragraph",
+      "text": "Henderson JM, Tkach J, Phillips M, Baker K, Shellock FG, Rezai AR. Permanent neurological deficit related to magnetic resonance imaging in a patient with implanted deep brain stimulation electrodes for Parkinson’s disease: case report. Neurosurgery. 2005;57(5):E1063. doi: 10.1227/01.neu.0000180810.16964.3e"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rezai AR, Baker K, Tkach J, et al. Is magnetic resonance imaging safe for patients with neurostimulation systems used for deep brain stimulation? Neurosurgery. 2005;57(5):1056-1062. doi: 10.1227/01.neu.0000186935.87971.2a"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Testing and labeling medical devices for safety in the magnetic resonance (MR) environment: guidance for industry and Food and Drug Administration staff. Published October 10, 2023. Accessed April 22, 2024. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Langman DA, Goldberg IB, Finn JP, Ennis DB. Pacemaker lead tip heating in abandoned and pacemaker-attached leads at 1.5 Tesla MRI. J Magn Reson Imaging. 2011;33(2):426-431. doi: 10.1002/jmri.22463"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nagy Z, Oliver-Taylor A, Kuehne A, Goluch S, Weiskopf N. Tx/Rx head coil induces less RF transmit-related heating than body coil in conductive metallic objects outside the active area of the head coil. Front Neurosci. 2017;11:15. doi: 10.3389/fnins.2017.00015"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brix L, Isaksen C, Bh K, Tufa D. Third degree skin burns caused by a MRI conditional electrocardiographic monitoring system. J Radiol Imaging. 2016;1(4):29-32. doi: 10.14312/2399-8172.2016-7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanal E. Standardized Approaches to MR Safety Assessment of Patients with Implanted Devices. Magn Reson Imaging Clin N Am. 2020;28(4):537-548. doi: 10.1016/j.mric.2020.07.003"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pietryga JA, Fonder MA, Rogg JM, North DL, Bercovitch LG. Invisible metallic microfiber in clothing presents unrecognized MRI risk for cutaneous burn. AJNR Am J Neuroradiol. 2013;34(5):E47-50. doi: 10.3174/ajnr.A2827"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bertrand A, Brunel S, Habert MO, et al. A New Fire Hazard for MR Imaging Systems: Blankets-Case Report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Radiology. 2018;286(2):568-570. doi: 10.1148/radiol.2017162921"
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal Trade Commission. Threading your way through the labeling requirements under the textile and wool acts. Published July 2014. Accessed April 22, 2024. https://www.ftc.gov/tips-advice/business-center/guidance/threading-your-way-through-labeling-requirements-under-textile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wagle WA, Smith M. Tattoo-induced skin burn during MR imaging. AJR Am J Roentgenol. 2000;174(6):1795. doi: 10.2214/ajr.174.6.1741795"
+    },
+    {
+      "type": "paragraph",
+      "text": "Franiel T, Schmidt S, Klingebiel R. First-degree burns on MRI due to nonferrous tattoos. AJR Am J Roentgenol. 2006;187(5):W556. doi: 10.2214/AJR.06.5082"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ratnapalan S, Greenberg M, Armstrong D. Tattoos and MRI. AJR Am J Roentgenol. 2004;183(2):541. doi: 10.2214/ajr.183.2.1830541"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ross JR, Matava MJ. Tattoo-induced skin “burn” during magnetic resonance imaging in a professional football player: a case report. Sports Health. 2011;3(5):431-434. doi: 10.1177/1941738111411698"
+    },
+    {
+      "type": "paragraph",
+      "text": "Callaghan MF, Negus C, Leff AP, et al. Safety of tattoos in persons undergoing MRI. N Engl J Med. 2019;380(5):495-496. doi: 10.1056/NEJMc1811197"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Risk of burns during MRI scans from the transdermal drug patches with metallic backings. Published March 5, 2009. Accessed April 22, 2024. https://wayback.archive-it.org/7993/20170111190504/http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationfor PatientsandProviders/ucm111313.htm"
+    },
+    {
+      "type": "paragraph",
+      "text": "McJury M. Chapter 6: Acoustic noise and MRI procedures. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022:157-207."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuhrer E, Jouda M, Klein CO, Wilhelm M, Korvink JG. Gradient-induced mechanical vibration of neural interfaces during MRI. IEEE Trans Biomed Eng. 2020;67(3):915-923. doi: 10.1109/TBME.2019.2923693"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wooldridge J, Arduino A, Zilberti L, et al. Gradient coil and radiofrequency induced heating of orthopaedic implants in MRI: influencing factors. Phys Med Biol. 2021;66(24). doi: 10.1088/1361-6560/ac3eab"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zanovello U, Fuss C, Arduino A, Bottauscio O. Efficient prediction of MRI gradient-induced heating for guiding safety testing of conductive implants. Magn Reson Med. 2023;90(5):2011-2018. doi: 10.1002/mrm.29787"
+    }
+  ]
+}

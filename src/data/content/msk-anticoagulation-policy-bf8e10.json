@@ -1,0 +1,31 @@
+{
+  "id": "msk-anticoagulation-policy-bf8e10",
+  "title": "MSK Anticoagulation Policy",
+  "source": "msk-anticoagulation-policy.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Baseline Requirements"
+    },
+    {
+      "type": "list",
+      "items": [
+        "INR: Spine <= 1.4; extremity injection <= 3.0; extremity aspiration <= 2.0",
+        "Platelets: >= 50,000",
+        "Patients on anticoagulants should have nursing alerts triggered when scheduled.",
+        "When drugs are combined (e.g., aspirin + clopidogrel), consider the stricter hold guidance.",
+        "Proceduralist may proceed outside these ranges if, in their judgment, benefits outweigh risks."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choose Procedure Type"
+    },
+    {
+      "type": "paragraph",
+      "text": "Switch to view holds for the selected procedure."
+    }
+  ]
+}

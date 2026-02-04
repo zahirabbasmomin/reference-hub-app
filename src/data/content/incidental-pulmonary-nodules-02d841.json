@@ -1,0 +1,42 @@
+{
+  "id": "incidental-pulmonary-nodules-02d841",
+  "title": "Incidental Pulmonary Nodules",
+  "source": "incidental-pulmonary-nodules.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive pathways"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select a pathway to load its flowchart. Toggle compare mode to view two side by side."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Loading..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tip: Use left and right arrow keys to move between pathways."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to use"
+    },
+    {
+      "type": "paragraph",
+      "text": "For incidental, asymptomatic lung findings on thoracic CT."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Start with the dominant imaging pattern (solid, subsolid, cystic, or interstitial).",
+        "Apply size and risk thresholds as shown in each flowchart.",
+        "Use compare mode to align two patterns when findings overlap."
+      ]
+    }
+  ]
+}

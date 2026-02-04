@@ -1,0 +1,17 @@
+{
+  "id": "incidental-liver-mass-9a00a9",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-liver-mass.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

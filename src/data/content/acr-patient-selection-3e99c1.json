@@ -1,0 +1,20 @@
+{
+  "id": "acr-patient-selection-3e99c1",
+  "title": "Patient Selection & Preparation | ACR Contrast Manual",
+  "source": "acr-patient-selection.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from acr_contrast.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section: PATIENT SELECTION AND PREPARATION STRATEGIES BEFORE CONTRAST MEDIUM ADMINISTRATION"
+    }
+  ]
+}

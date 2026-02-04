@@ -1,0 +1,89 @@
+{
+  "id": "incidental-renal-findings-20d9f1",
+  "title": "Incidental Renal Findings",
+  "source": "incidental-renal-findings.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choose the scenario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the imaging context to load the matching decision pathway and figure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scope: asymptomatic adults; not intended for known primary malignancy with renal metastasis risk or hereditary renal tumor syndromes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Loading..."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original decision tree (selected)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "All original decision trees"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_938f3f8838",
+      "alt": "Figure 1. Noncontrast CT algorithm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1. Noncontrast CT algorithm."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_876348c5a8",
+      "alt": "Figure 2. Contrast-enhanced CT algorithm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 2. Contrast-enhanced CT algorithm."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_8a5737f7f3",
+      "alt": "Figure 3. Cystic mass algorithm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 3. Cystic mass algorithm."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7324a0409b",
+      "alt": "Figure 4. Solid mass or TSTC algorithm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 4. Solid mass or TSTC algorithm."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3fa3b15cf8",
+      "alt": "Figure 5. Fat-containing mass algorithm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 5. Fat-containing mass algorithm."
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: Management of the Incidental Renal Mass on CT (ACR Incidental Findings Committee, 2017)."
+    }
+  ]
+}

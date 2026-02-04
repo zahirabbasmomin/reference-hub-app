@@ -1,0 +1,140 @@
+{
+  "id": "ovarian-rads-724b6a",
+  "title": "Ovarian Rads (O-RADS US v2022)",
+  "source": "ovarian-rads.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: ACR O-RADSTM Ultrasound v2022 - Assessment Categories (Release November 2022)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Risk categories: 0 (Incomplete), 1 (Normal), 2 (<1% almost certainly benign), 3 (1-<10% low risk), 4 (10-<50% intermediate), 5 (>=50% high risk).",
+        "Postmenopause: >=1 year amenorrhea (early <5 years; late >=5 years). If uncertain or uterus absent, use age >50 (early 50-<55; late >=55).",
+        "Color Score (CS): 1 none, 2 minimal, 3 moderate, 4 very strong flow.",
+        "Papillary projection (pp): solid component protruding >=3 mm into a cyst lumen, surrounded by fluid on 3 sides.",
+        "Ascites/peritoneal nodules (not due to other etiologies) -> O-RADS 5."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Assessment Categories"
+    },
+    {
+      "type": "paragraph",
+      "text": "Directly adapted from the O-RADS US v2022 Assessment Categories table."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Shorter follow-up may be considered based on clinical factors. **If stable at 24 months, consider stopping surveillance; if enlarging >=10-15%, shorten interval. MRI with contrast has higher specificity for solid lesions or cystic lesions with solid components."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Simple Cyst Size Guidance"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Definitions & Scoring Notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "CS (Color Score): 1 none, 2 minimal, 3 moderate, 4 very strong vascularity.",
+        "Papillary projection (pp): protrudes >=3 mm into cyst lumen, fluid on 3 sides.",
+        "Solid lesion: >=80% solid (excludes blood products/dermoid contents); solid components >=3 mm.",
+        "Shadowing: diffuse/broad to qualify; excludes refractive artifact.",
+        "Surface: smooth vs irregular (irregular inner wall for cysts = <3 mm height; outer contour for solids).",
+        "Locularity: bilocular = 2 locules; multilocular >=3; bilocular smooth cysts have lower risk."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Classic Benign Lesions"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the O-RADS US v2022 Classic Benign Lesions table."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evidence for optimal surveillance interval is limited. If stable, consider FU at 24 months then as clinically indicated; increased malignancy risk for endometriomas after menopause or >10 years."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lexicon Workflow (Visual)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inline schematic of the O-RADS US v2022 decision flow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lexicon descriptors -> surface -> solid/PP -> vascularity (CS) -> assign O-RADS -> match management."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Color Score Quick Chart"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Papillary Projections & Solid Components"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Unilocular cyst with >=4 pps -> O-RADS 5; <4 pps typically O-RADS 4 unless other high-risk features.",
+        "Solid lesions: assess contour (smooth vs irregular), CS, and shadowing; >=80% solid qualifies as solid.",
+        "Shadowing must be broad/diffuse; refractive artifacts do not qualify."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting Tips"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Include lesion type, locularity, surface, pp count or solid %, CS, size, laterality, and menopausal status.",
+        "State O-RADS category and recommended management (follow-up interval, MRI, surgery, or gyn-onc consult).",
+        "For multiple lesions, score each; report the highest category.",
+        "Changing morphology on follow-up -> reassign category using lexicon descriptors."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Surveillance Notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Decreasing size >=10-15%: may stop surveillance. Enlarging >=10-15%: shorten interval (e.g., 12 and 24 months from initial exam, then per gynecology).",
+        "Changing morphology: reassess with lexicon descriptors; recategorize and manage accordingly.",
+        "Shorter follow-up may be considered based on clinical factors; evidence for optimal duration is limited."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Source"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR O-RADSTM Ultrasound v2022 - Assessment Categories and Classic Benign Lesions, Release Date: November 2022. PDF: link."
+    }
+  ]
+}

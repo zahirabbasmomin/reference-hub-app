@@ -1,0 +1,17 @@
+{
+  "id": "incidental-thyroid-ct-mri-0db0e9",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-thyroid-ct-mri.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trauma-kidneys-7fbb54",
+  "title": "Kidneys Injury Grading",
+  "source": "trauma-kidneys.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matches grade, injury type, or description."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading injury table..."
+    }
+  ]
+}

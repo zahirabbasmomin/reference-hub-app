@@ -1,0 +1,30 @@
+{
+  "id": "incidental-liver-findings-813dc1",
+  "title": "Incidental Liver Lesions",
+  "source": "incidental-liver-findings.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Applies to asymptomatic adults; low-risk and high-risk criteria are summarized in the legend."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Loading..."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original decision tree"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: PIIS154614401730889X.pdf (ACR Incidental Findings Committee, 2017)."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "incidental-pituitary-findings-b88245",
+  "title": "Incidental Pituitary Findings",
+  "source": "incidental-pituitary-findings.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive pathways"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select a pathway to load its flowchart. Toggle compare mode to view both side by side."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Loading..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tip: Use left and right arrow keys to move between pathways."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to use"
+    },
+    {
+      "type": "paragraph",
+      "text": "For incidental pituitary lesions detected on CT, MRI, or FDG-PET."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Start with the detection modality (CT/MRI vs FDG-PET).",
+        "Follow size and mass effect thresholds for surveillance or referral.",
+        "Use compare mode to align CT/MRI findings with FDG-PET recommendations."
+      ]
+    }
+  ]
+}

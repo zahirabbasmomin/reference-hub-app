@@ -1,0 +1,168 @@
+{
+  "id": "ddh-ultrasound-5bea2e",
+  "title": "Developmental Dysplasia of the Hip - Ultrasound",
+  "source": "ddh-ultrasound.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Screening roadmap"
+    },
+    {
+      "type": "paragraph",
+      "text": "Summarized from Radiology Assistant guidance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Risk factors"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Breech presentation (especially female).",
+        "Positive family history of DDH.",
+        "Oligohydramnios, first-born, swaddling with hips extended.",
+        "Foot deformities or torticollis."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Technique & landmarks"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Coronal neutral view with lateral decubitus positioning; iliac wing horizontal.",
+        "Landmarks: straight iliac line, bony acetabular roof, labrum, femoral head center.",
+        "Alpha angle: bony roof; Beta angle: cartilaginous roof/labrum.",
+        "Document stability with gentle stress (Barlow/Ortolani) if indicated."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Measurement tips"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Alpha >= 60 deg is normal (Graf I).",
+        "Beta <= 55 deg typical for stable hips; higher values suggest poor coverage.",
+        "Ensure the lower limb of the ileum is parallel to the probe to avoid false low alpha.",
+        "Use the same neutral view for all measurements; avoid flexion/extension changes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Graf classification (summary)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting checklist"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Side(s), patient age, and risk factor indication.",
+        "Technique: neutral coronal view, stress maneuvers performed or not.",
+        "Alpha/Beta angles for each hip; Graf type; stability (Barlow/Ortolani response).",
+        "Femoral head coverage/cartilage roof appearance; labrum morphology.",
+        "Recommendation: follow-up interval or treatment (e.g., Pavlik harness), radiograph if ossified."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Visual aids (local)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Key figures cached for offline teaching."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2330a2429c",
+      "alt": "Hip ultrasound anatomy labeled"
+    },
+    {
+      "type": "paragraph",
+      "text": "Coronal hip ultrasound anatomy."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_01baa69636",
+      "alt": "Hip ultrasound anatomy variant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Landmarks: iliac line, bony roof, labrum."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_903496c8ab",
+      "alt": "Alpha beta angle measurement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpha/Beta angle measurement on neutral coronal view."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c3138c39fa",
+      "alt": "Graf type IV example"
+    },
+    {
+      "type": "paragraph",
+      "text": "Graf type IV appearance (dislocated)."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_fe2257a7e4",
+      "alt": "Type IIa immature hip"
+    },
+    {
+      "type": "paragraph",
+      "text": "Type IIa immature hip at ~4 weeks."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_b0928c09ba",
+      "alt": "Type IIb dysplasia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Type IIb dysplasia (>3 months)."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_589b6659ed",
+      "alt": "Incidence chart"
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidence and risk distribution."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7d391e63e8",
+      "alt": "Graf table"
+    },
+    {
+      "type": "paragraph",
+      "text": "Graf classification table reference."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_f5e78c81b8",
+      "alt": "Reporting template"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reporting template example for DDH ultrasound."
+    }
+  ]
+}

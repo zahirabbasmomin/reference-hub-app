@@ -1,0 +1,17 @@
+{
+  "id": "incidental-adrenal-mass-4882ee",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-adrenal-mass.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

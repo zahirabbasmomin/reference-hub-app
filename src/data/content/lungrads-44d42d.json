@@ -1,0 +1,15 @@
+{
+  "id": "lungrads-44d42d",
+  "title": "Lung-RADS Reference",
+  "source": "lungrads.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matches category labels, criteria, management, or modifier notes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading Lung-RADS..."
+    }
+  ]
+}

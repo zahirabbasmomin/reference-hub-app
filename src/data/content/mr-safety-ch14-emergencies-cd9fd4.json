@@ -1,0 +1,208 @@
+{
+  "id": "mr-safety-ch14-emergencies-cd9fd4",
+  "title": "Chapter 14: Emergency Situations | MRI Safety Manual",
+  "source": "mr-safety-ch14-emergencies.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 14:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency Situations"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section discusses several MR safety switches that can be used in the case of an emergency as well as emergency response–related issues such as fires, codes, and entrapment by ferromagnetic objects. Facilities should have policies and procedures to ensure appropriate communication and chain of authority during after-hours emergencies [1]. For the safety of firefighters, code or rapid-response teams, and other emergent services responding to an emergent call at the MR facility, it is recommended that all fire alarms, cardiac arrests, or other emergent service response calls originating from or located in the MR facility should be forwarded simultaneously to a specifically designated individual from among the facility’s MR Personnel. This individual should, if possible, be on-site prior to the arrival of the firefighters or emergency responders to ensure that they do not have free access to Zones III or IV. The facility might also consider assigning appropriately trained security personnel, who have been trained and designated as MR Personnel, to respond to such calls. For firefighter or police responses, clear lines of authority for screening, access restrictions, and Emergency Magnet Off procedures are essential."
+    },
+    {
+      "type": "paragraph",
+      "text": "Given differences in the design of MR facilities and between MR system manufacturers, it is strongly advised that all MR facilities perform regular training and drills to reinforce knowledge of where key safety switches reside and their use as well as to rehearse and refine emergency response protocols to protect patients, MR staff, and first responders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency Table Stop and Emergency Power Off"
+    },
+    {
+      "type": "paragraph",
+      "text": "Two safety switches that do not ramp down the magnetic field are the Emergency Table Stop and the Emergency Power Off buttons. MR system manufacturers may give different names to these switches, but the MR operator/Level 2 MR Personnel needs to be aware of where they are, when to use them, and how to recover the system after using these switches."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Emergency Table Stop button is generally designed to immediately stop MR scanning and table motion. Emergency Table Stop buttons (Figure 29) are usually found on or near the MRI console and on the MR bore front cover or the patient table. The Emergency Table Stop button should generally be used when something is caught on the table and further table motion may result in damage or injury to the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Emergency Power Off button is generally used to stop electrical power to the entire suite and computer room, including an uninterrupted power supply if present. Use of the Emergency Power Off may require an electrician and access to the main breaker to reset and so should be used with caution and only in emergent situations only. The Emergency Power Off button is generally present in the MR control room or on the wall inside Zone IV. In some cases, it may be covered with a plastic guard to avoid accidental activation (i.e., if situated next to the electronically active door seal switch). The Emergency Power Off may be used in cases of fire, flooding, or voltage accidents. Example scenarios for deploying an Emergency Power Off could include detecting smoke or having an uncontrolled water pipe burst in the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of Emergency Table Stop or Power Off, if a patient needs to be quickly removed from the scanner, the operator must be familiar with the manual process for moving the table"
+    },
+    {
+      "type": "paragraph",
+      "text": "and/or undocking the table. Fast and safe patient removal from the room is often a key component in any emergency response scenario."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 29. (a) Universal symbol used for emergency stop safety switch. (b) Example of an Emergency Power Off safety switch. (c and d) Examples of Emergency Magnet Off units for quenching superconducting units (Source: GE and Siemens Operator Manuals)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency Magnet Off (Quench)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another primary safety switch in the MRI suite is the Emergency Magnet Off unit for rapidly shutting down the magnetic field. Emergency Magnet Off is usually activated by a button or lever in the MR operator room and/or Zone IV. Buttons are usually protected by a plastic cover to avoid inadvertently deactivating the magnet. MR Personnel should be aware that MR fields may change unexpectedly during a quench. Different magnet designs will have different rates for the field to be shut down. Electromagnets will usually take much longer than superconducting magnets. The MR operator should be familiar with the vendor safety manual concerning their Emergency Magnet Off procedure and safety considerations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditional superconducting magnets used for MRI use large volumes of liquid cryogens to remain in superconducting mode. The Emergency Magnet Off, often referred to as the “Quench button” for superconducting magnets, involves “quenching” the magnet, whereby a tremendous amount of energy is dissipated as the cryogen undergoes rapid expansion and is released as gas through the cryogen vent. This procedure carries its own safety considerations. Because of the risks involved with quenching these magnets, the decision to quench a magnet should be deliberate. Alternatively, some newer generation human MR systems now on the market use lower volumes of cryogen liquid and do not require an externalized venting pipe during installation. The Emergency Magnet Off switch in such systems also quenches the magnet, with the release of a relatively small volume of cryogen material into the room."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a situation arises in which emergency responders must enter a Zone IV containing an MR system with a superconducting magnet without undergoing screening or elimination of ferromagnetic items, deliberate quenching must seriously be considered. For superconducting systems, it is imperative that all personnel and patients be evacuated from Zone IV as quickly"
+    },
+    {
+      "type": "paragraph",
+      "text": "and safely as feasible and that the site access be immediately restricted for all individuals until the arrival of MR equipment services or other qualified personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Level 2 MR Personnel should monitor the quench to determine when it is safe for nonmedical emergency responders to enter Zone IV. It may take more than a minute for the magnetic field to dissipate sufficiently for responders to safely enter Zone IV with ferromagnetic equipment [2]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quenching a magnet can introduce new hazards. This is especially true in the event of a venting failure in which cryogenic gases are vented partially or completely into the scan room, as evidenced in part by the sudden appearance of white “clouds” or “fog” around or above the MR scanner. Such circumstances could introduce the risk of cold-related injuries (i.e., frostbite or hypothermia) and asphyxiation due to oxygen displacement from helium, which is less dense than air."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of a quench venting failure, it is important for Level 2 Personnel to remain calm and follow the established standard operating procedures for their area, including the following:"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a patient is currently in the scanner and is ambulatory, advise the patient to leave Zone IV as soon as possible, walking as low to the floor as possible to maintain their head below the potential accumulation of cryogen gas to minimize the risk of asphyxia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Immediately turn on the exhaust fan in the MRI suite to help eliminate the cryogen gas from the room."
+    },
+    {
+      "type": "paragraph",
+      "text": "Open the scan room door to ventilate Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider opening the door to other zones to help ventilate Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "If entering Zone IV to rescue the patient or personnel, stay as low to the ground as possible. If a gurney or wheelchair is needed, assume the magnet is still on and at field and use MR Conditional equipment if possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the rescue is complete, close the door to Zone IV to stop helium flow into Zone III. Evacuate the area to allow helium gas to dissipate. MR vendor personnel would be anticipated to assist in indicating when it is safe to re-enter the site."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are newer MR systems in which an externally vented quench pipe is unnecessary due to low cryogen volume. While quenching does not lead to a release of high volumes of cryogen in the room with such scanners, the magnetic field in the room remains a risk until it can be verified it is sufficiently dissipated."
+    },
+    {
+      "type": "paragraph",
+      "text": "For resistive systems (without cryogenic gases), the magnetic field of the MR scanner should be shut down as completely as possible and verified prior to permitting the emergency response personnel access to Zone IV. For permanent, resistive, or hybrid systems whose magnetic fields cannot be completely shut down, MR Personnel should ideally be available to warn the emergency response personnel that a very powerful magnetic field is still present in Zone IV and secure dangerous ferromagnetic objects, if possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fire"
+    },
+    {
+      "type": "paragraph",
+      "text": "All MR facilities should prospectively educate their local firefighters, fire marshals, and police and security personnel about the potential hazards of responding to emergencies in the MR suite."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should be assumed that in the event of a fire (or other emergency) in Zone IV, the magnetic field is present, fully operational, and potentially dangerous. Therefore, free access to Zone III or IV by firefighters or other non-MR Personnel with air tanks, axes, crowbars, and other firefighting equipment might prove catastrophic or even lethal to those responding or to others in the vicinity."
+    },
+    {
+      "type": "paragraph",
+      "text": "As part of the Zone III and IV restrictions, all MR facilities must have clearly marked, readily accessible MR Conditional or MR Safe fire extinguishing equipment physically stored within Zones III or IV. All conventional fire extinguishers and other firefighting equipment not tested and verified as safe in the MR environment should be restricted from Zone III and IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "RACE can be a useful mnemonic for MR staff response to fire:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rescue persons in danger IF SAFE TO DO SO."
+    },
+    {
+      "type": "paragraph",
+      "text": "Activate the nearest Alarm, and call, when possible, to provide specific information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contain the fire by closing ALL doors of the room/area, including fire doors. An MR Conditional fire extinguisher may be used to control the fire IF SAFE TO DO SO."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evacuate if instructed to do so by the fire department."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a fire is in the magnet room (Zone IV) and cannot be contained by the in-room sprinkler system or by the safe use of an MR Conditional fire extinguisher and the fire department will require access to the room, the Emergency Magnet Off (quench) should be engaged to avoid potential serious injury to the fire department staff or damage to MRI equipment. Note that for superconducting magnets, this will initiate a “quench,” a process that has its own safety considerations (see Emergency Magnet Off)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a fire is in Zone II or III, restricting access to Zone IV by closing and locking the access doors is recommended to prevent entry of fire personnel or hazardous material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "In case of cardiac or respiratory arrest or other medical emergencies within Zone IV for which emergent medical intervention or resuscitation is required, the patient or research participant must be removed immediately from Zone IV to a predetermined, magnetically safe location, and appropriately trained and certified MR Personnel should immediately initiate basic life support or cardiopulmonary resuscitation as required by the situation. Facilities must have immediate access to an MR Conditional gurney on which to transfer the patient when the MR table cannot be undocked. If transferring the unstable patient outside Zone IV is delayed for more than a few seconds, the MR Personnel should prioritize patient safety and initiate cardiorespiratory resuscitation maneuvers (i.e., chest compressions, rescue breaths), as needed, while still in Zone"
+    },
+    {
+      "type": "paragraph",
+      "text": "IV. However, MR Unsafe items such as automated external defibrillators should not be brought into Zone IV. The Emergency Magnet Off (quench) procedure is not routinely recommended for these scenarios. All priorities should be focused on initiating necessary basic life support with cardiac compressions and manual ventilation and evacuating the patient as rapidly and safely as possible. Once the resuscitation is moved to Zone III, it is recommended that the Zone IV door be closed and secured to avoid inadvertent potentially dangerous entry by those responding to the code."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is recommended that sites implement mock code training exercises and practice opportunities with specific issues that may arise in the MR environment. Engagement of MR Personnel and the related staff that would be involved in a code situation is essential. Mock code team leaders can be helpful to access performance and maintenance of important MR safety measures in what are usually high-stress situations. Debriefing sessions and performance feedback following the mock code can help identify areas for improvement and potential additional needed resources. Facilities should consider the need to perform multiple mock code training sessions when there are substantial intra-practice differences in the MRI suite design and/or MR Personnel (e.g., inpatient, outpatient, intraoperative, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrapment"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the event of patient or personnel entrapment against the bore by a sizable ferromagnetic object, causing injury or potential death without possibility of timely extraction, initiating the Emergency Magnet Off (quench) procedure for the magnet is recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSAED: automated external defibrillatorRF: radiofrequencyUPS: uninterrupted power supplyKEY ABBREVIATIONSAED: automated external defibrillatorRF: radiofrequencyUPS: uninterrupted power supply"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Posh J. Chapter 27: MRI policies and procedures for a hospital or medical center setting. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022:749-764."
+    },
+    {
+      "type": "paragraph",
+      "text": "International Electrotechnical Commission. Medical electrical equipment — Part 2-33: Particular requirements for the safety of magnetic resonance equipment for medical diagnosis. 4th ed. Published August 4, 2022. Accessed April 22, 2024. https://webstore.iec.ch/publication/67211"
+    }
+  ]
+}

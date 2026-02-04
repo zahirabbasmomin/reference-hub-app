@@ -1,0 +1,17 @@
+{
+  "id": "incidental-renal-solid-e07842",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-renal-solid.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

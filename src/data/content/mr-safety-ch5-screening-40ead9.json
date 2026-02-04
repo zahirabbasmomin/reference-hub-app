@@ -1,0 +1,360 @@
+{
+  "id": "mr-safety-ch5-screening-40ead9",
+  "title": "Chapter 5: MR Screening | MRI Safety Manual",
+  "source": "mr-safety-ch5-screening.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 5:"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Screening"
+    },
+    {
+      "type": "paragraph",
+      "text": "Due to the inherent dangers in the MR environment, well-designed procedures and policies centered on thorough and effective screening of all entering Zones III and IV are essential [1]. Thorough and accurate communication among all involved stakeholders is essential at all levels of the MR screening process. When necessary and appropriate because of language barriers that could negatively impact the accuracy of the screening process, the physical presence of appropriate individuals serving as translators, or reliable communication through electronic means with properly qualified translators, is recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safety Screening Forms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Well-designed written or electronic MR safety screening forms are essential in efforts to prevent unsafe exposures to the Zone IV MR environment for patients, research participants, and other individuals as well as for MR Personnel, non-MR Personnel, and any others. A sample pre-MR screening form is provided on the ACR.org MR Safety webpage, found at https://www.acr.org/Clinical-Resources/Radiology-Safety/MR-Safety. Different MR screening forms, including those with additional information, may be added at the discretion of the facility. No empty responses are accepted, and each question must be answered with a yes or no, or specific further information must be provided as requested. The patient, guardian, or research participant and the screening MR staff member must each physically or electronically sign the completed form to acknowledge the accuracy of the information provided. If the individual is not a patient or a research participant (e.g., guardian), facilities should develop a process to file and store these forms. This form should then become part of the individual’s medical record."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional written or verbal information for inclusion on a screening form must be provided by a physician or an advanced practice provider (such as a licensed nurse practitioner or licensed physician assistant) or other reliable source (e.g., those knowledgeable about specifics related to an implanted device) and documented in writing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patients/Research Participants and Accompanying Companions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MR safety screening form represents one facet of a comprehensive safety screening program. MR safety screening can be enhanced by a multitiered approach that also includes safety questions that are included with the referring physician order sets. Patient screening efforts can be augmented by radiology prescreening scheduling questions and implant device modules/alerts in electronic medical records (EMRs). In this way, scheduling considerations may be enhanced. For example, a patient may be scheduled at the correct magnet in coordination with the cardiology team if there is previsit knowledge of the presence of a cardiac implanted electronic device (CIED)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Screening of conscious nonemergent patients, research participants, and volunteer participants. Conscious nonemergent patients, research participants, and volunteer participants are to complete an MR safety screening questionnaire (written or electronic) prior to their introduction to Zone III. A healthcare proxy may be indicated for a patient in a nonemergent setting if there is concern for lack of response accuracy due to the patient’s condition (for example, in the setting of mild or more advanced cognitive impairment)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conscious nonemergent patients and research or volunteer participants must be MR safety screened at least twice prior to being granted access to Zone IV. At least 1 of these screens must be performed by Level 2 MR Personnel verbally and/or interactively. For example, following completion of the screening form, a Level 2 MR Personnel (typically the technologist) verbally reviews the form’s responses and contents in its entirety together with the patient. If safety concerns are identified, entrance into Zone III is not permitted until the concern is rectified. If no disqualifying safety concerns are identified, escorted passage into Zone III can proceed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pediatric/minor patients. Children may not be reliable historians. If possible, and allowed by institutional policies, children, especially teenagers, should be screened twice by Level 2 MR Personnel: once in the presence of parents or guardians and once separately to maximize the possibility that all potential dangers are disclosed [2]. As with all patients, pediatric patients are recommended to change into MR Safe pocketless garments to help ensure that no metallic objects, toys, or other unsafe items enter Zone IV. Pillows, stuffed animals, and other comfort items brought from home represent potential risks and should be discouraged from entering Zone IV. These items should be permitted only on a case-by-case basis if thorough screening has ensured their safety in the MR Zone IV. It is common for properly screened parents or guardians to accompany pediatric/minor patients into Zone IV to help ensure the success of the imaging exam. There is no known contraindication for a pregnant parent or guardian to accompany the pediatric/minor patient in Zone IV (see Chapter 15: Pregnancy)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unconscious, unresponsive, altered-level-of-consciousness, mentally impaired, unable to communicate patients. As these patients cannot provide their own reliable histories regarding possible prior surgery, trauma, or injury by a metallic foreign body, a multifaceted approach to obtaining reliable information is recommended prior to proceeding with the MR examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consultation of the EMR (including surgical records and any available implanted devices module) as well as an evaluation of prior imaging can provide additional important safety screening information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Available family members or guardians with appropriate knowledge of such patients should complete a written MR safety screening questionnaire and undergo a verbal interview, if possible, prior to the patient’s introduction to Zone III. In certain circumstances, the MR Technologist may enter the responses of the verbal interview in the MR safety screening form (e.g., verbal interview with a translator)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no reliable patient history can be obtained and if the requested MR examination cannot reasonably wait until a reliable history might be obtained, it is recommended that"
+    },
+    {
+      "type": "paragraph",
+      "text": "a thorough visual inspection should be performed for scars, sites of trauma, and/or obvious implants by MR Personnel designated by the MR Medical Director (MRMD)."
+    },
+    {
+      "type": "paragraph",
+      "text": "if recently obtained radiographs, CT studies, or MR studies of core anatomic regions (with the exception of distal extremities) are not available, patients should undergo plain radiography to exclude potentially harmful embedded or implanted metallic foreign bodies, implants, or devices. Plain-film radiography should include the head/neck, chest, abdomen/pelvis, and contiguous upper arms and thighs. If there are obvious post-traumatic changes to the distal extremities, those regions should also undergo imaging"
+    },
+    {
+      "type": "paragraph",
+      "text": "evaluation prior to MR exposure. (See Potential eye foreign body/orbital trauma.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergent patients. Emergent patients and their accompanying non-MR Personnel may be screened only once, provided that the screening individual is Level 2 MR Personnel. Any exceptions to this in extremely extenuating circumstances in which delayed diagnosis could have devastating consequences (such as but not limited to cases in which a screening-induced delay may result in imminent patient paralysis, blindness, and/or death) must be with the mutual agreement of the ordering physician and covering Level 2 MR Physician or MRMD, who specifically acknowledge the potential risks of a decision NOT to screen prior to granting that patient MR access."
+    },
+    {
+      "type": "paragraph",
+      "text": "Companions in Zones III or IV. Any individual deemed appropriate to accompany or remain with the patient should be screened before entering Zone IV. An abbreviated MR safety screening form that informs of the risks of entering Zone IV and screens for ferromagnetic objects and implanted/on-planted devices may be used, eliminating the need to screen for other medical conditions and personal background (e.g., diabetes, hypertension, gender). It is recommended that the accompanying individual change into facility-provided MR Safe scrubs/gowns, if possible (see Patient Preparation/Gowning)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, it is prudent to limit accompanying companions to a single individual. Only a qualified, responsible Level 2 MR Physician should make screening criteria exceptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "If screening reveals a potential conductive or metallic foreign body or other safety issue and the individual wishes to proceed to Zone IV, a Level 2 MR Personnel or Level 2 MR Physician must discuss with them the requirement for further evaluation and to determine if it is safe for that individual to enter Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of hearing protection is recommended for accompanying companions within Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safe/MR Conditional seating should be made available for accompanying companions within Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Service and support animals. Introducing service and support animals in Zone IV is not recommended given the difficulty of screening them to ensure their safety (including hearing protection) and the safety of patients and MR Personnel. The facility must ensure alternative arrangements to facilitate MR imaging of patients in the setting of service and support animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Screening with Ferromagnetic Detection Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "Screening for ferromagnetic materials by direct inspection and use of a ferromagnetic detection system (FMDS) is recommended prior to entering Zone III and Zone IV [3,4]. Implanted and on-planted medical devices, both MR Conditional and MR Unsafe, may include ferromagnetic material (including batteries) that can lead to FMDS activation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of conventional metal detectors that do not specifically differentiate between ferromagnetic and nonferromagnetic materials is not recommended. The use of an FMDS is recommended as an adjunct and not replacement of thorough and conscientious screening of persons and devices prior to being permitted into Zone III and/or IV [5]. FMDS screening may help detect ferromagnetic objects and some medical implants missed during the standard screening [6, 7]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nonambulatory patients can pose special challenges, as transport equipment can impact the reliability of FMDSs. In such situations, facilities should have standard operating procedures (SOPs), including augmented visual and physical inspection, to investigate for potential metallic devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Staff/Personnel Screening"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Personnel. All MR Personnel should undergo an initial onboarding MR screening process to identify any potential devices or medical conditions that could impact their or others’ safety in the MR environment as part of their employment agreement. This screening record should be reviewed annually. Interval pertinent medical/surgical changes in status (e.g., new implanted/on-planted device) and new injuries/trauma involving ferromagnetic objects could pose safety issues in MRI. These changes must be immediately reported to the MRMD or designated personnel, with appropriate updating of the MR safety screening record, to determine ongoing safety in Zones III and IV, and with appropriate changes in roles, access, and other similar situations implemented as necessary. Similarly, subjective health complaints potentially associated with the B0 field (e.g., vertigo, dizziness, nausea, metallic taste, and/or illusion of movement) have been reported among MR Personnel, particularly those working in the 3 T environment compared to 1.5 T [8]. MR Personnel should be encouraged to report these known effects to the MRMD [9]. MR Personnel who work in Zone IV during image acquisition should immediately report a pregnancy to the MRMD or designated personnel for appropriate adjustment of job duties. For other pregnant MR Personnel, see Chapter 15: Pregnancy section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-MR Personnel. Entry into Zone III/IV by non-MR Personnel is granted only following appropriate safety screening by Level 2 MR Personnel. In the special circumstance of a non-MR Personnel with a legitimate need to be in the MR environment with active implanted medical devices (e.g., cardiac pacemaker, implantable cardioverter defibrillator, medication pump, cochlear implant) as well as certain passive implants (including aneurysm clips), they should be prevented from entering Zone III and IV and prevented from passing the 9-gauss line unless specifically cleared in writing by a Level 2 MR Physician or the MRMD of the MR facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "All non-MR Personnel needing to enter Zone III must first pass an MR safety screening process that includes a written form and verbal interview."
+    },
+    {
+      "type": "paragraph",
+      "text": "Level 2 MR Personnel have the final authorization to admit non-MR Personnel into Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "A sample pre–MR screening form is provided on the ACR.org MR Safety webpage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Staff/Personnel screening"
+    },
+    {
+      "type": "paragraph",
+      "text": "All MR Personnel must undergo initial onboarding MR screening and a yearly review of this screening."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significant changes in screening status must be reported to the MRMD or designee immediately before returning to the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conscious nonemergent patients"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conscious nonemergent patients and research and volunteer participants are to complete written or electronic MR safety screening questionnaires prior to their introduction to Zone III and must be screened twice, including at least once by a Level 2 MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pediatric/minor patients"
+    },
+    {
+      "type": "paragraph",
+      "text": "Should be screened twice by Level 2 Personnel, once separately from their parents or guardians."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is recommended that they be changed into MR Safe pocketless garments before entering Zone IV, like all patients and research participants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unconscious, unresponsive, altered-level-of-consciousness patients"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family members or guardians of such patients should complete a written MR safety screening questionnaire and undergo a verbal interview prior to the patient’s introduction to Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no reliable patient history can be obtained and if the requested MR examination cannot reasonably wait until a reliable history might be obtained, it is recommended that such patients be physically examined and undergo plain-film radiography as necessary to exclude potentially harmful embedded or implanted metallic foreign bodies, implants, or devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergent patients and their accompanying non-MR Personnel may be screened only once, provided that the individual is Level 2 MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "In cases of extenuating circumstances, there must be agreement between the ordering physician and covering Level 2 MR Physician or MRMD acknowledging the risks of a decision NOT to screen prior to proceeding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Companions in Zones III or IV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Those deemed appropriate to accompany or remain with the patient should be screened prior to entering Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Risk Identification, Assessment, and Mitigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level 2 MR Physician/MRMD final determination. Final determination of whether or not to scan a patient is to be made by the MRMD or the designated Level 2 MR Physician responsible for the patient. Frequently, the MRMD delegates this authority to MR Technologists through existing policies and SOPs such that the designated on-duty physician is only consulted for selected patients in whom the decision to proceed is not straightforward. Consideration of both the benefit of the imaging (including diagnosis, care plan, etc.) against the risks of proceeding with the MR examination as well as the risks that may occur if the study is not performed should be made. Potential risks of proceeding with the requested MRI examination may include mechanical, thermal, and functional risks associated with MRI of implants as well as reactions to contrast agents. These complex decisions often involve patients with implanted devices and may require input from multiple healthcare professionals (e.g., physicians, MRSO, MRSE, device manufacturer representative, etc.). See Appendix 4: Implanted Device MR Risk/Safety Assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implanted devices. If an implanted device is indicated on a screening form, medical record, referring physician order, etc., it is imperative to accurately identify and/or verify the type of implant and its location. For some devices, it is essential to identify its exact make/model and material due to potential injury or other consequences of improper scanning in the presence of the device [10]. Such devices include active electronic implants (CIEDS, neurostimulators) and some passive devices (e.g., aneurysm clips). In contrast, some sites may opt to designate through their SOPs other classes of implants for which there are fewer MR safety concerns, such as coronary stents and orthopedic hardware, as relatively low risk for scanning, obviating the need for precise identification of the make/model of each specific implant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification and positive identification should be in writing or electronically documented. Sources of information may come from operative notes, device identification cards, and electronic medical record implanted device modules. Other sources may include archived MR safety screening forms. Clearance for MRI based on prior screening requires written documentation by a Level 2 MR Personnel of the specific device and conditions for MR imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once positive identification is complete, the implant must be assessed as being MR Safe, MR Conditional, or MR Unsafe. For MR Conditional devices, the most recently available conditions for safe scanning based on the product information (i.e., the instructions for use) must be assessed. Note that the MR conditions for the same device may be different in different countries. Other sources could include written records of the results of formal testing of the implant prior to implantation and peer-reviewed publications regarding the conditions of MR safety of the specific make, model, and type of implant as long as the device/system is identical to the device that was tested. A key role of MR Safety Officers (MRSOs) and MR Safety Experts (MRSEs) includes helping ensure safe scanning of patients with implanted devices. For devices in which the assurance of MR safety is not provided by the device manufacturer (e.g., unidentified device, device manufacturer does not provide MR safety labeling, MR Conditional device in which at least 1 of the MR conditions is not met), the responsible MR Personnel must perform a risk assessment and subsequently a risk/benefit decision on how to proceed. This 2-step process often involves individuals with different expertise, such as MRMDs, MRSOs, MRSEs, and radiologists. Appendix 4 Implanted Device MR Risk/Safety Assessment may provide some guidance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign body. All patients and non-MR Personnel with a history of penetrating injury or implantation associated with an unspecified metallic foreign body including bullets and shrapnel must undergo further investigation prior to being permitted entry to Zone III [11]. Examples of acceptable methods of screening/risk assessment include patient history, plain radiographs, prior CT (with adequate thin sections) or recent MR studies of the anatomic area in question, the use of a FMDS, consideration of the anatomic location, procurement of the same metallic object, or access to written documentation as to the type of implant or foreign object that is present. For field strengths up to 3 T, if the metallic object is less than 2 cm in size and more than 3 cm from other conductors, significant heating is not considered to be an issue if the radiofrequency output is limited to Normal Operating Mode [12]. If the object is ferromagnetic or potentially ferromagnetic, the object’s anatomic location relative to tissues and organs should be considered. Also, anticipated fibrous scarring or encapsulation of the object relative to the time since the injury should be considered. Fibrous scarring could effectively limit any translation, even if ferromagnetic, limiting the possibility of potential injury. Proximity to sensitive tissues, such as the spinal cord, clearly could be a contraindication versus the location of the object in subcutaneous fat or skeletal muscle where a significant injury would not be anticipated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Potential eye foreign body/orbital trauma. All patients with a history of orbital trauma by a potential ferromagnetic foreign body for which they sought medical attention or for which there is otherwise high clinical suspicion for globe penetration by a ferromagnetic body are to have their orbits evaluated either by a single orbit radiograph [13,14] with additional views as necessary or by a radiologist’s review and assessment of prior thin-section CT (obtained since the suspected traumatic event), if available. Evaluation of a prior MR examination’s susceptibility artifact of the region of the orbits may provide an experienced physician with important information on the ferromagnetic nature of the foreign body, but MR images alone are insufficient to clear orbits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient Preparation/Gowning"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any individual undergoing an MR procedure must remove all readily removable metallic personal belongings and devices. This includes important on-planted devices such as external insulin pumps, external hearing aids, continuous glucose monitoring devices, and other similar items. Also, they should remove watches, jewelry, pagers, cell phones, body piercings, contraceptive diaphragms, cosmetics containing metallic particles (such as eye makeup, magnetic eyelashes, hair product), and clothing items that may contain metallic fasteners, hooks, zippers, or loose metallic components/threads or may have been treated with antimicrobial electrically conductive materials. Metallic drug-delivery patches should also be removed when appropriate (see section on Drug-delivery patches and pads). Many antimicrobial silver-impregnated wound dressings, bandages, and patches have been tested at 1.5 and 3 T and shown to demonstrate no significant heating risk in 3 prior studies [15-17]. Nevertheless, several vendors specify removal of their silver-containing products if located within the radiofrequency (RF) field of view [18]; therefore, appropriate screening should be performed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patients with these silver-containing dressings should be instructed to alert the technologist if they experience heating. Patients or research participants must remove all clothing and wear site-supplied MR Safe pocketless garments in place of their own clothing (and undergarments if possible) in the region undergoing direct electromagnetic RF irradiation (see Chapter 8 for"
+    },
+    {
+      "type": "paragraph",
+      "text": "thermal considerations). Face masks should not include metal in the form of nose pieces or fibers incorporated into the mask materials [19]."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTSRisk identificationFinal determination to scan a patient is to be made the MRMD or by a designated Level 2 MR Physician responsible for the patient.Accurate identification of the type, location, make/model of an implanted device is essential.The most up-to-date conditions for safe scanning of a patient with an implant or device should be identified and followed.GowningPatients or research participants should remove all clothing, accessories, and jewelry and wear site-supplied MR Safe pocketless garments in place of their own clothing and undergarments in the region undergoing direct RF irradiation.Screening with ferromagnetic detection systemsScreening with an FMDS is recommended as an adjunct to other safety screening methods.Use of more conventional nonspecific metal detectors is not recommended.KEY POINTSRisk identificationFinal determination to scan a patient is to be made the MRMD or by a designated Level 2 MR Physician responsible for the patient.Accurate identification of the type, location, make/model of an implanted device is essential.The most up-to-date conditions for safe scanning of a patient with an implant or device should be identified and followed.GowningPatients or research participants should remove all clothing, accessories, and jewelry and wear site-supplied MR Safe pocketless garments in place of their own clothing and undergarments in the region undergoing direct RF irradiation.Screening with ferromagnetic detection systemsScreening with an FMDS is recommended as an adjunct to other safety screening methods.Use of more conventional nonspecific metal detectors is not recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSACR: American College of Radiology AIMD: active implanted medical device B0: static magnetic fieldCIED: cardiac implantable electronic deviceCT: computed tomographyCGM: continuous glucose monitorEMR: electronic medical recordFMDS: ferromagnetic detection systems ICD: implantable cardioverter defibrillator IFU: instructions for useMRMD: Magnetic Resonance Medical Director MRSE: Magnetic Resonance Safety Expert MRSO: Magnetic Resonance Safety Officer RF: radiofrequencySOP: standard operating procedureT: teslaKEY ABBREVIATIONSACR: American College of Radiology AIMD: active implanted medical device B0: static magnetic fieldCIED: cardiac implantable electronic deviceCT: computed tomographyCGM: continuous glucose monitorEMR: electronic medical recordFMDS: ferromagnetic detection systems ICD: implantable cardioverter defibrillator IFU: instructions for useMRMD: Magnetic Resonance Medical Director MRSE: Magnetic Resonance Safety Expert MRSO: Magnetic Resonance Safety Officer RF: radiofrequencySOP: standard operating procedureT: tesla"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kimbrell V. Elements of effective patient screening to improve safety in MRI. Magn Reson Imaging Clin N Am. 2020;28(4):489-496. doi: 10.1016/j.mric.2020.07.005"
+    },
+    {
+      "type": "paragraph",
+      "text": "Elmquist C, Shellock FG, Stoller D. Screening adolescents for metallic foreign bodies before MR procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "J Magn Reson Imaging. 1995;5(6):784-785. doi: 10.1002/jmri.1880050629"
+    },
+    {
+      "type": "paragraph",
+      "text": "Orchard LJ. Implementation of a ferromagnetic detection system in a clinical MRI setting. Radiography. 2015;21(3):248-253. doi: 10.1016/j.radi.2014.12.007"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanal E, Barkovich AJ, Bell C, et al; Expert Panel on MR Safety. ACR guidance document on MR safe practices: 2013. J Magn Reson Imaging. 2013;37(3):501-530. doi: 10.1002/jmri.24011"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keene MN. Chapter 16: Using ferromagnetic detection systems in the MRI environment. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022:400-434."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG, Karacozoff AM. Detection of implants and other objects using a ferromagnetic detection system: implications for patient screening before MRI. AJR Am J Roentgenol. 2013;201(4):720-725. doi: 10.2214/AJR.12.10332"
+    },
+    {
+      "type": "paragraph",
+      "text": "Watson RE, Walsh SM, Felmlee JP, Friedman PA, Keene MN. Augmenting MRI safety screening processes: reliable identification of cardiac implantable electronic devices by a ferromagnetic detector system. J Magn Reson Imaging. 2019;49(7):e297-e99. doi: 10.1002/jmri.26277"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glans A, Wilen J, Lindgren L, Björkman-Burtscher IM, Hansson B. Health effects related to exposure of static magnetic fields and acoustic noise-comparison between MR and CT radiographers. Eur Radiol. 2022;32(11):7896-7909. doi: 10.1007/s00330-022-08843-y"
+    },
+    {
+      "type": "paragraph",
+      "text": "Modenese A, Gobba F. Occupational exposure to electromagnetic fields and health surveillance according to the European Directive 2013/35/EU. Int J Environ Res Public Health. 2021;18(4):1730. doi: 10.3390/ijerph18041730"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Chapter 18: MRI issues for implants and devices. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022;462-497."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fountain AJ, Corey A, Malko JA, Strozier D, Allen JW. Imaging appearance of ballistic wounds predicts bullet composition: implications for MRI safety. AJR Am J Roentgenol. 2021;216(2):542-551. doi: 10.2214/AJR.20.23648"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Testing and labeling medical devices for safety in the magnetic resonance (MR) environment: guidance for industry and Food and Drug Administration staff. Published October 10, 2023. Accessed April 22, 2024. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seidenwurm DJ, McDonnell CH III, Raghavan N, Breslau J. Cost utility analysis of radiographic screening for an orbital foreign body before MR imaging. AJNR Am J Neuroradiol. 2000;21(2):426-433."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jarvik JG, Ramsey S. Radiographic screening for orbital foreign bodies prior to MR imaging: is it worth it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "AJNR Am J Neuroradiol. 2000;21(2):245-247."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bailey JK, Sammet S, Overocker J, et al. MRI compatibility of silver based wound dressings. Burns. 2018;44(8):1940-1946. doi: 10.1016/j.burns.2018.05.017"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaudhry Z, Sammet S, Coffey R, Crockett A, Yuh WT, Miller S. Assessing the safety and compatibility of silver based wound dressings in a magnetic resonance environment. Burns. 2009;35(8):1080-1085. doi: 10.1016/j.burns.2009.02.014"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nyenhuis J, Duan L. An evaluation of MRI safety and compatibility of a silver-impregnated antimicrobial wound dressing. J Am Coll Radiol. 2009;6(7):500-505. doi: 10.1016/j.jacr.2009.02.013"
+    },
+    {
+      "type": "paragraph",
+      "text": "Questions and Answers in MRI. Thermal injuries: how do burns occur in MRI? Accessed April 22, 2024. https://mriquestions.com/rf-burns.html"
+    },
+    {
+      "type": "paragraph",
+      "text": "American College of Radiology. ACR guidance on COVID-19 and MR use. Accessed April 22, 2024. https://www.acr.org/Clinical-Resources/Radiology-Safety/MR-Safety/COVID-19-and-MR-Use"
+    }
+  ]
+}

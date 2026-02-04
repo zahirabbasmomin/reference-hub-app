@@ -1,0 +1,100 @@
+{
+  "id": "cad-rads-stable-cfd0a0",
+  "title": "CAD-RADS 2.0 - Stable Chest Pain (Table 4)",
+  "source": "cad-rads-stable.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: cad-rads/images_ryct.220183.tbl4.png. Content transcribed to keep it searchable and responsive."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Table 4: Stable chest pain recommendations"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Category",
+        "Degree of maximal coronary stenosis",
+        "Interpretation",
+        "Further cardiac investigation",
+        "Management considerations"
+      ],
+      "rows": [
+        [
+          "CAD-RADS 0",
+          "0% (No plaque or stenosis)",
+          "Absence of CAD",
+          "- None.",
+          "- Reassurance. Consider non-atherosclerotic causes of symptoms."
+        ],
+        [
+          "CAD-RADS 1",
+          "1-24% (Minimal stenosis or plaque with no stenosis)",
+          "Minimal non-obstructive CAD*",
+          "- None.",
+          "- Consider non-atherosclerotic causes of symptoms.\n- P1: Consider risk factor modification and preventive pharmacotherapy.\n- P2: Risk factor modification and preventive pharmacotherapy.\n- P3 or P4: Aggressive risk factor modification and preventive pharmacotherapy."
+        ],
+        [
+          "CAD-RADS 2",
+          "25-49% (Mild stenosis)",
+          "Mild non-obstructive CAD",
+          "- None.",
+          "- Consider non-atherosclerotic causes of symptoms.\n- P1 or P2: Risk factor modification and preventive pharmacotherapy.\n- P3 or P4: Aggressive risk factor modification and preventive pharmacotherapy."
+        ],
+        [
+          "CAD-RADS 3",
+          "50-69% (Moderate stenosis)",
+          "Moderate stenosis",
+          "- Consider functional assessment.",
+          "- P1, P2, P3 or P4: Aggressive risk factor modification and preventive pharmacotherapy.\n- Other treatments (including anti-anginal therapy) should be considered per guideline directed care.\n- When modifier I+, consider ICA, especially if frequent symptoms persist after guideline-directed medical therapy."
+        ],
+        [
+          "CAD-RADS 4A/4B",
+          "A 70-99% stenosis / B: Left main >=50% or 3-vessel disease (>=70%)",
+          "Severe stenosis",
+          "- A: Consider ICA or functional assessment.\n- B: ICA is recommended.",
+          "- P1, P2, P3 or P4: Aggressive risk factor modification and preventive pharmacotherapy.\n- Other treatments (including anti-anginal therapy and options of revascularization) should be considered per guideline directed care."
+        ],
+        [
+          "CAD-RADS 5",
+          "100% (Total occlusion or sub-total occlusion)",
+          "Total coronary occlusion or sub-total occlusion",
+          "- Consider ICA, functional and/or viability assessment.",
+          "- P1, P2, P3 or P4: Aggressive risk factor modification and preventive pharmacotherapy.\n- Other treatments (including anti-anginal therapy and options of revascularization) should be considered per guideline directed care."
+        ],
+        [
+          "CAD-RADS N",
+          "Non-diagnostic study",
+          "Obstructive CAD cannot be excluded",
+          "- Additional/alternative evaluation needed.",
+          "- Additional/alternative evaluation needed."
+        ]
+      ],
+      "uniform": true,
+      "cellWidth": 200,
+      "cellHeight": 140,
+      "maxLines": 6
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Notes & Footnotes"
+    },
+    {
+      "type": "paragraph",
+      "text": "CAD-RADS classification should be applied per patient for the clinically most relevant (usually highest-grade) stenosis. All vessels >1.5 mm in diameter should be graded for stenosis severity; CAD-RADS does not apply to smaller vessels."
+    },
+    {
+      "type": "list",
+      "items": [
+        "CAD-RADS 1: Includes the presence of plaque with positive remodeling and no evidence of stenosis.",
+        "Functional assessment: CT-FFR, CTP, stress testing (ETT, stress echocardiogram, SPECT, PET, Cardiac MRI) or invasive FFR.",
+        "Guideline-directed care: Per 2021 AHA/ACC Chest Pain Guideline, 2012 ACC/AHA guideline for stable ischemic heart disease, and 2019 ACC/AHA Prevention Guidelines. Consider further evaluation of CAD-RADS 3 and 4A with functional imaging or ICA if symptoms persist despite medical therapy.",
+        "ICA considerations: ICA may be favored if high-grade stenosis (>90%), high-risk plaque features, or I+ (lesion-specific ischemia on CT-FFR or perfusion defects by CTP), or for coronary stenosis in bypass grafts. Revascularization should be reserved for patients with persistent symptoms despite guideline-directed medical therapy.",
+        "CAD: Coronary artery disease."
+      ]
+    }
+  ]
+}

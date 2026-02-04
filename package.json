@@ -1,0 +1,28 @@
+{
+  "name": "reference-hub",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-config": "^54.0.14",
+    "expo": "^54.0.32",
+    "expo-linear-gradient": "~12.7.2",
+    "expo-status-bar": "~1.11.1",
+    "healthicons-react-native": "^3.5.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-web": "^0.21.0",
+    "react-native-webview": "13.6.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "babel-preset-expo": "~54.0.10"
+  },
+  "private": true
+}

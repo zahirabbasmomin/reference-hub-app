@@ -1,0 +1,106 @@
+{
+  "id": "hepatic-fat-calculator-1cc37e",
+  "title": "Hepatic Fat Calculator",
+  "source": "hepatic-fat-calculator.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CT: Liver-Spleen Metrics (Noncontrast)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter mean HU for liver and spleen ROIs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Liver HU"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spleen HU"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "MRI: In/Out of Phase (2-point Dixon)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uses pcheng.org 2-point Dixon approach (FF 50 x (1 OP / IP)); assumes fat-water out-of-phase cancellation drives the drop."
+    },
+    {
+      "type": "paragraph",
+      "text": "In-phase mean signal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposed-phase mean signal"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "MRI: Hepatic/Spleen Corrected (pcheng.org)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Replicates pcheng hepatic fat MRI calculator using liver and spleen signal on in-phase and opposed-phase images."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hepatic SI (In-phase)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hepatic SI (Opposed-phase)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spleen SI (In-phase)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spleen SI (Opposed-phase)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "MRI: Fat/Water Signal (Dixon PDFF Approximation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uses separate fat-only and water-only signal (pcheng.org hepatic fat MRI). FF = Fat / (Fat + Water) x 100."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fat-only mean signal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Water-only mean signal"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ROI Averager"
+    },
+    {
+      "type": "paragraph",
+      "text": "Paste multiple HU values (comma or space separated) to average liver ROIs quickly."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interpretation Guide"
+    },
+    {
+      "type": "list",
+      "items": [
+        "CT Liver-Spleen Difference (L-S): >= 0 typically normal; < -10 suggests hepatic steatosis; < -20 often moderate-severe.",
+        "CT Liver/Spleen Ratio: < 0.8 suggests steatosis. Liver HU < 40 on noncontrast CT is supportive.",
+        "MRI 2-point Dixon estimate: FF < 5% normal; 5-15% mild; 15-30% moderate; > 30% severe. Use vendor PDFF maps if available.",
+        "Approximate CT fat fraction shown is a research-derived linear fit from liver-spleen delta; treat as a ballpark, not a clinical PDFF."
+      ]
+    }
+  ]
+}

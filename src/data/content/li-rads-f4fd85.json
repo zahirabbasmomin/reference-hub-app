@@ -1,0 +1,566 @@
+{
+  "id": "li-rads-f4fd85",
+  "title": "LI-RADS Universal Liver Imaging Lexicon",
+  "source": "li-rads.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: saved page at liver_imaging/Universal Liver Imaging Lexicon_ Imaging Atlas for Research and Clinical Practice _ RadioGraphics.html. Content is themed to match this site."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lexicon Development"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lexicon Structure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "General Terms"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_9fdfd3085a",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Technical Terms"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Imaging Phases"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7ed07644f2",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7b32a315e7",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_86147bedc6",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Terms for Imaging Features"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Arterial Phase Hyperenhancement"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_435dd2bc7e",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_da7deed0ae",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_ee4fc47175",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_0dd10d7d79",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6816743e95",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_677b615e7f",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_94d29391bf",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2dda2a731c",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Washout"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_375a60f914",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1738a1044f",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_22298b668b",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_267a3fd10c",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_a6781c115e",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capsule"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6576fbbf28",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Growth"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1ef7ac12f1",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Targetoid Appearance"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d7d1e7be35",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_efaba1a3a3",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Mild to Moderate T2 Hyperintensity"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_207fbaa038",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Diffusion Restriction"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_f921b17074",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_e001cce5f1",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_91ad013416",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "TP Hypointensity"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_127dc8dfb4",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "HBP Hypointensity"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Peripheral Discontinuous Nodular Enhancement"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c0ecc4e77b",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fade"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_6f463e9f8a",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_fc827c3be4",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_56bacfa402",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download as PowerPoint"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Future Directions"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Footnotes"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supplementary Material"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Supplemental Figures"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_ad2609b77a",
+      "alt": "Figure E1a"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d5839ca795",
+      "alt": "Figure E1b"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_f27bf521da",
+      "alt": "Figure E2a"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7cb35beb14",
+      "alt": "Figure E2b"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_095266ef13",
+      "alt": "Figure E3a"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_faf192aa7f",
+      "alt": "Figure E3b"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_59707c73c7",
+      "alt": "Figure E4"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d6a857cc53",
+      "alt": "Figure E5"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3243d976cc",
+      "alt": "Figure E6"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_ec8515c153",
+      "alt": "Figure E7"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_00adf74e5a",
+      "alt": "Figure E8"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "type": "list",
+      "items": [
+        "a [...] risk for hepatocellular carcinoma (HCC)",
+        "b [...] diagnosis of HCC, better than the early AP",
+        "c [...] diagnosed as definitely HCC noninvasively"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "a [...] and promotes agreement among radiologists",
+        "b [...] applicable for the general population",
+        "c [...] clinical practice and scientific literature"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "a [...] (ie, nonrim APHE) is typical of HCC",
+        "b [...] to distinguish between these two neoplasms"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "a [...] (ie, nonrim APHE) is typical of HCC",
+        "b [...] to distinguish between these two neoplasms",
+        "c [...] from HCC became available"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "a [...] recently released a liver imaging lexicon",
+        "b [...]"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "a [...] diagnosis of HCC, better than the early AP",
+        "b [...] (APHE) better than the early AP"
+      ]
+    }
+  ]
+}

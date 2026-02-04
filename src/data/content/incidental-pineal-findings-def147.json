@@ -1,0 +1,137 @@
+{
+  "id": "incidental-pineal-findings-def147",
+  "title": "Incidental Pineal Findings",
+  "source": "incidental-pineal-findings.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "paragraph",
+      "text": "Summary of the ACR algorithms. Use the flowcharts below for full details."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<= 15 mmNo follow-up",
+        "> 15 mmFollow-up MRI; if stable, consider second follow-up then stop"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<= 10 mmFollow-up MRI to document stability",
+        "> 10 mmNeurosurgical consult"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Symptoms of increased intracranial pressure or mass effect, or imaging red flags (tectal signal change, hydrocephalus, aqueduct mass effect)Neurosurgical consult"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Incidental means no symptoms such as nausea/vomiting, papilledema, visual disturbance, Parinaud's syndrome, hemiparesis, hemisensory changes, vertigo, syncope, migraine, or seizures; isolated headache alone does not trigger consult.",
+        "If tectal signal change, hydrocephalus, or aqueduct mass effect develops on any imaging, refer for neurosurgical consultation."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "< 15 mmNo follow-up",
+        ">= 15 mmMRI follow-up preferred; if stable, manage as >15 mm simple cyst on MRI"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<= 10 mmMRI for characterization/follow-up",
+        "> 10 mmNeurosurgical consult"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Symptoms of increased intracranial pressure or mass effect, or imaging red flags (tectal hypoattenuation, hydrocephalus, aqueduct mass effect)Neurosurgical consult"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Incidental means no symptoms such as nausea/vomiting, papilledema, visual disturbance, Parinaud's syndrome, hemiparesis, hemisensory changes, vertigo, syncope, migraine, or seizures; isolated headache alone does not trigger consult.",
+        "If tectal signal abnormality or hypoattenuation on CT, hydrocephalus, or aqueduct mass effect develops on any imaging, refer for neurosurgical consultation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the ACR Incidental Findings Committee guidance."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Recommendations cover incidental pineal cysts detected on CT of the head or MRI of the brain.",
+        "The pathways focus on asymptomatic incidental findings and standard follow-up decisions.",
+        "Use the flowcharts below to match the imaging modality and apply the recommended next steps."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Source file: Management of Incidentally Discovered Pineal Cyst on CT and MRI."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choose the scenario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select CT or MRI to load the matching flowchart and caption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Selected flowchart"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Loading..."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "All flowcharts"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_88827e98f0",
+      "alt": "Figure 1. MRI pathway for incidental pineal cysts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1. MRI pathway for incidental pineal cysts."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_e8a4f4b496",
+      "alt": "Figure 2. CT pathway for incidental pineal cysts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 2. CT pathway for incidental pineal cysts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Images loaded from the webpage-complete folder for the ACR article."
+    }
+  ]
+}

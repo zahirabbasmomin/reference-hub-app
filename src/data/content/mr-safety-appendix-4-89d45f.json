@@ -1,0 +1,356 @@
+{
+  "id": "mr-safety-appendix-4-89d45f",
+  "title": "Appendix 4: Implanted Device MR Risk/Safety Assessment | MRI Safety Manual",
+  "source": "mr-safety-appendix-4.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "APPENDIX 4:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Implanted Device MR Risk/Safety Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "In clinical practice, medically necessary MR examinations in the presence of implanted devices with potential safety concerns have become increasingly common [1]. MR Conditional implanted devices may require specific conditions for safe scanning that may be difficult to meet or limit the ability to acquire MR images of sufficient quality to address the specific clinical question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, implanted devices may lack documentation in the medical record (e.g., implanted at a different medical center or several years prior) and thus challenge the ability to determine the risk level. Moreover, a patient with the need for MR imaging may have an implanted device labeled as MR Unsafe, potentially precluding MR imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, we provide a general approach to evaluating the potential risks of performing an MR examination when patients have implanted devices that, for example, may not meet all MR conditions for safe scanning. A similar discussion is included in the Medicines and Healthcare products Regulatory Agency document for reference [2]. It should be noted that itemizing the complex, multifactorial decision tree in all clinical scenarios is not only beyond the scope of this manual but also virtually impossible. Nevertheless, the guiding principle in this decision process should be to adequately address the risk versus benefit ratio of undergoing an MR examination for the patient. This often requires a discussion between the treating physician(s) and MR Personnel with expertise in MR safety (i.e., Level 2 MR Physician, MR Medical Director (MRMD), MR Safety Officer (MRSO), and/or MR Safety Expert (MRSE)). Alternative imaging modalities (e.g., computed tomography, ultrasound) and the medical risk of not receiving an MR examination should be considered. Lastly, research participants generally do not benefit from a research MR examination, and therefore, the threshold for accepting an unknown or higher-risk scenario should be much higher than that of a clinically indicated MR examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following considerations, among potential others, should be addressed during the initial assessment, preparation, scanning, and post-examination follow-up phases of the MRI exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Implanted device(s)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Type of device(s)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manufacturer(s) and model(s)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anatomic location(s)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Available information on MR conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Device eligibility for MR."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vendor MR Conditional instructions for use (IFU)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exposure of object/device to"
+    },
+    {
+      "type": "paragraph",
+      "text": "static magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "time-varying gradient magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "radiofrequency (RF) magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "Published recommendations from appropriate professional bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Published evidence of scanning device under similar conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current device status (operational, abandoned, damaged, implanted outside of vendor MR conditions, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: addressing the above may require consulting the device manufacturer or local representative, a device specialist, relevant documentation, prior imaging, and/or operative reports and could lead to the need to acquire x-rays or CT prior to making a decision."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR scanner"
+    },
+    {
+      "type": "paragraph",
+      "text": "Availability of a scanner to meet MR conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Field strength and orientation, spatial field gradient, gradient performance, RF coil (e.g., detachable transmit-receive coils)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sequences and options for obtaining needed information within specific"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 rms1 rmsabsorption rate (SAR)/B +"
+    },
+    {
+      "type": "paragraph",
+      "text": "appropriate image quality."
+    },
+    {
+      "type": "paragraph",
+      "text": "and/or dB/dt exposure limits with"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Equipment Output Conditioning (MROC) options to manage RF and gradient outputs [3]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Availability of appropriate ancillary equipment, expert personnel, and emergent response team for monitoring and managing patient and device in the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question and/or requested examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient positioning permitting compliance with MR conditions as well as consideration of location of implant(s) within the scanner to assess impact of static, RF, and gradient field conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient eligibility for MRI with device(s) via vendor IFU."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient status (routine, emergency, under anesthesia, compromised thermoregulatory system, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Potential impact of device artifacts and/or MR protocol and parameter limitations on examination image quality/diagnostic capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further risk/benefit considerations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Potential injury to the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Potential damage to the device and associated impact on the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical impact of performing a procedure to remove a device prior to examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical impact of not performing or delaying the MR examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identification of alternative imaging approaches."
+    },
+    {
+      "type": "paragraph",
+      "text": "Document risk versus benefit decision, and plan for managing risk during MR examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Preparation and scanning"
+    },
+    {
+      "type": "paragraph",
+      "text": "Implanted device(s) (as appropriate)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate device expert, including MRSE and/or clinician present if needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Device battery level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient/clinician implanted device programmer electrically charged and available"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interrogate device to establish/verify eligibility (i.e., impedance check/lead damage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Record/save settings (i.e., cardiac implantable devices, deep brain stimulator, vagal nerve stimulator, programmable shunt)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Program device for MR environment (e.g., MR Conditional mode)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Secure and immobilize on patient (i.e., cochlear magnet, tissue expander with magnetic port)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plan for device damage or inability to recover normal function."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR scanner and environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient scheduled to appropriate MR resource at an appropriate time."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR safety screening and training of team members possibly to include non-MR Personnel that may need to be present during examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consultation or direct supervision (MRMD, MRSO, or MRSE) as needed/required"
+    },
+    {
+      "type": "paragraph",
+      "text": "Modified MR protocol available to meet planned conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "1 rms1 rmsScanner in appropriate operating mode or MROC setting for SAR/B +and"
+    },
+    {
+      "type": "paragraph",
+      "text": "dB/dt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Active monitoring of scanner output and timing during examination by appropriately trained personnel to meet MR conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification of patient eligibility for MR."
+    },
+    {
+      "type": "paragraph",
+      "text": "Informed consent when appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Educated on device preparation for examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Proper positioning of patient and device within bore and RF coil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Management of external leads or cables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Distancing device from bore wall."
+    },
+    {
+      "type": "paragraph",
+      "text": "Placement of sealed ice packs for external object cooling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Communication plan (with the team and with the patient)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Audible, visual, and squeeze ball."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clear instructions to patient (and team) on what sensations to expect and when/how to stop examination or communicate with the team."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient monitoring and management plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate physiological monitoring."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sedation or anesthesia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planned periods of nonscanning for cooling off if necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Post-examination follow-up"
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient: assess for pain or injury."
+    },
+    {
+      "type": "paragraph",
+      "text": "Device: assess and/or reprogram device to normal function."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sites are encouraged to objectively assess their capability of safely performing an MR examination under challenging/unusual conditions. Thoughtful consideration of referring the patient to an alternate imaging facility with the necessary expertise is encouraged when appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shellock FG. Chapter 18: MRI issues for implants and devices. In: Shellock FG, Crues JV III, eds. MRI Biological Effects, Safety, and Patient Management. Biomedical Research Publishing Group; 2022:462-497."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicines and Healthcare products Regulatory Agency. Safety guidelines for magnetic resonance imaging equipment in clinical use. Published November 7, 2014. Accessed April 22, 2024. https://www.gov.uk/government/publications/safety-guidelines-for-magnetic-resonance-imaging-equipment-in-clinical-use#full-publication-update-history"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Electrotechnical Commission. Medical electrical equipment - Part 2-33: Particular requirements for the safety of magnetic resonance equipment for medical diagnosis. 4th ed. Published August 4, 2022. Accessed April 22, 2024. https://webstore.iec.ch/publication/67211"
+    }
+  ]
+}

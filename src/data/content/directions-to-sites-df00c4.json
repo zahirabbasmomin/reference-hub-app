@@ -1,0 +1,341 @@
+{
+  "id": "directions-to-sites-df00c4",
+  "title": "Directions to Sites",
+  "source": "directions-to-sites.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How this works"
+    },
+    {
+      "type": "paragraph",
+      "text": "Links launch Google Maps in a new tab with travel mode preset to driving."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Destinations are pulled directly from covered_sites.docx.",
+        "On mobile, links hand off to the Maps app; on desktop they open in your browser.",
+        "Use the buttons below to start navigation from your current location."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sites (alphabetical)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Addresses exactly as listed in covered_sites.docx."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Acworth Health Park"
+    },
+    {
+      "type": "paragraph",
+      "text": "4550 Cobb Pkwy N, Acworth, GA 30101"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=4550%20Cobb%20Pkwy%20N%2C%20Acworth%2C%20GA%2030101&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Advanced Imaging Center 210"
+    },
+    {
+      "type": "paragraph",
+      "text": "60 Lacy St NW, Marietta, GA 30060"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=60%20Lacy%20St%20NW%2C%20Marietta%2C%20GA%2030060&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "AHI - Cummings"
+    },
+    {
+      "type": "paragraph",
+      "text": "1050 Haw Creek Pkwy Ste 100, Cumming, GA 30041"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=1050%20Haw%20Creek%20Pkwy%20Ste%20100%2C%20Cumming%2C%20GA%2030041&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "AHI - Lawrenceville"
+    },
+    {
+      "type": "paragraph",
+      "text": "481 W Pike St, Lawrenceville, GA 30046"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=481%20W%20Pike%20St%2C%20Lawrenceville%2C%20GA%2030046&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "AHI - Sandy Springs"
+    },
+    {
+      "type": "paragraph",
+      "text": "1200 Lake Hearn Dr NE Ste 100, Atlanta, GA"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=1200%20Lake%20Hearn%20Dr%20NE%20Ste%20100%2C%20Atlanta%2C%20GA&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Camp Creek Imaging Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "3890 Redwine Rd SW Suite 104, Atlanta, GA 30331"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=3890%20Redwine%20Rd%20SW%20Suite%20104%2C%20Atlanta%2C%20GA%2030331&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cherokee Health Park"
+    },
+    {
+      "type": "paragraph",
+      "text": "1120 Wellstar Way, Holly Springs, GA 30114"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=1120%20Wellstar%20Way%2C%20Holly%20Springs%2C%20GA%2030114&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cobb Hospital"
+    },
+    {
+      "type": "paragraph",
+      "text": "3950 Austell Rd, Austell, GA 30106"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=3950%20Austell%20Rd%2C%20Austell%2C%20GA%2030106&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Douglas Hospital"
+    },
+    {
+      "type": "paragraph",
+      "text": "8954 Hospital Dr, Douglasville, GA 30134"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=8954%20Hospital%20Dr%2C%20Douglasville%2C%20GA%2030134&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Douglas Imaging Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "8954 Hospital Dr, Douglasville, GA 30134"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=8954%20Hospital%20Dr%2C%20Douglasville%2C%20GA%2030134&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "East Cobb Health Park"
+    },
+    {
+      "type": "paragraph",
+      "text": "3747 Roswell Rd, Marietta, GA 30062"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=3747%20Roswell%20Rd%2C%20Marietta%2C%20GA%2030062&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kennestone Hospital"
+    },
+    {
+      "type": "paragraph",
+      "text": "677 Church St, Marietta, GA 30060"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=677%20Church%20St%2C%20Marietta%2C%20GA%2030060&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "North Fulton Hospital"
+    },
+    {
+      "type": "paragraph",
+      "text": "3000 Hospital Blvd, Roswell, GA 30076"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=3000%20Hospital%20Blvd%2C%20Roswell%2C%20GA%2030076&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Paulding Hospital & Imaging Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "2518 Jimmy Lee Smith Pkwy, Hiram, GA 30141"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=2518%20Jimmy%20Lee%20Smith%20Pkwy%2C%20Hiram%2C%20GA%2030141&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pediatric Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "1180 Ernest W Barrett Pkwy NW, Kennesaw, GA 30144"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=1180%20Ernest%20W%20Barrett%20Pkwy%20NW%2C%20Kennesaw%2C%20GA%2030144&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pinnacle - Marietta"
+    },
+    {
+      "type": "paragraph",
+      "text": "300 Tower Rd #200, Marietta, GA 30060"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=300%20Tower%20Rd%20%23200%2C%20Marietta%2C%20GA%2030060&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pinnacle - Woodstock"
+    },
+    {
+      "type": "paragraph",
+      "text": "1505 Stone Bridge Pkwy #200, Woodstock, GA 30189"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=1505%20Stone%20Bridge%20Pkwy%20%23200%2C%20Woodstock%2C%20GA%2030189&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quantum Radiology Main Office"
+    },
+    {
+      "type": "paragraph",
+      "text": "790 Church St Suite 400, Marietta, GA 30060"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=790%20Church%20St%20Suite%20400%2C%20Marietta%2C%20GA%2030060&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Roswell Imaging Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "4500 Hospital Blvd Suite 100, Roswell, GA 30076"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=4500%20Hospital%20Blvd%20Suite%20100%2C%20Roswell%2C%20GA%2030076&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "South Cobb Imaging Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "1625 Hospital N Dr, Austell, GA 30106"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=1625%20Hospital%20N%20Dr%2C%20Austell%2C%20GA%2030106&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vinings Health Park"
+    },
+    {
+      "type": "paragraph",
+      "text": "4441 Atlanta Rd SE, Smyrna, GA 30080"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=4441%20Atlanta%20Rd%20SE%2C%20Smyrna%2C%20GA%2030080&travelmode=driving"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Windy Hill Hospital"
+    },
+    {
+      "type": "paragraph",
+      "text": "2540 Windy Hill Rd SE, Marietta, GA 30067"
+    },
+    {
+      "type": "link",
+      "text": "Directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=2540%20Windy%20Hill%20Rd%20SE%2C%20Marietta%2C%20GA%2030067&travelmode=driving"
+    }
+  ]
+}

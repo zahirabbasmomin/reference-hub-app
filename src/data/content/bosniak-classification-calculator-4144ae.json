@@ -1,0 +1,91 @@
+{
+  "id": "bosniak-classification-calculator-4144ae",
+  "title": "Bosniak Classification Calculator (v2019)",
+  "source": "bosniak-classification-calculator.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lesion Inputs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toggle features to approximate Bosniak class. Enhancement: CT HU >10 or conspicuous MRI post-contrast/subtraction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Modality"
+    },
+    {
+      "type": "paragraph",
+      "text": "Size (cm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thin septa / calcifications"
+    },
+    {
+      "type": "paragraph",
+      "text": "Smooth wall/septa thickening"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enhancing nodules / solid tissue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Irregular wall/septa (jagged, convex)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hyperattenuating, homogeneous >=70 HU on NC CT (<=3 cm), no enhancement"
+    },
+    {
+      "type": "paragraph",
+      "text": "No measurable enhancement (HU < 10 or visually none)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quick Reference (v2019)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Modality cues: CT enhancement = HU > 10; MRI enhancement = visual conspicuity on subtraction or T1 post vs pre.",
+        "I: Simple cyst, water attenuation/signal, no septa or enhancement.",
+        "II (CT): 1-3 thin (<2 mm) septa or fine calcification; homogeneous >=70 HU <=3 cm non-enhancing; non-enhancing <30 HU benign.",
+        "II (MRI): 1-3 thin (<2 mm) septa or fine calcification; homogeneous simple fluid without enhancement.",
+        "IIF (CT): >=4 thin septa or minimally thick (3 mm) smooth enhancing wall/septa; homogeneous hyperattenuating >3 cm without enhancement.",
+        "IIF (MRI): >=4 thin septa or minimally thick (3 mm) smooth enhancing wall/septa.",
+        "III: Smooth thickened (>=4 mm) enhancing wall/septa or smooth <=3 mm enhancing nodules.",
+        "IV: Enhancing nodules >3 mm, irregular enhancing tissue, or definite solid enhancing component."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow-up ideas (institution-dependent): I/II: none. IIF: 6-12 months, then yearly up to 5 years. III/IV: urology consultation; consider surgery/ablation vs. surveillance if comorbidities."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reference Summary (pcheng.org / Bosniak v2019)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Class I: Simple cyst, imperceptible wall, water density/signal, no septa or calcification; benign, no follow-up.",
+        "Class II: Few (<=3) thin (<2 mm) septa, fine calcification, or homogeneous hyperattenuating <=3 cm without enhancement; benign, no follow-up.",
+        "Class IIF: >=4 thin septa or minimal smooth thickening (~3 mm), may have thick/irregular calcification; hyperattenuating >3 cm without enhancement; likely benign, imaging follow-up recommended.",
+        "Class III: Smoothly thickened (>=4 mm) enhancing wall/septa or small (<=3 mm) enhancing mural nodules; indeterminate ~50% malignant-urology consult.",
+        "Class IV: Enhancing nodules >3 mm, irregular enhancing tissue, or solid enhancing components; high malignant probability-urology consult.",
+        "Enhancement: CT HU >10; MRI visual/subtraction. Avoid class II/III calls without clear enhancement.",
+        "Follow-up (typical): I/II none; IIF at 6-12 months then yearly up to 5 years; III/IV urology consult (surgery/ablation vs surveillance in select patients)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: pcheng.org Bosniak reference and Bosniak 2019 update."
+    }
+  ]
+}

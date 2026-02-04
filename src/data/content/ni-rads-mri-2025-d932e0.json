@@ -1,0 +1,72 @@
+{
+  "id": "ni-rads-mri-2025-d932e0",
+  "title": "NI-RADS MRI v2025",
+  "source": "ni-rads-mri-2025.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: NI-RADS MRI v2025 Assessment Categories (Updated August 2025)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use only after definitive/curative head and neck cancer treatment; not during treatment.",
+        "If primary is unknown use P-unknown; if primary cannot be assessed (dental artifact, motion, outside FOV) use P-x; if neck is not imaged/assessable (tailored exam) use N-x.",
+        "First post-treatment MRI is the new baseline; skull base foramina/perineural findings without suspicious features can stay NI-RADS 1 until the next MRI.",
+        "Skull base/perineural baseline nuance: partial resolution or no change of soft tissue with the same signal/enhancement as pre-treatment, or new thin smooth enhancement in skull base foramina/perineural regions within the radiation field, may still be treatment related.",
+        "PET/MRI discordance rules apply only if the original tumor was FDG-avid; PET is less helpful for perineural skull base disease (prefer MRI there).",
+        "Head and neck surveillance MR exams are often tailored to a specific area; if the neck cannot be evaluated report N-x."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Assessment Categories"
+    },
+    {
+      "type": "paragraph",
+      "text": "Primary site and neck MRI findings with management."
+    },
+    {
+      "type": "paragraph",
+      "text": "* Residual nodal tissue: site where an abnormal node was present pre-treatment; hypoenhancement and irregular borders can reflect treatment response, especially if FDG-negative. ** Focal mucosal abnormalities on the initial post-treatment MRI are often treatment-related and usually 2a with direct inspection; later mass-like or nodular mucosal abnormalities may warrant 3. ** New or enlarging node: develops or grows during surveillance; irregular borders, new necrosis/cystic change, or gross extranodal extension invading adjacent structures are definitively abnormal. Irregular borders or necrosis in nodes that are unchanged or decreasing after radiation are expected treatment effects. *** Persistent enlargement or growth of discrete mass-like soft tissue that differs from the original tumor signal should be NI-RADS 3 despite the mismatch (PET/MRI discordance only applies if the original tumor was FDG-avid). Tumor tends to have intermediate T2 signal and intermediate enhancement; hyperintense T2 or intense enhancement is more often reactive or inflammatory."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quick Workflow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Baseline MRI sets NI-RADS 0-4; escalate from surveillance to inspection, short-interval imaging, or biopsy, and note P-unknown/P-x/N-x and PET versus MRI roles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting Tips"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Document primary and neck NI-RADS scores; specify P-unknown, P-x, or N-x when applicable.",
+        "Detail skull base/perineural findings, mucosal changes, nodal morphology, and any PET/MRI discordance (only if the original tumor was FDG-avid).",
+        "State baseline status: first post-treatment MRI is the new baseline; indeterminate skull base/perineural findings without suspicious features can stay NI-RADS 1 until the next MRI.",
+        "Recommend direct inspection (2a), short-interval MRI/PET (2b or neck 2), biopsy (3), or clinical management (4) as indicated."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Source"
+    },
+    {
+      "type": "paragraph",
+      "text": "NI-RADS MRI v2025 Assessment Categories (Updated August 2025). PDF: link."
+    }
+  ]
+}

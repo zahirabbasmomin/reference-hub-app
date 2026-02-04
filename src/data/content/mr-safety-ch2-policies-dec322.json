@@ -1,0 +1,228 @@
+{
+  "id": "mr-safety-ch2-policies-dec322",
+  "title": "Chapter 2: MR Safety Policies & SOPs | MRI Safety Manual",
+  "source": "mr-safety-ch2-policies.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 2:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Management of MR Safety Policies and Standard Operating Procedures"
+    },
+    {
+      "type": "paragraph",
+      "text": "All clinical and research MR facilities, irrespective of magnet format or field strength, including installations for diagnostic, research, interventional, and/or intra- or perioperative applications, should maintain MR safety policies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policies and standard operating procedures. These policies and procedures should be reviewed at intervals deemed appropriate by the facility based on their specific content. Also, concurrently with the introduction of any substantial changes in safety parameters of the MR system or site (e.g., related to hardware and/or software upgrades resulting in faster or stronger gradient capabilities or higher radiofrequency duty cycles), these policies and procedures should be updated as needed. A related consideration is the addition of Alternative MR systems (e.g., PET/MR, hybrid procedural interventional suite, etc.) to a facility’s MR fleet; due to the unique risks in these specialized environments, appropriate site-specific policies and procedures must be developed to ensure safety. During the review process, national and international standards and recommendations as well as the operator manuals for the MR equipment should be taken into consideration. Points to consider when developing MR safety policies and standard operating procedures can be found in Appendix 1. The MR facility’s administrative staff must ensure that the policies and procedures that result from these MR safe-practice guidelines are implemented and adhered to at all times by all of the site’s personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR safety roles. The ACR Committee on MR Safety supports the recommendations of the consensus document calling for formal MR safety roles and responsibilities for facility management of MR safety. These roles include MR Medical Director (MRMD), MR Safety Officer (MRSO), and MR Safety Expert (MRSE) [1]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following personnel organizational structure recommendations are aimed to ensure the implementation and management of MR safety in and around MRI facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consistent with the consensus document, the development, implementation, and ongoing management of MR facility responsibility will be shared between a designated physician MRMD, an MRSO, and, in an advisory role, an MRSE. The specific job roles and responsibilities are described below."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Medical Director. Each MR facility will name a physician MRMD whose responsibilities will include ensuring that MR safe-practice guidelines are established and maintained as current and appropriate for the facility (e.g., outpatient, inpatient, interventional/intraoperative, radiation oncology, or any site with a human MR system). Specific supervision responsibilities in systems with multiple sites should be designated by the institution policy. Many sites may have a complex organizational structure; the MRMD may serve in one or more roles per institution policy. If the MRMD serves in more than one setting, the institution should ensure it does not compromise their function in this role."
+    },
+    {
+      "type": "paragraph",
+      "text": "The MRMD responsibility will be assumed by a licensed physician/radiologist with appropriate training in MR safety, which is defined later in this document. The MRMD is responsible for overseeing overall MR facility operational safety. The MRMD responsibility is to ensure policies and procedures are in place for the safe performance of MR procedures. These include:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The appointment of an MRSO and advisory MRSE."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development, implementation, and maintenance of specific policies and procedures pertaining to the safe operation of MR services."
+    },
+    {
+      "type": "paragraph",
+      "text": "The implementation and maintenance of appropriate MR safety and quality assurance programs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate ongoing assessment of risk for the facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate system for record keeping and analysis of adverse events (with the MRSO and MRSE as needed)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate investigation and recording of all reported MR safety adverse events."
+    },
+    {
+      "type": "paragraph",
+      "text": "Site-specific MR Safety training requirements for MR Personnel and others accessing the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safety Officer. This responsibility will be designated to a suitably trained individual, often an MR Technologist. Multiple MRSOs can be appointed by the MRMD, but a single MRSO should be identified as being responsible and should oversee safety practices within a defined component of the MRI practice at all times. It might be appropriate to name an MRSO for each facility location (i.e., 3 MR systems in the same location) for each shift. The MRSO responsibilities include:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuring accessibility at all times, if the MR facility is in use, to the operators of MR scanners."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuring that policies and procedures of the MRMD are implemented and enforced at all times."
+    },
+    {
+      "type": "paragraph",
+      "text": "Development, documentation, and execution, in conjunction with and under the authority of the MRMD, of safe working procedures for the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuring that adequate written safety procedures, emergency procedures, and operating instructions are issued, in consultation with the MRMD and MRSE, as needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuring the implementation and monitoring of appropriate measures for minimizing risks to staff and patients in cooperation with the MRMD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Managing hazards posed by the MR equipment and monitoring the measures taken to protect against such hazards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuring, in cooperation with the MRMD, that medical, technical, nursing, emergency, and all other relevant staff groups (including ancillary workers) who may be exposed to the MR environment are educated appropriately and updated as necessary as to MR safety requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing and/or ensuring the provision of MR safety education and training in cooperation with and as per the policies of the MRMD and maintaining records of personnel education."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure safety training to include understanding of the specific Instructions for Use (operator manual) for every MR system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulting the MRMD and/or MRSE when further advice is required regarding MR safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reporting back to the MRMD in a timely fashion any and all MR safety–related issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensuring that there is a clear policy for purchasing, testing, and clearly marking of all equipment that will be taken into Zones III and IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing safety advice on the modification of MR protocols (in cooperation with the MRMD and/or MRSE) if/as needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintaining regular contact with other relevant groups or committees responsible for the safety and welfare of personnel on-site."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing expertise in root cause analyses, solutions meetings, etc., related to MR adverse events."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safety Expert. This individual is expected to serve as a resource for the MRMD and MRSO for technical- and physics-related MR safety issues (i.e., issues other than contrast agents, anxiolytics, and other pharmaceuticals). It is assumed the MRMD and MRSO are part of the organization performing the MR examination. However, the MRSE may be external to the organization. It is expected that each organization will have an MRSE prospectively identified. The MRSE is often an MR physicist, but others with suitable expertise could also fill this role. It is expected that the MRSE will serve in an advisory role for one or several MR facilities and thereby does not need to be physically present at the MR facility, although a prospectively and clearly defined means to contact this individual is expected. The MRSE responsibilities include:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing advice on the engineering, scientific, and administrative aspects of the safe use of MR equipment, which includes quantification assistance for energy, force, and risk exposures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing advice on the development and continuing evaluation of a safety framework for the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing advice for the development of local rules and procedures to ensure the safe use of MR equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing safety advice regarding nonroutine MR procedures, which includes advice regarding safety related to implanted devices and other similar issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing advice on MR Safety and MR quality assurance programs, evaluations, and audits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing safety advice regarding equipment acceptance testing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Establishing and maintaining links with appropriate regional and professional bodies and reporting back to the MRMD and MRSO on safety-related issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing expertise in root cause analyses, solutions meetings, etc., related to MRI adverse events."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR research settings: MR Research Director. Further considerations and valuable information about safety structure related to the scanning of human participants in a research setting, including the role of an MRRD (MR Research Director), have been previously published [2]. The MRRD is the individual who is responsible for the safe operation of research-only/nonclinical facilities in which human scanning is performed. Many parallels exist with the role of the MRMD."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safety Committee. An MR Safety Committee structure centered on MRMD, MRSO, and MRSE organizational structure with the inclusion of pertinent stakeholders (to possibly include other radiologists, physicists, technologists, advanced practice providers, nurses, anesthesia personnel, clinical assistants, MR technical maintenance personnel, desk operations, administrative personnel, facility management personnel, among others) is encouraged,"
+    },
+    {
+      "type": "paragraph",
+      "text": "allowing a timely discussion of MR safety issues and an infrastructure focused on continual improvement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reporting of MR-related adverse events and incidents. It is recommended that policies and procedures are in place to ensure that all MR-related adverse events, safety incidents, or “near misses” that occur are reported to the MRMD in a timely manner (e.g., within 24 hours or 1 business day of their occurrence) and used in continuous quality improvement efforts. In general, safety events related to the equipment (e.g., burn, device-related event) should be reported to the manufacturer to ensure no malfunction of the equipment. The FDA has guidelines addressing the reporting of adverse events and incidents via their MedWatch program [3,4]. The ACR Committee on MR Safety supports this recommendation because it is in the best interest of MR practitioners to contribute to the Manufacturer and User Facility Device Experience database of such events to facilitate learning about them and how to better avoid them in the future [5]."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTSManagement of MR safety should include the following roles.MRMD: licensed physician/radiologist with appropriate training in MR safety who is responsible for overseeing overall MR facility operational safety policies and procedures.MRSO: responsible for working with the MRMD and MRSE in implementation of day-to-day practice of a comprehensive MR safety program.MRSE: a resource for the MRMD and MRSO for technical- and physics-related issues. Issues related to contrast agents, anxiolytics, and other pharmaceuticals are considered outside the purview of the MRSE.ACR MR Safety Committee supports the FDA’s request for facilities to report adverse events to MedWatch.It is recommended that adverse events and “near misses” are reported to the site’s MRMD (and manufacturer when appropriate) in a timely manner per the facility’s standard operating procedure.Facilities will create and maintain MR safety policies that are reviewed at least annually (Appendix 1).KEY POINTSManagement of MR safety should include the following roles.MRMD: licensed physician/radiologist with appropriate training in MR safety who is responsible for overseeing overall MR facility operational safety policies and procedures.MRSO: responsible for working with the MRMD and MRSE in implementation of day-to-day practice of a comprehensive MR safety program.MRSE: a resource for the MRMD and MRSO for technical- and physics-related issues. Issues related to contrast agents, anxiolytics, and other pharmaceuticals are considered outside the purview of the MRSE.ACR MR Safety Committee supports the FDA’s request for facilities to report adverse events to MedWatch.It is recommended that adverse events and “near misses” are reported to the site’s MRMD (and manufacturer when appropriate) in a timely manner per the facility’s standard operating procedure.Facilities will create and maintain MR safety policies that are reviewed at least annually (Appendix 1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSACR: American College of Radiology APP: advanced practice provider FDA: Food and Drug AdministrationMAUDE: Manufacturer and User Facility Device ExperienceMRMD: Magnetic Resonance Medical Director MRRD: Magnetic Resonance Research Director MRSE: Magnetic Resonance Safety Expert MRSO: Magnetic Resonance Safety Officer SOP: standard operating procedureKEY ABBREVIATIONSACR: American College of Radiology APP: advanced practice provider FDA: Food and Drug AdministrationMAUDE: Manufacturer and User Facility Device ExperienceMRMD: Magnetic Resonance Medical Director MRRD: Magnetic Resonance Research Director MRSE: Magnetic Resonance Safety Expert MRSO: Magnetic Resonance Safety Officer SOP: standard operating procedure"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calamante F, Ittermann B, Kanal E, Norris D; The Inter-Society Working Group on MR Safety. Recommended responsibilities for management of MR safety. J Magn Reson Imaging. 2016;44(5):1067-1069. doi: 10.1002/jmri.25282"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calamante F, Faulkner WH Jr, Ittermann B, et al; ISMRM Safety Committee. MR system operator: recommended minimum requirements for performing MRI in human subjects in a research setting. J Magn Reson Imaging. 2015;41(4):899-902. doi: 10.1002/jmri.24717"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. MedWatch: the FDA safety information and adverse event reporting program. Accessed April 22, 2024. https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Mandatory reporting requirements: manufacturers, importers and device user facilities. Accessed April 22, 2024. https://www.fda.gov/medical-devices/postmarket-requirements-devices/mandatory-reporting-requirements-manufacturers-importers-and-device-user-facilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Device advice: comprehensive regulatory assistance. Accessed April 22, 2024. https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance"
+    }
+  ]
+}

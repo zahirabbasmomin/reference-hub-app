@@ -1,0 +1,154 @@
+{
+  "id": "barium-swallow-7c4eae",
+  "title": "Barium Swallow",
+  "source": "barium-swallow.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: barium_swallow.docx."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preliminary Information"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The hypopharynx and cervical esophagus are to be included in the esophageal study if disease is suspected in this region or if the patient refers symptoms to the throat or neck.",
+        "Perform the study with the patient upright (or as nearly upright as possible).",
+        "Use \"thick barium\" (high-density, high-viscosity).",
+        "Record swallowing dynamics in both lateral and AP projections with a digital or photospot camera set at 4 frames per second and 90 kVp.",
+        "Record anatomy of the hypopharynx in AP and lateral projections while the patient is phonating.",
+        "Explain the procedure to the patient. You will count \"one, two, three\" out loud. For each swallow, the patient swallows barium on the count of \"three\", but you begin rapid sequence (4/sec) filming with the camera on the count of \"two\"."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lateral Projection"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Set the digital or photospot camera for 4 frames per second.",
+        "Begin the study with the patient in a lateral position. Aspiration of barium into the airway is much easier to detect in the lateral view than in the frontal projection.",
+        "Have the patient take a mouthful of barium.",
+        "Focus the fluoroscope on the hypopharynx.",
+        "Have the patient swallow on the count of \"three\" and watch this first bolus of barium from the hypopharynx to the GE junction. Quickly rule out laryngeal penetration or tracheal aspiration by looking at the larynx and trachea. Also exclude leakage into the mediastinum and esophageal obstruction.",
+        "Again, have the patient take a mouthful of barium. Center the fluoroscope over the hypopharynx and cervical esophagus (covering an area from the soft palate to the shoulders). Verify that the patient is in a true lateral position. Have the patient swallow the barium on the count of \"three\". Begin filming at 4 frames per second on the count of \"two\" and stop when the bolus passes beyond your field of view.",
+        "Take one lateral spot image while the patient distends the hypopharynx by phonating \"EEEEEE\"."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_4070752c69",
+      "alt": "Lateral view of the barium-coated posterior pharynx and hypopharynx"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lateral view of the barium-coated posterior pharynx and hypopharynx obtained during phonation demonstrates normal anatomy but also aspiration of barium into the larynx and trachea."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "AP Projection"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Repeat the rapid sequence (4/sec) filming procedure with the patient in the AP projection as for the lateral view. Make sure that the patient is in a true AP projection and that the patient's chin is elevated enough that the valleculae are not hidden by the mandible.",
+        "Obtain a single AP spot image of the distended hypopharynx while the patient phonates \"EEEEE\"."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_32f8404512",
+      "alt": "AP view of the barium-coated pharynx and hypopharynx"
+    },
+    {
+      "type": "paragraph",
+      "text": "AP view of the barium-coated pharynx and hypopharynx obtained during phonation demonstrates normal anatomy but also aspiration of barium into the larynx and trachea."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preliminary Information"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use \"bubbly barium\" (medium density, cold, carbonated) for the upright phase and \"thin barium\" (dilute, low density) for the horizontal phase of the study.",
+        "Radiographic techniques: 90 kVp photo-timed for double contrast (DC) films and 125 kVp for single contrast (SC) films."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Upright Phase"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patient stands on the footrest of the upright x-ray table. If the patient is incapable of standing, elevate the head of the table as much as is safely possible.",
+        "Rotate the patient into left posterior oblique (LPO) position. Place 1/2 cup of \"bubbly barium\" in the patient's left hand and ask them to drink it rapidly.",
+        "Fluoroscopically scan the esophagus while the patient swallows. Obtain two DC spot images to include the esophagus from clavicles to gastric cardia during maximal distention. Wait until bubbles disappear before taking each image. Do not have the patient stop breathing while making exposures.",
+        "Rotate the patient into right posterior oblique (RPO) position. Place 1/2 cup of \"bubbly barium\" in the patient's right hand. While the patient drinks, obtain two DC images of the same region as above."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Horizontal Phase"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The patient lies in right anterior oblique (RAO) position on the horizontal x-ray table and holds a cup of \"thin barium\" with the left hand.",
+        "Have the patient drink barium through a straw. Watch several individual swallows from the hypopharynx to the GE junction. Look for abnormal motility as well as anatomic lesions.",
+        "Take one SC spot of the barium-distended lower esophagus and gastric cardia during breath-holding. Take one SC spot of the same region during breath-holding and Valsalva maneuver to demonstrate a possible sliding hiatal hernia."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Overhead Films"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have the technologist take RAO and LAO 7\" x 17\" films of the entire thoracic esophagus while the patient continuously swallows \"thin barium.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "The Barium Tablet"
+    },
+    {
+      "type": "paragraph",
+      "text": "The barium tablet (BAR-TEST, Glenwood, Inc., Tenafly, NJ) is used to detect subtle esophageal strictures. The tablet of known diameter (1/2 inch or 12.7 mm) provides a gauge for determining the true size of the residual lumen at the site of an esophageal ring or stricture. A tablet diameter of 1/2 inch was selected because Schatzki demonstrated that patients with esophageal rings of less than 13 mm diameter invariably had dysphagia, and it corresponds to the diameter of the standard adult endoscope (13 mm)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indications for use of the barium tablet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Confirm or exclude a clinically significant stricture in any patient with a history of solid food dysphagia but no obvious cause.",
+        "Permit calculation of the true diameter of a constriction, since the magnification factor on the radiographs can be determined from the known size of the tablet."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Method"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The patient swallows the barium tablet with a small amount of water in the upright position. Transit of the tablet is followed fluoroscopically.",
+        "If the tablet passes through the esophagus without delay, the study is considered normal and symptoms are unlikely to be due to obstruction.",
+        "If the tablet holds up, the patient is asked to take one or two additional swallows of water. If the tablet still does not pass, this is abnormal. Have the patient swallow \"thin barium\" to allow simultaneous visualization of the tablet and the site causing the obstruction. Document this with spot films. The tablet will spontaneously disintegrate within 30 minutes."
+      ]
+    }
+  ]
+}

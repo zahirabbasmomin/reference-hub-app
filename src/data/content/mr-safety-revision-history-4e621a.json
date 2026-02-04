@@ -1,0 +1,24 @@
+{
+  "id": "mr-safety-revision-history-4e621a",
+  "title": "Revision History | MRI Safety Manual",
+  "source": "mr-safety-revision-history.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "REVISION HISTORY"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ACR Manual on MR Safety was published in 2020 as a web-based product. Content changes may take place as a result of changes in technology, clinical treatment, or other evidence-based decisions from the MR Safety Committee."
+    }
+  ]
+}

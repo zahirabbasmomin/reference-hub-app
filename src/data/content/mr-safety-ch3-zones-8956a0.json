@@ -1,0 +1,236 @@
+{
+  "id": "mr-safety-ch3-zones-8956a0",
+  "title": "Chapter 3: MR Safety Zones | MRI Safety Manual",
+  "source": "mr-safety-ch3-zones.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 3:"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Safety Zones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defining areas, zones, and environments located within the MR safety zones helps lend clarity to the rationale for organizing the MR facility into 4 zones. Key definitions pertinent to this, adapted from several sources [1-3], are below."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Controlled Access Area: The locally defined area around the MR system that contains the MR Environment (including its associated static magnetic field) to which access is controlled. Frequently, additional areas outside the MR Environment may also have access control."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Environment: The 3-D volume surrounding the MR system that contains both the Faraday shielded volume and the 0.90-mT field contour (9 gauss (G) line) (see discussion of 9 gauss line). This volume is the region in which a medical device might pose a hazard from exposure to the electromagnetic fields produced by the MR equipment and accessories and for which access control is part of the risk mitigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR Projectile Area: The area around the MR system in which ferromagnetic objects are at risk of becoming projectiles. As individual ferromagnetic objects could become projectiles at different distances from the MR system, there is no intention to define a specific boundary delimiting the margins of the MR Projectile Area. It is implicit that this is located in Zone IV, and strict access control and screening is essential to maintain safety related to projectiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The MR facility may be conceptually divided into 4 zones for MR safety purposes (Figure 2)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 2. Schematic representation of the ACR 4-zone model. This diagram is an example intended for educational illustration purposes only; individual sites should tailor their space to best serve their individual setting and clinical and/or research needs while maintaining MR safety. This MR Functional Diagram was obtained and modified with the permission of the “Department of Veterans Affairs Office of Construction & Facilities Management, Strategic Management Office.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MR Projectile Area, MR Environment, and MR Controlled Access Area and their relationship to the 4 ACR MR Safety Zones are illustrated in this adaptation of the pertinent figure in the Medicines and Healthcare products Regulatory Agency document [1] (Figure 3)."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 3. Illustrated example layout of an MR facility. This is adapted from Figure 1 in the Medicine and Healthcare products Regulatory Agency Safety Guidelines for Magnetic Resonance Imaging Equipment in Clinical Use [1]. Note depictions of “MR Controlled Access Area,” “MR Environment,” and “Projectile Area” as they relate to the 4-zone model."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone IV. Zone IV is synonymous with the MRI scanner room and is comprised of the physical walled confines where the scanner is located. It includes the MR Projectile Area where there is definite, potentially lethal projectile risk. Zone IV, by definition, is generally located within a surrounding MR Controlled Access Area. Note that in some special environments, such as"
+    },
+    {
+      "type": "paragraph",
+      "text": "perioperative MR (see Alternative MR Environments), the precise boundaries of Zone IV and Zone III can be in flux depending on the clinical situation and configuration [1]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone IV should be clearly labeled as being potentially hazardous because of the presence of the very strong magnetic fields. The entrance to Zone IV with a superconducting magnet should also be clearly marked with a prominently displayed red illuminated warning sign stating, “The Magnet is Always On.” Illuminated signs should have a battery backup energy source in case of power failure. In the case of resistive MR systems, the sign may be active only when the magnet is energized."
+    },
+    {
+      "type": "paragraph",
+      "text": "The entry door to Zone IV (i.e., the MR scanner room) should be closed except when it must remain open for patient care or room/MR system maintenance. During the times that the door to the MR system room must remain open, a “caution” barrier is recommended at the entry to Zone IV to inhibit unintended passage of personnel and/or materials from Zone III to IV. Examples of caution barriers include easily adjusted straps, plastic chains, or other deployable barrier devices secured across the doorway to Zone IV (Figure 4). Strictly controlled entrance to Zone IV is a critical safety consideration for the prevention of ferromagnetic objects entering the room. As such, when the entry door to Zone IV is not being actively monitored by MR Personnel, it is advised that it remains closed and preferably locked. There should be the ability to unlock the Zone IV door from the inside. Periodic inspection and maintenance of the Zone IV door and associated locks, handles, articulating arms, etc., is recommended to minimize the likelihood of failures that may lead to entrapment or inability to reach the patient in a timely manner."
+    },
+    {
+      "type": "paragraph",
+      "text": "There should be a readily accessible communication system or emergency call button within Zone IV that allows personnel to quickly contact security or request help."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 4. Examples of door barriers to Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone III. Zone III primarily includes MR Controlled Access Areas where there is direct doorway access to Zone IV. A common Zone III could serve multiple scanners (Zone IVs). In addition, areas where the magnetic field (i.e., greater than 9 gauss) extends into spaces not connected directly by doorway to Zone IV and considered a B0 hazard risk area are also considered MR Controlled Access Areas and, as such, are included in the Zone III designation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrance to the primary Zone III area should be restricted by reliable key locks, locking systems controlled by access control cards/badges with radiofrequency identification or similar technology, or any method to ensure appropriate access by designated personnel. The use of combination locks is specifically not recommended because combination codes often become more widely distributed than intended, with the possibility of unauthorized access. Doors should be self-closing and self-locking, particularly when in direct contiguity with a Zone IV doorway."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrances to Zone III should be identified with signage denoting the Zone III space. Statements on these signs could include “Caution,” “Restricted Access,” “Screened MRI Patients and Personnel Only,” and similar statements and should be pertinent to the particular space (i.e., in contiguity with Zone IV or, alternatively, in a noncontiguous Zone IV space in which there is 9 gauss or greater field intrusion, such as in an adjacent equipment room)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Being 3-D, static magnetic fields may project beyond the confines of the Zone IV room on the same floor as well as into adjacent upper and lower floors, necessitating their designation as a space under the umbrella of an MR Controlled Access Area. Magnetic fringe fields of sufficient magnitude can present a hazard to individuals with certain active implants, such as cardiac pacemakers and implantable cardioverter defibrillators."
+    },
+    {
+      "type": "paragraph",
+      "text": "Historically, the 5-gauss line (0.50 mT field contour) has been a standard threshold for risk. A magnetic fringe field of 5 gauss (0.5 mT) has previously been synonymous with the “pacemaker line” for MR safety. Cardiac implantable electronic device manufacturers are required to demonstrate that these devices are immune to static magnetic fields up to 10 gauss (1.0 mT) (ISO 14117: 2019) [4], which has particular importance for devices that continue to use a reed switch or other sensitive switch for patient therapy control. Thus, prior International Electrotechnical Commission (IEC) standards for the basic safety of MR equipment specified 5 gauss to provide a substantial safety margin (IEC 60601-2-33:2002) [5]. A recent update to the IEC standard has revised the fringe field limit to 9 gauss (0.9 mT) (IEC 60601-2-33:2022) [6]. It is anticipated that MR system manufacturers will include instructions to control access to 9 gauss in the future, which allows for 1 gauss tolerance variability in the cardiac pacemaker test method. The FDA recognizes the new IEC standard of the 9-gauss line defining the B0 hazard area. The ACR MR Safety Committee endorses the new IEC standard. Herein and throughout the rest of the MR Safety Manual, the ACR MR Safety Committee refers to the B0 hazard area as the space located within the 9-gauss line. Because the 9-gauss line is located within the 5-gauss line (i.e., it is closer to the magnet), those facilities following previous recommendations to use the 5-gauss line as the B0 hazard zone should not be expected to make additional adjustments."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a Zone III region exceeding 9 gauss, an item might pose a hazard from exposure to the electromagnetic fields produced by the MR equipment and accessories [3]. For example, there is the possibility of interaction with implanted electronic medical devices such as cardiac pacemakers if they come within the 9-gauss line that extends beyond Zone IV confines into areas on adjacent floors. For this reason, magnetic field–strength spatial plots for all MRI systems should be analyzed in both horizontal and vertical orientations, identifying areas around, above, and/or below the scanner that may pose potential hazards. These potentially harmful access areas should be clearly identified, and their potential hazard should be clearly marked, even in typically unoccupied areas such as rooftops or storage and equipment rooms. Given its proximity to Zone IV, ferromagnetic objects, including those brought by patients, visitors, contractors, and others, should be restricted from entering Zone III whenever practical. (Note: see the Introducing Portable Metallic Objects and Equipment into Zone III and IV section for additional guidance in Zone III.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that in Zone III regions in which there is direct doorway contiguity with Zone IV (e.g., in typical clinical scanning technologist control rooms), MR Personnel are expected to closely monitor entry of MR Personnel and non-MR Personnel. There is no expectation that MR Personnel closely monitor entry into noncontiguous regions designated as Zone III (e.g., adjacent equipment rooms), although key card access is to be restricted to properly vetted MR Personnel and others as dictated by the site’s MR safety policies and standard operating procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone II. This area is the interface between the publicly accessible, uncontrolled Zone I and the strictly controlled areas of Zones III and IV. This area typically contains a patient waiting area, patient prep areas, locker rooms, etc. Screening and ferromagnetic detection is often performed in Zone II. Access control to Zone II with personal badges is commonly used so that patients and companions must be allowed to enter into Zone II by MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone I. This region includes all areas that are freely accessible to the general public. This area is outside the MR facility itself and is the area through which patients, health care personnel, and other employees of the MR facility access the MR environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cryogen Venting Zone. During the quench of a superconducting magnet in which there is a loss of superconductivity, external cryogen vents are associated with potential hazards (e.g., frostbite and/or asphyxiation) given the typical explosive-like rapid venting of cryogen gases. The cryogen vents (typically located on the roof or on an outside wall of the facility) should have access restricted around them to personnel who have been educated about the risks associated with cryogen gas and should be labeled with appropriate signage (Figure 5). See Appendix 2 for further information on cryogen venting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although previously designated as Zone III, the area of the facility with the cryogen vents is conceptually different than Zone III in the MR suite (i.e., between Zone II and Zone IV). Some of these differences may include the lack of exposure to the magnetic field, lack of direct access to Zone IV, and the impracticality of having MR Personnel monitoring its access at all times, a requirement for the traditional Zone III in the MR suite. For these reasons, this area is now considered a separate zone, the Cryogen Venting Zone. However, facilities must use signage and ensure controlled access by other means (e.g., restricted access to the facility roof, physical barriers, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Site planning. Many issues can impact MR safety that should be considered during site planning. This document includes information in separate sections and appendices that address such issues, including cryogen vent locations and pathways, tether anchor point placement, patient access pathways, and other design considerations. It is advantageous during the facility planning process, especially with higher field magnets (i.e., 3 T and 7 T), that efforts are made to limit excessive static field extension outside the physical confines of the Zone IV magnetic fringe field (see 9 gauss fringe field discussion in Zone III paragraphs above). Plans should be carefully reviewed with those experienced with MR site planning and familiar with the patient safety and patient flow considerations prior to committing construction to a specific site design. Enlisting assistance from an architectural firm experienced with MR site design early in the planning process is anticipated to be beneficial. See Appendix 2 for further information on MR Facility Safety Design Guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIGURE 5. Example of a cryogen vent with signage."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR facility is conceptually divided into 4 zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone IV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Located within the MR Controlled Access Area and MR Environment. In most cases, it uniquely includes the MR Projectile Area."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Magnet is Always On” signage must be visible under all conditions for superconducting systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone IV MR system room door will be closed at all times except for patient transport, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "A caution barrier is recommended to prevent unauthorized access to Zone IV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone III"
+    },
+    {
+      "type": "paragraph",
+      "text": "Located within the MR Controlled Access Area."
+    },
+    {
+      "type": "paragraph",
+      "text": "The MR Environment and an associated 9-gauss line may be found to extend outside the confines of Zone IV into Zone III control room areas, or possibly adjacent noncontiguous areas such as equipment rooms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrances to Zone III should be identified with appropriate signage denoting the Zone III space and appropriate access control utilized."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone II"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interface between the publicly accessible, uncontrolled Zone I and the MR Controlled Access Area."
+    },
+    {
+      "type": "paragraph",
+      "text": "Typically includes patient waiting, changing, nursing preparation area, patient screening including ferromagnetic detection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although no part of the Controlled Access Area, access to this area is often restricted to MR Personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone I: Freely accessible to the general public."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cryogen Venting Zone"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR-related potentially hazardous environmental areas requiring access control and signage."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSACR: American College of RadiologyASTM: American Society for Testing and MaterialsB0: static magnetic fieldCIED: cardiac implantable electronic deviceFDA: Food and Drug AdministrationG: gaussIEC: International Electrotechnical CommissionMHRA: Medicines and Health Care products Regulatory AgencymT: milliteslaRFID: radiofrequency identificationT: teslaKEY ABBREVIATIONSACR: American College of RadiologyASTM: American Society for Testing and MaterialsB0: static magnetic fieldCIED: cardiac implantable electronic deviceFDA: Food and Drug AdministrationG: gaussIEC: International Electrotechnical CommissionMHRA: Medicines and Health Care products Regulatory AgencymT: milliteslaRFID: radiofrequency identificationT: tesla"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicines and Healthcare products Regulatory Agency. Safety guidelines for magnetic resonance imaging equipment in clinical use. Published November 7, 2014. Accessed April 22, 2024. https://www.gov.uk/government/publications/safety-guidelines-for-magnetic-resonance-imaging-equipment-in-clinical-use#full-publication-update-history"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Food and Drug Administration. Testing and labeling medical devices for safety in the magnetic resonance (MR) environment: guidance for industry and Food and Drug Administration staff. Published October 10, 2023. Accessed April 22, 2024. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "American Society for Testing Materials International. Standard practice for marking medical devices and other items for safety in the magnetic resonance environment. Published October 24, 2023. Accessed April 22, 2024. doi: 10.1520/F2503-23E01"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Organization for Standardization. Active implantable medical devices. Published September 2019. Accessed April 22, 2024. https://www.iso.org/standard/73915.html"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Electrotechnical Commission. Medical electrical equipment - Part 2-33: Particular requirements for the safety of magnetic resonance equipment for medical diagnosis. 2nd ed. Published May 22, 2002. Accessed April 22, 2024. https://webstore.iec.ch/publication/16871"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Electrotechnical Commission. Medical electrical equipment - Part 2-33: Particular requirements for the safety of magnetic resonance equipment for medical diagnosis. 4th ed. Published August 4, 2022. Accessed April 22, 2024. https://webstore.iec.ch/publication/67211"
+    }
+  ]
+}

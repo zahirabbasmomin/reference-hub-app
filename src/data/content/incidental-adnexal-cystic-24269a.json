@@ -1,0 +1,17 @@
+{
+  "id": "incidental-adnexal-cystic-24269a",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-adnexal-cystic.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

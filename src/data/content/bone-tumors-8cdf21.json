@@ -1,0 +1,227 @@
+{
+  "id": "bone-tumors-8cdf21",
+  "title": "Bone Tumors - Differential Diagnosis",
+  "source": "bone-tumors.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Systematic approach to bone lesions: zone of transition, periosteal reaction, cortex, matrix, location, and multiplicity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: Radiology Assistant \"Bone tumors - Differential diagnosis\". Images embedded locally."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Systematic Approach"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with patient age, lesion location (epiphysis/metaphysis/diaphysis, axial vs appendicular), and the most aggressive imaging feature."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_8939df5fb6",
+      "alt": "Bone tumor overview"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c0fed1a750",
+      "alt": "Three-question approach"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_33b379636f",
+      "alt": "Approach summary"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zone of Transition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Narrow zone suggests slow growth/benign; wide or ill-defined transition suggests aggressive or malignant process (including infection or EG)."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_fffa81d29d",
+      "alt": "Narrow zone key points"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_94d8c227eb",
+      "alt": "Narrow zone examples: NOF, SBC, ABC"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_a36e8aa4ba",
+      "alt": "Metastatic lesions illustration"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_0f3ab65138",
+      "alt": "Wide zone indicates aggressiveness"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Periosteal Reaction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Smooth, uninterrupted periosteal reaction is typically benign/stress/healing; aggressive patterns include lamellated, spiculated, or Codman triangle."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_68deb65eed",
+      "alt": "Periosteal reaction overview"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_0fe71f6c09",
+      "alt": "Periosteal reaction examples"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_31a6209a19",
+      "alt": "Periosteal reaction types"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_21208401be",
+      "alt": "Benign periosteal reaction"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_339cb51a3a",
+      "alt": "Periosteal quick reference"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7cc8ea8f16",
+      "alt": "Aggressive periosteal reaction"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cortex and Expansion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evaluate cortical destruction, ballooning, and soft-tissue mass."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_aeb74aa8f4",
+      "alt": "Cortical destruction examples"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_a132b09b22",
+      "alt": "Ballooning examples"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_e617dbe029",
+      "alt": "Permeative cortical destruction with soft-tissue mass"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Location Patterns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Location within the skeleton guides differential."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_f7eacbe447",
+      "alt": "Common locations overview"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_8939df5fb6",
+      "alt": "Location-based overview"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Centricity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eccentric vs central positioning within the bone can narrow differential diagnoses."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c5222d2180",
+      "alt": "Centric vs eccentric lesions"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Matrix"
+    },
+    {
+      "type": "paragraph",
+      "text": "Matrix mineralization pattern (chondroid, osteoid, fibrous) aids diagnosis."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_fb2622d560",
+      "alt": "Chondroid matrix"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_4bf769f2e4",
+      "alt": "Osteoid matrix examples"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Multiplicity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiple lesions shift the differential toward metastases, myeloma, LCH, or multifocal benign entities."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_bcfbd41ba0",
+      "alt": "Multiple lesions examples"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_01f9224167",
+      "alt": "Vertebral lesion example 1"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_8c7bc41d16",
+      "alt": "Vertebral lesion example 2"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_4d6e5fe549",
+      "alt": "Foot lesion 1"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_ac01e726b6",
+      "alt": "Foot lesion 2"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_11b8ce107b",
+      "alt": "Foot lesion 3"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_2b4feb7b55",
+      "alt": "Authors"
+    }
+  ]
+}

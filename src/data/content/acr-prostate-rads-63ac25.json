@@ -1,0 +1,194 @@
+{
+  "id": "acr-prostate-rads-63ac25",
+  "title": "ACR Prostate RADS (PI-RADS v2.1)",
+  "source": "acr-prostate-rads.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: PI-RADS(R) v2.1 (ACR-ESUR-AdMeTech, 2019)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dominant sequence: Peripheral Zone (PZ) -> DWI; Transition Zone (TZ) -> T2W. DCE only upgrades PZ DWI 3 to PI-RADS 4.",
+        "Size/EPE upgrade: dominant score 4 lesion >=1.5 cm or definite extraprostatic extension (EPE) -> PI-RADS 5.",
+        "Use X if T2W, DWI, or DCE is inadequate; follow v2.1 alternative tables when a component is missing.",
+        "Index lesion = highest PI-RADS category (or most concerning size/location if tied)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zone Caveats"
+    },
+    {
+      "type": "list",
+      "items": [
+        "CZ: symmetric low T2/ADC, mild high b-value around ejaculatory ducts; asymmetry or focal early enhancement may indicate tumor.",
+        "AFMS: low T2/ADC like muscle, no early enhancement; increased signal, asymmetry, or mass suggests extension from PZ/TZ.",
+        "Prostatitis: diffuse/linear/lobar PZ changes less suspicious than rounded foci.",
+        "BPH in TZ: encapsulated round/oval nodules (even if restricting/enhancing) are BPH and need no PI-RADS category."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "T2W Scoring"
+    },
+    {
+      "type": "paragraph",
+      "text": "Separate criteria for TZ and PZ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DWI Scoring"
+    },
+    {
+      "type": "paragraph",
+      "text": "ADC plus high b-value DWI; compare to normal tissue in same zone."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DCE Scoring & Notes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tech: temporal <=15 s, total >2 min; 3D T1W GRE preferred; fat suppression/subtraction recommended; 0.1 mmol/kg at 2-3 cc/s."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When Components Are Inadequate"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Technique (Quick Specs)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "T2W: axial + orthogonal plane(s); 3 mm, no gap; FOV ~12-20 cm; in-plane <=0.7 x <=0.4 mm.",
+        "T1W: axial; hemorrhage/outline; optional fat suppression; can assess nodes/bone with contrast.",
+        "DWI: low b 50-100, intermediate b 800-1000 (<=1000 for ADC), high b >=1400; slice <=4 mm no gap; FOV 16-22 cm; TE <=90 ms, TR >=3000 ms.",
+        "DCE: 3D T1W GRE; slice 3 mm no gap; in-plane <=2 x <=2 mm; temporal <=15 s; total >2 min; 0.1 mmol/kg at 2-3 cc/s."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DWI Caveats"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Standardize ADC windowing per scanner; clinically significant cancers should appear markedly hypointense on ADC.",
+        "Calcifications/fibrosis/blood products are dark on both ADC and high b-value (no high-b signal).",
+        "Encapsulated/round BPH nodule in PZ/CZ = category 2 even if ADC dark.",
+        "Non-encapsulated BPH nodules in TZ may restrict; morphology remains a limitation.",
+        "Markedly = more pronounced signal change than any other focus in same zone."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DCE Caveats"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Always correlate with T2W/DWI; focal enhancement usually matches a T2W/DWI finding.",
+        "Diffuse enhancement usually inflammation; infiltrative cancers uncommon and show other sequence abnormalities.",
+        "DCE may prioritize multiple lesions (largest DCE-positive as index if otherwise equal).",
+        "Some sparse tumors may be seen only on DCE; often low grade or prostatitis mimics."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bi-parametric MRI (bpMRI) Notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pros: avoid GBCA, shorter exam, lower cost. Cons: possible sensitivity loss; DCE is a safety net when DWI/T2W degraded.",
+        "mpMRI preferred: prior negative biopsy with persistent suspicion; active surveillance with rising concern; prior interventions/therapy; high-risk men (family/genetics/PSA kinetics/genomics); expected DWI artifacts (e.g., hip implants).",
+        "Without DCE, PZ DWI 3 lesions not upgraded -> more PI-RADS 3, fewer 4; adjust pathways accordingly."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Staging & Caveats"
+    },
+    {
+      "type": "list",
+      "items": [
+        "EPE: NVB invasion, bulging/spiculated capsule, rectoprostatic angle obliteration, capsule breach, tumor-capsule interface >1 cm.",
+        "SVI: low T2, enhancement, restricted diffusion, loss of angle with base, direct extension.",
+        "Nodes: suspicious if short axis >8 mm or morphologic concern; evaluate pelvic chains to aortic bifurcation.",
+        "Inspect apex/external urethral sphincter for invasion (surgical/radiation implications)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Workflow Diagram"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone -> dominant sequence -> score -> size/EPE upgrade -> optional DCE tie-breaker (PZ DWI 3) -> assign PI-RADS."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sector Map (Schematic)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Simplified 16-sector map for localization."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use sector map for lesion localization and reporting."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting Tips"
+    },
+    {
+      "type": "list",
+      "items": [
+        "State lesion location (sector), size, zone, PI-RADS category, index lesion.",
+        "Note EPE, SVI, NVB involvement; nodes and bone findings.",
+        "Include PSA/date and prior biopsy dates if available; declare if any sequence is inadequate (X)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full PDF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Original PI-RADS v2.1 document with all diagrams/tables."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Source"
+    },
+    {
+      "type": "paragraph",
+      "text": "PI-RADS(R) v2.1 (2019) ACR-ESUR-AdMeTech. PDF: link."
+    }
+  ]
+}

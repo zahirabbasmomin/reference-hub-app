@@ -1,0 +1,212 @@
+{
+  "id": "upper-gi-series-e6a706",
+  "title": "Upper GI Series",
+  "source": "upper-gi-series.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: upper_gi_series.docx."
+    },
+    {
+      "type": "paragraph",
+      "text": "A number of radiographic techniques have been described for examining the upper GI tract. The double-contrast exam uses a small amount of high-density barium to coat the mucosa plus air or CO2 to distend the lumen, which provides excellent definition of the lesser and greater curvatures and posterior wall of the stomach, but the anterior wall of the distal stomach and duodenum is difficult to obtain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The single-contrast graded-compression technique uses low-density barium and graded compression to see the anterior wall en face. The biphasic-contrast exam combines the best features of both methods using a medium-density suspension given with a gas-producing agent (cold, carbonated \"bubbly barium\" from a soda siphon)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Day before use: soda siphon filled with 1 liter of \"bubbly barium\" (96.8% W/V): 850 mL Entero H barium, 100 mL water, 0.6 mL Mylicon drops. Refrigerate overnight.",
+        "Day of use: shake siphon well, add CO2 cartridge, place siphon in bucket of ice, and shake vigorously before each use.",
+        "\"Thin barium\" (low-density, low viscosity): 1 jug Barosperse powder (900 gm) + 900 mL water.",
+        "Glucagon: 0.2 mg in 1 mL syringe (0.3 mg for new residents).",
+        "Balloon compression paddle.",
+        "Lead glove or mitten to cover hand when using compression paddle."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use the largest appropriate fluoroscopic FOV for scanning to reduce dose. Each magnification step roughly doubles radiation output; coning-in improves image quality and reduces dose. Use intermittent or pulsed fluoro. Do not have a lead foot.",
+        "Attempt a biphasic-contrast exam on all patients. If the patient is uncooperative or too debilitated, complete as single-contrast by skipping DC portions.",
+        "Question the patient about relevant symptoms, prior abdominal surgery, NPO status since midnight, and the possibility of pregnancy.",
+        "Explain the procedure and breath-holding. Caution the patient not to belch after drinking the bubbly barium.",
+        "If both a cervical esophageal barium swallow and UGI are needed, start with UGI and perform the hypopharynx/cervical esophagus exam at the end."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "With the patient supine, inject 0.2 mg glucagon IV (consider 0.3 mg for trainees who are slow).",
+        "Raise table upright. Patient stands on footrest with back against table. If unable to stand, elevate head 30-45 degrees. Quickly scan abdomen for contraindications (free air or residual barium).",
+        "Shake chilled soda siphon vigorously and dispense bubbly barium into a 10 oz cup (half full). Patient holds cup in left hand.",
+        "Rotate patient into LPO. Patient drinks 1/2 cup of bubbly barium quickly and does not belch. Scan esophagus while swallowing. Obtain two DC spots: upper esophagus and lower esophagus/gastric cardia at maximal gas distention after bubbles disappear. Collimate side-to-side before esophageal spots.",
+        "Refill cup half full. Repeat spots in RPO while patient holds cup in right hand and drinks another 1/2 cup. Do not ask the patient to stop breathing or swallowing during exposures."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_283f79d796",
+      "alt": "Upper esophagus double-contrast spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_8de1435f7f",
+      "alt": "Lower esophagus double-contrast spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_9e7f43fbc1",
+      "alt": "Gastric cardia double-contrast spot"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Return table to horizontal. Provide pillow for head.",
+        "Have patient roll counter-clockwise through three 360-degree rotations, stopping in steep LPO or left lateral position to improve barium coating while CO2 distends the stomach.",
+        "Take four DC spots from distal to proximal stomach (use 9\" or 6\" FOV): gastric antrum (LPO), gastric body inferior (supine AP), fundus (right lateral), and gastric body superior (RPO; elevate head 15 to prevent barium reflux into fundus)."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_751778bf72",
+      "alt": "Gastric antrum DC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_010684754f",
+      "alt": "Gastric body inferior DC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_7450ebc3b6",
+      "alt": "Fundus DC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_b1fd080819",
+      "alt": "Gastric body superior DC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1b3501ed26",
+      "alt": "Fundus DC spot alternate"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3ae6effcc5",
+      "alt": "Fundus DC spot alternate 2"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_63c2255bdc",
+      "alt": "Gastric body superior DC spot alternate"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_e92e920a49",
+      "alt": "Gastric body superior DC spot alternate 2"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Have patient rotate again counter-clockwise to refresh mucosal coating, stopping in steep LPO.",
+        "Take four DC spot images of the entire stomach with the largest FOV: LPO, AP (supine), RPO (turn to right lateral and elevate head 15 before rolling to RPO), and right lateral (wait until duodenal C-loop is sufficiently filled)."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_63b0836dad",
+      "alt": "Stomach DC spot LPO"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_d30912c27c",
+      "alt": "Stomach DC spot AP"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_9586c0c45c",
+      "alt": "Stomach DC spot RPO"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_0e6c4b5a2f",
+      "alt": "Stomach DC spot right lateral"
+    },
+    {
+      "type": "list",
+      "items": [
+        "After DC exam of esophagus and stomach, perform SCGC spots. Turn patient into RAO. Place compression paddle beneath patient and inflate balloon to compress duodenal bulb.",
+        "Take one SCGC spot of the duodenal bulb and one SC spot of the distended proximal duodenal loop.",
+        "Turn table upright and use compression cone to obtain graded compression of the duodenal bulb; take two SCGC spots (6\" or 9\" FOV).",
+        "Using compression cone, take four SCGC spots (6\" or 9\" FOV) of: gastric antrum (LPO), gastric antrum/body (LPO or AP), gastric body (AP), and gastric body/fundus (RPO)."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_cdcf7d3370",
+      "alt": "Duodenal bulb SCGC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_258201252f",
+      "alt": "Proximal duodenal loop SC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_77a00b29a0",
+      "alt": "Gastric antrum SCGC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_f546dcb871",
+      "alt": "Gastric antrum/body SCGC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_196c7f5462",
+      "alt": "Gastric body SCGC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_4d125f3dc9",
+      "alt": "Gastric body/fundus SCGC spot"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Turn patient into LPO. Quickly scan mediastinum to ensure esophagus is empty of barium. Return table horizontal. Take two DC spots of duodenal bulb and two DC spots of air-filled duodenal C-loop (6\" or 9\" FOV).",
+        "Observe for spontaneous gastroesophageal reflux as patient turns counter-clockwise into RAO.",
+        "Return to largest FOV and collimate side-to-side. Have patient drink several single swallows of dilute, non-carbonated barium through a straw. Observe esophageal motility and anatomic lesions. Take one SC spot of barium-distended lower esophagus and gastric cardia during breath-holding and one SC spot during Valsalva to evaluate for sliding hiatal hernia.",
+        "Have technologist take one overhead film (14\" x 17\", 125 kVp) with patient prone."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_3e006e510d",
+      "alt": "Duodenal bulb and C-loop DC spots"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_67b58a28ce",
+      "alt": "Lower esophagus and cardia SC spot"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_e0338ddd2f",
+      "alt": "Overhead prone film"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Op den Orth JO, Ploem S: The standard biphasic-contrast gastric series. Radiology 1977; 122:530-532.",
+        "Op den Orth JO: The Standard Biphasic Contrast Examination of the Stomach and Duodenum. Methods, Results and Radiological Atlas. Martinus Nijhoff, The Hague, 1979.",
+        "de Lange EE, Shaffer HA Jr.: Barium suspension formulation for use with the bubbly barium method. Radiology 1985; 154:825.",
+        "de Lange EE, Shaffer HA Jr, Croft BY. Radiographic examination of the stomach: Comparison of single-, double-, and biphasic-contrast methods. European J Radiol 1990; 10:167-174."
+      ]
+    }
+  ]
+}

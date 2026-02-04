@@ -1,0 +1,17 @@
+{
+  "id": "incidental-pancreatic-cystic-ae1a46",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-pancreatic-cystic.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

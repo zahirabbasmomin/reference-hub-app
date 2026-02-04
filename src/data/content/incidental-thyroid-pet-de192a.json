@@ -1,0 +1,17 @@
+{
+  "id": "incidental-thyroid-pet-de192a",
+  "title": "Incidental Decision Tree",
+  "source": "incidental-thyroid-pet.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interactive outline"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Original image"
+    }
+  ]
+}

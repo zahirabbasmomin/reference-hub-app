@@ -1,0 +1,26 @@
+{
+  "id": "windy-hill-hospital-contacts-c5ade7",
+  "title": "Windy Hill Hospital Contacts",
+  "source": "windy-hill-hospital-contacts.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contacts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chief Technologists & Modality Contacts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Imaging Management Contacts"
+    }
+  ]
+}

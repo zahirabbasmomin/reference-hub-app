@@ -1,0 +1,384 @@
+{
+  "id": "mr-safety-ch15-special-pops-730ece",
+  "title": "Chapter 15: Special Patient & Personnel Considerations | MRI Safety Manual",
+  "source": "mr-safety-ch15-special-pops.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 15:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Special Patient and Personnel Considerations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregnancy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Health care practitioner pregnancies. Pregnant health care practitioners are permitted to work in and around the MR environment, including Zone III and IV throughout all stages of their pregnancy [1]. There are no restrictions of activities in Zone III. Physical presence in Zone IV is permissible for all activities when there is no active scanning occurring. Although there is no current evidence that exposure to the MR environment during scanning causes harm to the fetus, it seems prudent that pregnant staff, both MR Personnel and non-MR Personnel, should not be in Zone IV during scanning due to the currently unknown side effects of prolonged interactions with the radiofrequency (RF) field and acoustic noise [2]. For example, the effects of acoustic noise to the fetus in the occupational setting is unknown [3]. There is no data available to date regarding human pregnancy exposures to 7-T and higher static magnetic fields."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patient pregnancies. The vast majority of data today has failed to show that exposure to MR has deleterious effects on the developing fetus [4-6]. Nevertheless, there are indications that the embryo is potentially more sensitive to thermal events in the first trimester. To this end, if pregnancy is established, the decision to proceed with a noncontrast MR study in the Normal Operating Mode for a whole body–averaged specific absorption rate (SAR; ≤2 W/kg) should be based on the medical benefits weighed against unknown potential risk."
+    },
+    {
+      "type": "paragraph",
+      "text": "The preponderance of research studies has failed to demonstrate any reproducible harmful effects of exposure of the mother or developing fetus to the 3-T or weaker magnetic fields used in the routine clinical MR practice [7,8]. Theoretical concerns include time-varying gradient and RF magnetic fields, potential acoustic noise–related issues, and heat deposition in tissue, respectively. There is little peer-reviewed literature regarding the acoustic safety of fetal scanning, but the majority of published material on this topic has failed to find deleterious effects on newborn hearing when exposed to MRI in utero [9-14]. The thermal-related theoretical concerns are addressed by results from experiments in pregnant pigs exposed to standard MR sequences commonly used in clinical practice that are associated with relatively high SAR levels (i.e., half-Fourier single-shot spin-echo). Such studies failed to demonstrate substantial heating in fetal tissues or amniotic fluid when imaging at 3 T with the MR system operating in the Normal Operating Mode (whole body–averaged SAR, 2 W/kg) and a maximum scan time of 30 minutes [15,16]. Thus, the ACR Manual on MR Safety supports the clinical use of MR imaging for patients known or suspected to be pregnant under the following conditions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR system up to 3T in Normal Operating Mode (Whole body-averaged-SAR, 2-W/kg); 2) there is expected benefit to the patient and/or fetus from performing the exam; 3) There is no other practical way to obtain the same information for patient care [7]. The American College of Obstetricians and Gynecologists clinical guidelines acknowledge MR and ultrasound (US) as the ‘imaging techniques of choice for the pregnant patient, but they should be used prudently and only when use is expected to answer a relevant clinical question or otherwise provide medical benefit to the patient’ [17]. The risks of exposure to MR fields >3T are currently unknown. The ACR Committee on MR Safety also supports the enrollment of pregnant research participants for research studies using MR systems up to 3T to investigate conditions related to"
+    },
+    {
+      "type": "paragraph",
+      "text": "pregnancy if they are willing to consent to participate in the research study. However, the enrollment of pregnant patients for other research studies to investigate conditions not related to pregnancy with MRI is discouraged."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use of gadolinium-based contrast media. The committee supports the recommendations of the ACR Manual on Contrast Media in relation to the administration of gadolinium-based contrast media to pregnant or potentially pregnant patients: MR contrast agents should not be routinely administered to pregnant patients [18,19]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, there is widespread consensus that avoiding gadolinium-based contrast media (GBCM) in pregnancy is prudent [18]. The decision to administer GBCM is typically made according to the institutional contrast policy, on a case-by-case basis, by the responsible Level 2 MR Physician who can assess the risk versus benefit ratio for that particular patient. While additional research is needed, one paper suggested that exposure to GBCM at any time during pregnancy has been associated with an increased risk of a broad set of rheumatological, inflammatory, or infiltrative skin conditions and risk of stillbirth or neonatal death [20]. Thus, the decision should be accompanied by thoughtful risk-benefit analysis and well-documented with written informed consent. This analysis should be able to defend a decision to administer the contrast agent based on the potential benefit to the patient or fetus outweighing the potential risks of exposure of the developing fetus to a GBCM."
+    },
+    {
+      "type": "paragraph",
+      "text": "A 2019 paper highlighted an increased exposure level of first trimester pregnancies to GBCM, suggesting that increased screening and vigilance may be warranted when administering these contrast agents to potentially pregnant patient populations [21]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pediatric MR Safety Concerns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pediatric patients may present with additional MR safety concerns, including potentially increasing projectile risks in Zone IV, as well as body temperature considerations, and obtaining nondiagnostic MR examinations due to the inability to cooperate [22]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Projectile risks and the need for enhanced screening have been discussed in Chapter 5: MR Screening."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the neonatal and the young pediatric population, special attention is needed in monitoring body temperature for both hypo- and hyperthermia as well as other vital signs [22]. MR Conditional temperature-monitoring equipment that is approved for use in the MR suite is readily available. Commercially available neonatal isolation transport units and other warming devices intended to be used in the MR environment are also available. In addition, as an option for performing MRI exams in neonatal patients at the “point of care,” there is now a head-only scanner specially designed for this patient population [23]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Particular attention should be paid to the body temperature of neonates and infants while in the MRI environment [22]. In a study by Don Paul et al [24], only 43% of infants were normothermic upon return to the neonatal intensive care unit (NICU) following MRI, suggesting that MRI-related unintentional hypothermia is common unless proactively managed. Predictors of a post-MRI decrease in body temperature in neonates and infants include younger age, lower weight, lower pre-MRI temperature, use of propofol as the primary anesthetic, use of an advanced airway device, and being outside the NICU [25]. In the event that the pediatric patient requires"
+    },
+    {
+      "type": "paragraph",
+      "text": "sedation/anesthesia, the ACR MR Safety Committee defers to the American Society of Anesthesiologists on pediatric sedation guidelines [26-29]. Alternative methods to facilitate compliance without sedation/anesthesia should be considered (e.g., fast/accelerated MR sequences, engagement of child life specialists, MR Conditional video entertainment headsets)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Claustrophobia, Anxiety, and Sedation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adult and pediatric patient anxiolysis, sedation, analgesia, and anesthesia for any reason should follow established ACR practice parameters [30], American Society of Anesthesiologists [26-29], and The Joint Commission standards [31]. Implementation of SOPs and policies for the management of claustrophobic/anxious patients is recommended. Similarly, sites should develop policies for the release of patients who receive sedation. For example, the requirement of a responsible person, 18 years of age or older, to accompany and drive the patient after an MR procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Large Body Habitus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Very large patient/research participant body habitus is an MR safety concern primarily due to inherent risk of RF burns. As noted in earlier sections of this manual (see Chapter 8: RF section), contact or excessive proximity to the bore of the magnet can result in near field RF burns, and appropriate insulating pad thickness and positioning about the patient/subject is essential to prevent burns. Ensuring adequate appropriately placed padding can be difficult with very large patients/subjects, and particularly while under general anesthesia or while sedated, padding must be scrupulously assessed to prevent burns. Another consideration in very large patients/subjects is the possibility of forming closed-loop tissued proximities and contacts, such that skin-to-skin contacts become more likely (e.g., between thighs, between abdominal panniculus and thigh, etc.). Thus, properly applied padding that serves as insulation is vital in this patient population. Strategies to reduce patient heating include using a detachable transmit-receive RF coil as well as choosing lower SAR and reducing scan time to minimize overall energy deposition in the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prisoners/Detainees"
+    },
+    {
+      "type": "paragraph",
+      "text": "MR scanning presents unique MR safety challenges for patients who are incarcerated. These patients may present wearing metallic or ferromagnetic handcuffs, ankle cuffs, or shackles. Accompanying correctional officers may be carrying ferromagnetic objects including guns or other weapons. Prior to the patient arriving at the MR department, notification to the corrections department for an alternative nonferromagnetic restraining option should be requested. MR screening of the patient and the accompanying correctional officer(s) should take place prior to entering Zone III. The accompanying officer(s) should be educated as to the static magnetic field–related safety issues and, if they agree following screening, should accompany the technologist into Zone IV for patient positioning and removal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ferromagnetic weapons should not be permitted into Zone III unless essential for maintenance of security. Firearms with ferromagnetic components pose a potential serious threat in Zone IV and can become dangerous projectiles and may discharge, resulting in a death, as described recently in 2023 [32,33]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Firearms represent potential projectiles and are a hazard to all if brought into Zone IV [32,33]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parolees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Patients on parole wearing metallic prisoner-monitoring devices such as radiofrequency identification (RFID) tags or tracking bracelets could theoretically lead to adverse events, including the following:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ferromagnetic attractive effects leading to patient injury"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ferromagnetic attractive effects leading to device/battery pack damage"
+    },
+    {
+      "type": "paragraph",
+      "text": "RF interference with the MRI study and secondary image artifact"
+    },
+    {
+      "type": "paragraph",
+      "text": "RF interference with the functionality of the device"
+    },
+    {
+      "type": "paragraph",
+      "text": "RF power deposition leading to heating of the bracelet, tagging device, or its circuitry, and secondary patient injury (if the bracelet is in the volume of the RF transmitter coil being used for imaging)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, in cases in which a patient wearing an RFID tag or tracking bracelet needs an MR examination, a request should be made to the appropriate authorities that the monitoring device be removed prior to the MR examination. At that time, it can also be determined if the appropriate authorities should be in attendance at the time of the scan. Plans for monitoring device replacement following the scan should also be made."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregnancy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregnant health care practitioners are permitted to work in and around the MR environment, including Zone III and IV, except in Zone IV during active scanning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Research studies have failed to demonstrate any reproducible harmful effects of exposure of the mother or developing fetus to 3-T or weaker static magnetic fields used in the routine clinical MRI practice. Nevertheless, the decision to proceed with an MR examination should be based on the medical benefits weighed against unknown potential risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an MR examination of a pregnant patient is indicated, the Level 2 MR Technologist should confirm that the Normal Operating Mode is selected."
+    },
+    {
+      "type": "paragraph",
+      "text": "The committee supports the recommendations of the ACR Manual on Contrast Media in relation to GBCM administration to pregnant or potentially pregnant patients."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pediatric"
+    },
+    {
+      "type": "paragraph",
+      "text": "Need enhanced screening for projectile risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Need special attention to body temperature (particularly neonates and infants)."
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR MR Safety Committee defers to the American Society of Anesthesiologists on pediatric sedation guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Claustrophobia, anxiety, sedation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adult and pediatric patient anxiolysis, sedation, analgesia, and anesthesia for any reason should follow established ACR, American Society of Anesthesiologists, and The Joint Commission standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Large body habitus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inherent increased risk of RF burns."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requires special attention to padding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prisoners/detainees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Notification to the corrections department for an alternative nonferromagnetic restraining option should be requested."
+    },
+    {
+      "type": "paragraph",
+      "text": "MR screening of the patient and the accompanying correctional officer(s) should take place prior to entering Zone III."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parolees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arrangements should be made with proper authorities to remove and replace RFID tags or tracking bracelets as needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY ABBREVIATIONSACR: American College of Radiology GBCM: gadolinium-based contrast material NICU: neonatal intensive care unitRF: radiofrequencyRFID: radiofrequency identificationSAR: specific absorption rateSOP: standard operating procedureT: teslaTJC: The Joint CommissionKEY ABBREVIATIONSACR: American College of Radiology GBCM: gadolinium-based contrast material NICU: neonatal intensive care unitRF: radiofrequencyRFID: radiofrequency identificationSAR: specific absorption rateSOP: standard operating procedureT: teslaTJC: The Joint Commission"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanal E, Gillen J, Evans JA, Savitz DA, Shellock FG. Survey of reproductive health among female MR workers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Radiology. 1993;187(2):395-9. doi: 10.1148/radiology.187.2.8475280"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hartwig V, Virgili G, Mattei F, et al. Occupational exposure to electromagnetic fields in magnetic resonance environment: an update on regulation, exposure assessment techniques, health risk evaluation, and surveillance. Med Biol Eng Comput. 2022;60(2):297-320. doi: 10.1007/s11517-021-02435-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "McRobbie DW. Occupational exposure in MRI. Br J Radiol. 2012;85(1012):293-312. doi: 10.1259/bjr/30146162"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chartier AL, Bouvier MJ, McPherson DR, Stepenosky JE, Taysom DA, Marks RM. The Safety of Maternal and Fetal MRI at 3 T. AJR Am J Roentgenol. 2019;213(5):1170-1173. doi: 10.2214/AJR.19.21400"
+    },
+    {
+      "type": "paragraph",
+      "text": "Copel J, El-Sayed Y, Phillips Heine R, Wharton KR; American College of Obstetricians and Gynecologists’ Committee on Obstetric Practice. Committee opinion no. 723: guidelines for diagnostic imaging during pregnancy and lactation. Obstet Gynecol. 2017;130(4):e210-e216. doi: 10.1097/AOG.0000000000002355"
+    },
+    {
+      "type": "paragraph",
+      "text": "Little JT, Bookwalter CA. Magnetic resonance safety: pregnancy and lactation. Magn Reson Imaging Clin N Am. 2020;28(4):509-516. doi: 10.1016/j.mric.2020.06.002"
+    },
+    {
+      "type": "paragraph",
+      "text": "American College of Radiology; Society for Pediatric Radiology. ACR-SPR practice parameter for the safe and optimal performance of fetal magnetic resonance imaging (MRI). Published 2015. Accessed April 22, 2024. https://www.acr.org/-/media/ACR/Files/Practice-Parameters/mr-fetal.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "Colletti PM. Chapter 11: MRI procedures and pregnancy. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022:306-332."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jaimes C, Delgado J, Cunnane MB, et al. Does 3-T fetal MRI induce adverse acoustic effects in the neonate? A preliminary study comparing postnatal auditory test performance of fetuses scanned at 1.5 and 3 T. Pediatr Radiol. 2019;49(1):37-45. doi: 10.1007/s00247-018-4261-2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Baker PN, Johnson IR, Harvey PR, Gowland PA, Mansfield P. A three-year follow-up of children imaged in utero with echo-planar magnetic resonance. Am J Obstet Gynecol. 1994;170(1 Pt 1):32-33. doi: 10.1016/s0002-9378(94)70379-5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glover P, Hykin J, Gowland P, Wright J, Johnson I, Mansfield P. An assessment of the intrauterine sound intensity level during obstetric echo-planar magnetic resonance imaging. Br J Radiol. 1995;68(814):1090-1094. doi: 10.1259/0007-1285-68-814-1090"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bulas D, Egloff A. Benefits and risks of MRI in pregnancy. Semin Perinatol. 2013;37(5):301-304. doi: 10.1053/j.semperi.2013.06.005"
+    },
+    {
+      "type": "paragraph",
+      "text": "Strizek B, Jani JC, Mucyo E, et al. Safety of MR imaging at 1.5 T in fetuses: a retrospective case-control study of birth weights and the effects of acoustic noise. Radiology. 2015;275(2):530-537. doi: 10.1148/radiol.14141382"
+    },
+    {
+      "type": "paragraph",
+      "text": "Machado-Rivas F, Cortes-Albornoz MC, Afacan O, et al. Fetal MRI at 3 T: principles to optimize success."
+    },
+    {
+      "type": "paragraph",
+      "text": "Radiographics. 2023;43(4):e220141. doi: 10.1148/rg.220141"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cannie MM, De Keyzer F, Van Laere S, et al. Potential heating effect in the gravid uterus by using 3-T MR imaging protocols: experimental study in miniature pigs. Radiology. 2016;279(3):754-761. doi: 10.1148/radiol.2015151258"
+    },
+    {
+      "type": "paragraph",
+      "text": "Levine D, Zuo C, Faro CB, Chen Q. Potential heating effect in the gravid uterus during MR HASTE imaging. J Magn Reson Imaging. 2001;13(6):856-861. doi: 10.1002/jmri.1122"
+    },
+    {
+      "type": "paragraph",
+      "text": "Committee Opinion No. 723: Guidelines for Diagnostic Imaging During Pregnancy and Lactation [published correction appears in Obstet Gynecol. 2018 Sep;132(3):786]. Obstet Gynecol. 2017;130(4):e210-e216. doi:10.1097/AOG.0000000000002355"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kallmes DF, Watson RE Jr. Gadolinium administration in undetected pregnancy: cause for alarm? Radiology. 2019;293(1):201-202. doi: 10.1148/radiol.2019191634"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR Committee on Drugs and Contrast Media. ACR Manual on Contrast Media. American College of Radiology; 2023. https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ray JG, Vermeulen MJ, Bharatha A, Montanera WJ, Park AL. Association between MRI exposure during pregnancy and fetal and childhood outcomes. JAMA. 2016;316(9):952-961. doi: 10.1001/jama.2016.12126"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bird ST, Gelperin K, Sahin L, et al. First-trimester exposure to gadolinium-based contrast agents: a utilization study of 4.6 million U.S. pregnancies. Radiology. 2019;293(1):193-200. doi: 10.1148/radiol.2019190563"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harris C. Chapter 29: MRI safety policies and procedures for a children’s hospital. In: Shellock FG, Crues JV III, eds. MRI Bioeffects, Safety, and Patient Management. 2nd ed. Biomedical Research Publishing Group; 2022:781-796."
+    },
+    {
+      "type": "paragraph",
+      "text": "Berson ER, Mozayan A, Peterec S, et al. A 1-Tesla MRI system for dedicated brain imaging in the neonatal intensive care unit. Front Neurosci. 2023;17:1132173. doi: 10.3389/fnins.2023.1132173"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don Paul JM, Perkins EJ, Pereira-Fantini PM, et al. Surgery and magnetic resonance imaging increase the risk of hypothermia in infants. J Paediatr Child Health. 2018;54(4):426-431. doi: 10.1111/jpc.13824"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dalal PG, Porath J, Parekh U, et al. A quality improvement project to reduce hypothermia in infants undergoing MRI scanning. Pediatr Radiol. 2016;46(8):1187-1198. doi: 10.1007/s00247-016-3592-0"
+    },
+    {
+      "type": "paragraph",
+      "text": "Committee on Standards and Practice Parameters; American Society of Anesthesiologists. Standards for basic anesthetic monitoring. Published December 13, 2020. Accessed April 22, 2024. https://www.asahq.org/standards-and-practice-parameters/standards-for-basic-anesthetic-monitoring"
+    },
+    {
+      "type": "paragraph",
+      "text": "Committee on Standards and Practice Parameters; American Society of Anesthesiologists. Standards for postanesthesia care. Published October 23, 2019. Accessed April 22, 2024. https://www.asahq.org/standards-and-practice-parameters/standards-for-postanesthesia-care"
+    },
+    {
+      "type": "paragraph",
+      "text": "Committee on Standards and Practice Parameters; American Society of Anesthesiologists. Statement on non-operating room anesthetizing locations. Published October 17, 2018. Accessed April 22, 2024. https://www.asahq.org/standards-and-practice-parameters/statement-on-nonoperating-room-anesthesia-services"
+    },
+    {
+      "type": "paragraph",
+      "text": "Coté CJ, Wilson S; American Academy of Pediatrics; American Academy of Pediatric Dentistry. Guidelines for monitoring and management of pediatric patients before, during, and after sedation for diagnostic and therapeutic procedures. Pediatrics. 2019;143(6):e20191000. doi: 10.1542/peds.2019-1000"
+    },
+    {
+      "type": "paragraph",
+      "text": "American College of Radiology; Society of Interventional Radiology. ACR–SIR practice parameter for minimal and/or moderate sedation/analgesia. Published 2020. Accessed April 22, 2024. https://www.acr.org/-"
+    },
+    {
+      "type": "paragraph",
+      "text": "/media/ACR/Files/Practice-Parameters/Sed-Analgesia.pdf?la=en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Joint Commission. Report no. TX 2-2: standards and intents of sedations and anesthesia care. Comprehensive Accreditation Manual for Hospitals. Joint Commission on Accreditation of Healthcare Organizations; 2002."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanal E, Shaibani A. Firearm safety in the MR imaging environment. Radiology. 1994;193(3):875-876. doi: 10.1148/radiology.193.3.7972840"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beitia AO, Meyers SP, Kanal E, Bartell W. Spontaneous discharge of a firearm in an MR imaging environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "AJR Am J Roentgenol. 2002;178(5):1092-1094. doi: 10.2214/ajr.178.5.1781092"
+    }
+  ]
+}

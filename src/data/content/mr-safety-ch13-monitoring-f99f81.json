@@ -1,0 +1,60 @@
+{
+  "id": "mr-safety-ch13-monitoring-f99f81",
+  "title": "Chapter 13: Physiological Monitoring | MRI Safety Manual",
+  "source": "mr-safety-ch13-monitoring.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Auto-extracted from mr-safety.docx. Verify locally against the official manual for clinical use."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full Text"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAPTER 13:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Physiological Monitoring of Patients"
+    },
+    {
+      "type": "paragraph",
+      "text": "Visual and audio monitoring are basic required monitoring processes used for patients and research subjects. Additional physiological monitoring for patients during MR examinations is often necessary. Physiological monitoring techniques should be carefully selected, primarily because of the risk of thermal injury associated with monitoring equipment in the MR environment. While not all radiofrequency-induced thermal injuries can be detected as they are developing, sedated, anesthetized, or unconscious patients are especially vulnerable to such injuries, as they are unable to provide the operator with adequate warning of developing thermal injuries. The potential for heating scales with the magnetic field exists, at least theoretically, at all MRI field strengths. When needed, MR Conditional electrocardiogram (ECG) and electroencephalogram electrodes should be used, and leads should be positioned per the manufacturers’ direction during the scan [1]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Distortion of the ECG within the magnetic field, particularly during sequence acquisition, can make interpretation of the ECG unreliable, even with filtering used by contemporary monitoring systems. For example, T-wave elevation is frequently noted [2]. ECG recordings in MRI are unreliable and may demonstrate ST segment elevation or depression due to the magnetohydrodynamic effect. This may simulate or mask cardiac infarction (discussed in Lenz effects)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Routine monitoring of the patient’s heart rate and rhythm may also be accomplished with an MR Conditional pulse oximeter, with careful attention to the instructions for use."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional physiological monitoring devices exist, including indwelling temperature probes and intracranial pressure monitors, and their conditions for safe scanning should be followed carefully in accordance with MRI labeling."
+    },
+    {
+      "type": "paragraph",
+      "text": "KEY POINTSMonitoring techniques should be selected and carefully implemented following manufacturer’s MR Conditional instructions because of the risk of thermal injury.KEY POINTSMonitoring techniques should be selected and carefully implemented following manufacturer’s MR Conditional instructions because of the risk of thermal injury.KEY ABBREVIATIONSECG: electrocardiogram EEG: electroencephalogram IFU: instructions for use MHD: magnetohydrodynamic T: teslaKEY ABBREVIATIONSECG: electrocardiogram EEG: electroencephalogram IFU: instructions for use MHD: magnetohydrodynamic T: tesla"
+    },
+    {
+      "type": "paragraph",
+      "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abdel-Rehim S, Bagirathan S, Al-Benna S, O’Boyle C. Burns from ECG leads in an MRI scanner: Case series and discussion of mechanisms. Ann Burns Fire Disasters. 2014;27(4):215-218."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gupta A, Weeks AR, Richie SM. Simulation of elevated T-waves of an ECG inside a static magnetic field (MRI)."
+    },
+    {
+      "type": "paragraph",
+      "text": "IEEE Trans Biomed Eng. 2008;55(7):1890-1896. doi: 10.1109/TBME.2008.919868"
+    }
+  ]
+}

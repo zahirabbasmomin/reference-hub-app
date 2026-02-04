@@ -1,0 +1,31 @@
+{
+  "id": "criticalresults-6ad908",
+  "title": "Wellstar Critical Results",
+  "source": "criticalresults.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Critical results requiring prompt communication. The original document notes that underlined items are tracked as 30-minute metrics, and highlighted items are stroke program metrics."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Acute/Significant cord compression, including bowel/bladder dysfunction",
+        "New/Unexpected aortic dissection",
+        "AAA with acute rupture",
+        "New/Unexpected intracranial hemorrhage",
+        "Pneumothorax, new/unexpected or significant enlargement",
+        "New/Unexpected pneumoperitoneum",
+        "Testicular/ovarian torsion",
+        "Unexpected intra-abdominal foreign body",
+        "New/Unexpected deep venous thrombosis (DVT)",
+        "New/Unexpected pulmonary embolus (PE)",
+        "New/Unexpected ectopic pregnancy",
+        "New or changing acute stroke",
+        "Stroke protocol studies require communication with time documentation for metrics",
+        "Acute unstable spine fractures",
+        "Evidence of severe airway compromise on soft tissue radiographs or CT"
+      ]
+    }
+  ]
+}

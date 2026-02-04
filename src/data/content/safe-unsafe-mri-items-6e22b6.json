@@ -1,0 +1,76 @@
+{
+  "id": "safe-unsafe-mri-items-6e22b6",
+  "title": "Safe & Unsafe MRI Items",
+  "source": "safe-unsafe-mri-items.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: mri_safety/MRISafety.xlsx. Two tabs transcribed: Unsafe and Safe."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Unsafe Items"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Aneurysm Clips (unless card stating safe at 1.5T or 3.0T). Do not perform on HFO 1.0T. Unsafe Clips: Drake, Heifetz, Housepian, Lapp, Mayfield, McFadden, Pivot, Sundt-Kees, Vari-Angle, Yarsargil FD",
+        "Bladder Stimulators",
+        "Cardiac Pacemakers/Implantable Cardiac Defibrillators/Retained Pacer Wires New MR Compatible Pacemaker is safe under WellStar/Quantum protocol",
+        "Cochlear Implants",
+        "Drug Delivery Patches (must remove)",
+        "Illizarov-Taylor Frames",
+        "Intra-Ocular Ferrous Foreign Bodies",
+        "Infusion/Insulin Pumps (unless card stating safe)",
+        "Gastric Electrical Stimulators (unless card stating safe)",
+        "External Hearing Aides (must remove)",
+        "Ossicular/Otologic/Stapes Implants (unless card stating safe)",
+        "Penile Implants (unless card stating safe)",
+        "Phrenic/Vagus Nerve Stimulators (unless card stating safe)",
+        "Pill Cam Endoscopy Device (must verify excretion, check with KUB)",
+        "Spinal Cord Stimulators",
+        "Neurostimulation/Neuromodulation Systems (unless card stating safe)",
+        "Steel Halo Vests (MR compatible vests are safe)",
+        "Tissue (Breast) Expanders (unless card stating safe)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Safe Items"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Cardiac Stents (wait 6-8 weeks, can image earlier at discretion of radiologist, can perform on 3.0T or 1.5T unless card says otherwise, avoid imaging on HFO 1.0T unless card has gauss limits up to 2200 g/cm)",
+        "Carotid, Peripheral, Intracranial and Biliary Stents (wait 6-8 weeks, can image earlier at discretion of radiologist, can perform on 3.0T or 1.5T unless card says otherwise, avoid imaging on HFO 1.0T unless card has gauss limits up to 2200 g/cm); Exception is Zenith AAA Endograft Stent, which is unsafe",
+        "Craniectomy/otomy Plates and Screws, Burhole Covers",
+        "ECG Electrodes (place MR compatible electrodes)",
+        "Essure Device (safe at 1.0T, 1.5T, 3.0T)",
+        "Dental Implants, Devices, and Materials",
+        "Scleral Buckles",
+        "IUD Devices",
+        "IUS (Miena IntraUterine System)",
+        "Implanon Implant (Etorogestrel)",
+        "Bone Fusion Stimulator (safe at 1.5T only)",
+        "Foley Catheters (unless temperature sensor than unsafe)",
+        "Heart Valves and Annuloplasty Rings",
+        "Ocular and Lens Implants (all Safe, except for Fatio Eyelid Spring/Wire Ocular, Martensiti SS Ocular, Troutman Magnetic Ocular Implant, Unitech Round Wire Eye Spring, Wide Angle IMT Lens Implant)",
+        "Orthopedic Implants/Spinal Hardware/Orthopedic Screws",
+        "PDA, ASD, VSD, TAVR, and Patent Foramen Ovale Closure Devices (wait 6-8 weeks, can image earlier at discretion of radiologist and can image on 1.5T or 3.0T unless card states otherwise, avoid HFO 1.0T)",
+        "Pessary/Pessaries",
+        "Pregnant Patients (Can image on 3.0T, 1.5T, 1.0T; Gadolinium only with radiologist approval)",
+        "Programmable Ventricular Shunts (provided set to be reprogrammed by neurosurgery)",
+        "Radioactive Prostate Seed Implants",
+        "Surgical Clips, Sutures, Fasteners",
+        "Tattoos/Permanent Eyeliner (instruct patient on possible heating and terminate if patient discomfort)",
+        "Vascular Access Ports/Lines (must remove any guidewires prior to imaging)",
+        "Vena Cava Filters (wait 6-8 weeks, can image earlier at discretion of radiologist and can image on 3.0T, 1.5T or 1.0T)",
+        "Glaucoma Drainage Implants (Shunt Tubes)",
+        "Palatal System Implant for sleep disordered breathing (only at 1.5T with a max spatial gradient of 250 g/cm and max SAR 3.5 w/kg per 15 min per sequence)",
+        "Implantable ECG Monitoring System (only at 1.5T with max, spatial gradient of 250 g/cm and max SAR of 3.5 w/kg per 15 min per sequence)"
+      ]
+    }
+  ]
+}

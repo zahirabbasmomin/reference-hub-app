@@ -1,0 +1,85 @@
+{
+  "title": "Fleischner Guidelines for Follow Up",
+  "version": "2017",
+  "sections": [
+    {
+      "heading": "Solid Nodules",
+      "description": "2017 Fleischner Society recommendations for incidental solid pulmonary nodules.",
+      "columns": [
+        "Scenario",
+        "<6 mm (<100 mm^3)",
+        "6-8 mm (100-250 mm^3)",
+        ">8 mm (>250 mm^3)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Single  Low risk",
+          "No routine follow-up",
+          "CT at 6-12 months, then consider CT at 18-24 months",
+          "Consider CT at 3 months, PET/CT, or tissue sampling",
+          "Nodules <6 mm do not require routine follow-up in low-risk patients (recommendation 1A)."
+        ],
+        [
+          "Single  High risk",
+          "Optional CT at 12 months",
+          "CT at 6-12 months, then CT at 18-24 months",
+          "Consider CT at 3 months, PET/CT, or tissue sampling",
+          "Certain patients at high risk with suspicious nodule morphology, upper lobe location, or both may warrant 12-month follow-up (recommendation 1A)."
+        ],
+        [
+          "Multiple  Low risk",
+          "No routine follow-up",
+          "CT at 3-6 months, then consider CT at 18-24 months",
+          "CT at 3-6 months, then consider CT at 18-24 months",
+          "Use most suspicious nodule as guide to management. Follow-up intervals may vary according to size and risk (recommendation 2A)."
+        ],
+        [
+          "Multiple  High risk",
+          "Optional CT at 12 months",
+          "CT at 3-6 months, then at 18-24 months",
+          "CT at 3-6 months, then at 18-24 months",
+          "Use most suspicious nodule as guide to management. Follow-up intervals may vary according to size and risk (recommendation 2A)."
+        ]
+      ]
+    },
+    {
+      "heading": "Subsolid Nodules",
+      "description": "Management for pure ground-glass and part-solid incidental nodules.",
+      "columns": [
+        "Scenario",
+        "<6 mm (<100 mm^3)",
+        ">=6 mm (>=100 mm^3)",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Single  Ground glass",
+          "No routine follow-up",
+          "CT at 6-12 months to confirm persistence, then CT every 2 years until 5 years",
+          "In certain suspicious nodules <6 mm, consider follow-up at 2 and 4 years. If solid component(s) or growth develops, consider resection (recommendations 3A and 4A)."
+        ],
+        [
+          "Single  Part solid",
+          "No routine follow-up",
+          "CT at 3-6 months to confirm persistence. If unchanged and solid component remains <6 mm, annual CT should be performed for 5 years",
+          "In practice, part-solid nodules cannot be defined as such until >=6 mm, and nodules <6 mm do not usually require follow-up. Persistent part-solid nodules with solid components >=6 mm should be considered highly suspicious (recommendations 4A-4C)."
+        ],
+        [
+          "Multiple  Subsolid",
+          "CT at 3-6 months. If stable, consider CT at 2 and 4 years",
+          "CT at 3-6 months. Subsequent management based on the most suspicious nodule(s)",
+          "Multiple <6 mm pure ground-glass nodules are usually benign, but consider follow-up in selected patients at high risk at 2 and 4 years (recommendation 5A)."
+        ]
+      ]
+    },
+    {
+      "heading": "Notes",
+      "items": [
+        "Use the most suspicious nodule to guide management when multiple nodules are present.",
+        "Applies to adults >=35 years with incidental nodules; not for screening, known primary cancer, or immunosuppression.",
+        "Consider patient-specific risk factors when selecting follow-up intervals and modalities."
+      ]
+    }
+  ]
+}

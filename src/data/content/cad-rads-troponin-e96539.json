@@ -1,0 +1,58 @@
+{
+  "id": "cad-rads-troponin-e96539",
+  "title": "CAD-RADS 2.0 - Troponin Sources (Table 9)",
+  "source": "cad-rads-troponin.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Source: cad-rads/ryct (6).webp. Adapted from \"Causes on Troponin Elevation and Associated Mortality in Younger Patients (60).\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cardiac"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Myocardial infarction",
+        "Myocardial injury",
+        "Myocarditis/myocardial inflammation",
+        "Infiltrative heart disease (amyloid, sarcoidosis)",
+        "Cardiomyopathy (e.g. stress cardiomyopathy)",
+        "Recent ablation/defibrillation"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vascular"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pulmonary embolism/pulmonary hypertension",
+        "Aortic dissection"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Other"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Central nervous system pathology (e.g. stroke, seizure)",
+        "Kidney disease",
+        "Chest wall trauma",
+        "Rhabdomyolysis/myositis",
+        "Chemotherapy",
+        "Metastatic disease",
+        "Inherited conditions (e.g. muscular dystrophy)",
+        "Carbon monoxide",
+        "Infectious"
+      ]
+    }
+  ]
+}

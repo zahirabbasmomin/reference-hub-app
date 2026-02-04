@@ -1,0 +1,26 @@
+{
+  "id": "kennestone-hospital-contacts-431b88",
+  "title": "Kennestone Hospital Contacts",
+  "source": "kennestone-hospital-contacts.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contacts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pulled from Chief Technologists & Modality Contacts and Medical Imaging Management directories."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chief Technologists & Modality Contacts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Imaging Management Contacts"
+    }
+  ]
+}

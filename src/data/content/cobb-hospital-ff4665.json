@@ -1,0 +1,11 @@
+{
+  "id": "cobb-hospital-ff4665",
+  "title": "Cobb Hospital",
+  "source": "cobb-hospital.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Loading directory..."
+    }
+  ]
+}

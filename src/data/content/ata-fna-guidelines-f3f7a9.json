@@ -1,0 +1,139 @@
+{
+  "id": "ata-fna-guidelines-f3f7a9",
+  "title": "ATA FNA Guidelines (Section A10)",
+  "source": "ata-fna-guidelines.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source: ATA 2015 Thyroid Nodule Guidelines, Section A10 (Recommendations for diagnostic FNA based on sonographic pattern)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "US survey of thyroid and cervical lymph nodes is required for all suspected thyroid nodules.",
+        "FNA is the procedure of choice when clinically indicated; thresholds are driven by sonographic risk pattern and size.",
+        "Patterns: high, intermediate, low, very low suspicion, and benign; each carries a malignancy risk band and FNA size cutoff.",
+        "Suspicious cervical lymph nodes should be biopsied and trigger FNA of likely primary even if subcentimeter.",
+        "Elastography may aid risk assessment when available, but evidence is variable; it should not replace gray-scale US."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recommendation 8 & FNA Thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnostic FNA indications by sonographic pattern and size (Fig. 2, Table 6)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonographic Pattern Definitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use in tandem with size thresholds above."
+    },
+    {
+      "type": "list",
+      "items": [
+        "High suspicion: solid hypoechoic (or hypoechoic solid part of cystic) with any of irregular margins (infiltrative, microlobulated, spiculated), microcalcifications, taller-than-wide shape, disrupted rim calcification with extrusive soft tissue, or extrathyroidal extension.",
+        "Intermediate suspicion: hypoechoic solid with smooth margins, no microcalcifications, no extrathyroidal extension, not taller-than-wide.",
+        "Low suspicion: isoechoic/hyperechoic solid, or partially cystic with eccentric solid areas, without microcalcifications, irregular margin, extrathyroidal extension, or taller-than-wide shape.",
+        "Very low suspicion: spongiform or partially cystic without any high/intermediate/low suspicious features.",
+        "Benign: purely cystic (no solid component)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Table 6. Sonographic Patterns & FNA Guidance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Direct transcription of ATA Table 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "US-guided FNA recommended for sonographically suspicious cervical lymph nodes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Algorithm (Fig. 1)"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_eb50c7b7d8",
+      "alt": "ATA algorithm for evaluation and management of thyroid nodules based on US pattern and FNA cytology"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. ATA algorithm for evaluation and management of patients with thyroid nodules based on US pattern and FNA cytology."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonographic Patterns (Fig. 2)"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c05c33a567",
+      "alt": "ATA nodule sonographic patterns and risk of malignancy (ultrasound examples only)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 2. ATA nodule sonographic patterns and risk of malignancy (ultrasound examples)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Risk Pattern Details"
+    },
+    {
+      "type": "paragraph",
+      "text": "High suspicion nodules >=1 cm should undergo FNA; micropapillary cancers <1 cm are often indolent but may grow or produce nodal metastases, especially in patients <40 years. Intermediate suspicion nodules >=1 cm merit FNA. Low suspicion nodules (iso/hyperechoic or partially cystic with smooth eccentric solid areas) merit FNA at >=1.5 cm. Very low suspicion (spongiform/partially cystic without worrisome features) carry <3% risk; FNA may be deferred until >=2 cm and observation is reasonable. Pure cysts are benign; no diagnostic FNA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonographically suspicious cervical lymph nodes (microcalcifications, cystic change, peripheral vascularity, hyperechogenicity, round shape) warrant FNA and Tg washout as indicated; subcentimeter primary nodules should be sampled if nodes are suspicious."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Table 7. Ultrasound Features of Malignant Lymph Nodes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sensitivities and specificities as reported in ATA Table 7."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adapted with permission from European Thyroid Association cervical US guidelines (as cited in ATA Table 7)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Elastography Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultrasound elastography (USE) can provide tissue stiffness estimates but performance is variable and operator dependent. It applies best to solid nodules without overlapping structures and is not a substitute for gray-scale US. Limited availability and lower positive predictive value mean USE should not change the recommendation to perform standard gray-scale sonography; consider in selected cases as adjunctive risk assessment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "type": "paragraph",
+      "text": "ATA 2015 Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer, Section A10. Local file: ata.pdf; pages 13-16 extracted to ata-p-013.png, ata-p-014.png, ata-p-015.png, ata-p-016.png."
+    }
+  ]
+}

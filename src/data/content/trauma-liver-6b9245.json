@@ -1,0 +1,15 @@
+{
+  "id": "trauma-liver-6b9245",
+  "title": "Liver Injury Grading",
+  "source": "trauma-liver.html",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Matches grade, injury type, or description."
+    },
+    {
+      "type": "paragraph",
+      "text": "Loading injury table..."
+    }
+  ]
+}

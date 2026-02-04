@@ -1,0 +1,670 @@
+{
+  "id": "management-of-incidental-pituitary-findings-on-ct-mri-and-18f-fluorodeoxyglucose-pet-989efc",
+  "title": "Management of Incidental Pituitary Findings on CT, MRI, and 18F-Fluorodeoxyglucose PET: A White Paper of the ACR Incidental Findings Committee - Journal of the American College of Radiology",
+  "source": "Management of Incidental Pituitary Findings on CT, MRI, and 18F-Fluorodeoxyglucose PET.html",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Login to your account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't remember your password, you can reset it by entering your email address and clicking the Reset Password button. You will then receive an email that contains a secure link for resetting your password"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the address matches a valid account an email will be sent to __email__ with instructions for resetting your password"
+    },
+    {
+      "type": "table",
+      "columns": [
+        "Property",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Status"
+        ],
+        [
+          "Version"
+        ],
+        [
+          "Ad File"
+        ],
+        [
+          "Disable Ads Flag"
+        ],
+        [
+          "Environment"
+        ],
+        [
+          "Moat Init"
+        ],
+        [
+          "Moat Ready"
+        ],
+        [
+          "Contextual Ready"
+        ],
+        [
+          "Contextual URL"
+        ],
+        [
+          "Contextual Initial Segments"
+        ],
+        [
+          "Contextual Used Segments"
+        ],
+        [
+          "AdUnit"
+        ],
+        [
+          "SubAdUnit"
+        ],
+        [
+          "Custom Targeting"
+        ],
+        [
+          "Ad Events"
+        ],
+        [
+          "Invalid Ad Sizes"
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_beaa7785cf",
+      "alt": "Cover Image - Journal of the American College of Radiology, Volume 15, Issue 7"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Email",
+        "X",
+        "Facebook",
+        "LinkedIn",
+        "Sina Weibo",
+        "Add to Mendeley",
+        "bluesky"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Email",
+        "X",
+        "Facebook",
+        "LinkedIn",
+        "Sina Weibo",
+        "Add to Mendeley",
+        "Bluesky"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download PDFDownload PDF",
+        "Cite",
+        "Set Alert",
+        "Get Rights",
+        "Reprints"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Download started"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key Words"
+    },
+    {
+      "type": "list",
+      "items": [
+        "pituitary lesion",
+        "Rathkes cleft cyst",
+        "incidental",
+        "pituitary adenoma"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview of the ACR Incidental Findings Project"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Consensus Process: Management of Incidental Pituitary Findings"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Elements of the Flowcharts: Color Coding"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nature and Scope of the Problem"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Implications and Risks of Incidental Pituitary Lesions Detected on CT or MRI"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Incidental Pituitary Lesions on FDG PET"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting Considerations"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Management of Incidental Pituitary Lesions Detected on MRI and CT"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Management of Incidental Pituitary Lesions Detected on FDG PET"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inclusion and Exclusion Criteria for Use of the Algorithm"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1b1f60859e",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig 1 Flowchart for incidental pituitary lesions detected on CT or MRI."
+    },
+    {
+      "type": "image",
+      "assetId": "asset_03f3fe3251",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig 2 Flowchart for incidental pituitary lesions detected on FDG PET, regardless of metabolic activity."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Implications of Imaging and Clinical Features"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Five Common Principles of our Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overview of the Algorithm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Management of Incidental Pituitary Lesions Detected on CT and MRI"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Simple Cyst"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Solid (or Mixed Solid-Cystic) Pituitary Lesion, <5 mm"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Solid (or Mixed Solid-Cystic) Pituitary Lesion, 5 to 10 mm"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Solid (or Mixed Solid-Cystic) Pituitary Lesion, >10 mm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Management of Incidental Pituitary Lesions Detected on FDG to PET"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Imaging Protocol Optimization"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Take-Home Points"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Figures (2)Figure Viewer"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1b1f60859e",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_03f3fe3251",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Article metrics"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_415de301dd",
+      "alt": "Plum X logo"
+    },
+    {
+      "type": "list",
+      "items": [
+        "43 Citations 52 Captures View details opens in a new tab"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Related articles (40)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patel et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Khosa et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Patel et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sebastian et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Heller et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Berland et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Mayo-Smith et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Munden et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Herts et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Gore et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moonis et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Munden et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Megibow et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hoang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Berland et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lincoln L. Berland"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lee et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abu-Yousef et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Paulson et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Bobbin et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dyer et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Moore et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Johnson et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lincoln L. Berland"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Borra et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Samim et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Crable et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Stephen D. Brown"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Gurwara et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Baccei et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Verdini et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kang et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Shah et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kapoor et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Zygmont et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Melzer et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Lehnert et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Reinhold et al."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Smith et al."
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1b1f60859e",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_03f3fe3251",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_1b1f60859e",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "assetId": "asset_03f3fe3251",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fig 1",
+        "Fig 2"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Download .PPT"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The content on this site is intended for healthcare professionals."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Privacy Policy",
+        "Terms and Conditions",
+        "Accessibility",
+        "Help & Contact"
+      ]
+    },
+    {
+      "type": "image",
+      "assetId": "asset_9ba7e0a66f",
+      "alt": "RELX"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c5af3eb24b",
+      "alt": "Company Logo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cookie Preference Center"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_24226535d6",
+      "alt": "Cookie Settings | Your Privacy Choices"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Manage Consent Preferences"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Strictly Necessary Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Functional Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Performance Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Targeting Cookies"
+    },
+    {
+      "type": "paragraph",
+      "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cookie List"
+    },
+    {
+      "type": "image",
+      "assetId": "asset_c9c1bff73b",
+      "alt": "Powered by Onetrust"
+    }
+  ]
+}
